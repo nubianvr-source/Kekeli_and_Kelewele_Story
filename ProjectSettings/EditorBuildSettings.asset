@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FungusExamples/TheHunter/TheHunter.unity
+    guid: 7456307ca6764419c87a92bb5351630d
   m_configObjects: {}

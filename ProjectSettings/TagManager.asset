@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 774694075
+    locked: 0
+  - name: StaticBG
+    uniqueID: 71939121
+    locked: 0
+  - name: InteractiveBG
+    uniqueID: 1934465541
+    locked: 0
+  - name: Characters
+    uniqueID: 3535046317
+    locked: 0
+  - name: Foreground
+    uniqueID: 714061093
+    locked: 0

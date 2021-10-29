@@ -6,11 +6,20 @@ using UnityEngine.UI;
 public class StoryManager : MonoBehaviour
 {
 
-    public List<GameObject> allGameObjects;
+    public GameObject[] pages;
+
+    void Awake()
+    {
+        foreach (var i in pages)
+        {
+            i.SetActive(true);
+        }
+    }
+
     // Start is called before the first frame update
     void Start()
     {
-        //allGameObjects = FindObjectOfType<GameObject>();
+       
 
     }
 

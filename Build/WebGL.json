@@ -1,7 +1,7 @@
 {
 "companyName": "DefaultCompany",
 "productName": "Kekeli_and_Kelewele_Story",
-"productVersion": "0.0.13",
+"productVersion": "0.0.14",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",

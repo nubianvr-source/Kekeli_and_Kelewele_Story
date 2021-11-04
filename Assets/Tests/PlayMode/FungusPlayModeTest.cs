@@ -11,11 +11,11 @@ namespace Fungus.Tests
     [TestFixture]
     public class FungusPlayModeTest
     {
-        [UnityTest]
+        /*[UnityTest]
         public IEnumerator Looping()
         {
             yield return EditorUtils.TestUtils.RunPrefabFlowchartTests("LoopTest", true, 200);
-        }
+        }*/
 
         [UnityTest]
         public IEnumerator ControlFlow()

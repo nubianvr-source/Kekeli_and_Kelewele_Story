@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 0abff23d99d2c884ebc9447619aaaca3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2654725685573946135
+    second: AromaAnimationSpriteSheet-2_0
+  - first:
+      213: 6714710557011338797
+    second: AromaAnimationSpriteSheet-2_1
+  - first:
+      213: 3082323929251530526
+    second: AromaAnimationSpriteSheet-2_2
+  - first:
+      213: 4938699857788451904
+    second: AromaAnimationSpriteSheet-2_3
+  - first:
+      213: 7094657236399651686
+    second: AromaAnimationSpriteSheet-2_4
+  - first:
+      213: -6344619609730037922
+    second: AromaAnimationSpriteSheet-2_5
+  - first:
+      213: -6109894138259542516
+    second: AromaAnimationSpriteSheet-2_6
+  - first:
+      213: 3922867957773507129
+    second: AromaAnimationSpriteSheet-2_7
+  - first:
+      213: 6140434262693369483
+    second: AromaAnimationSpriteSheet-2_8
+  - first:
+      213: -7468931435370680605
+    second: AromaAnimationSpriteSheet-2_9
+  - first:
+      213: 8648172456230045706
+    second: AromaAnimationSpriteSheet-2_10
+  - first:
+      213: 6962933613807800142
+    second: AromaAnimationSpriteSheet-2_11
+  - first:
+      213: 5991865942102800721
+    second: AromaAnimationSpriteSheet-2_12
+  - first:
+      213: -7120382210450679032
+    second: AromaAnimationSpriteSheet-2_13
+  - first:
+      213: -2880557546285472614
+    second: AromaAnimationSpriteSheet-2_14
+  - first:
+      213: -2172152405327549160
+    second: AromaAnimationSpriteSheet-2_15
+  - first:
+      213: 1328895219394957183
+    second: AromaAnimationSpriteSheet-2_16
+  - first:
+      213: 3130156410993281615
+    second: AromaAnimationSpriteSheet-2_17
+  - first:
+      213: 8798833934198130902
+    second: AromaAnimationSpriteSheet-2_18
+  - first:
+      213: -1951885019417429299
+    second: AromaAnimationSpriteSheet-2_19
+  - first:
+      213: 5221900837491960583
+    second: AromaAnimationSpriteSheet-2_20
+  - first:
+      213: 3076204855121058462
+    second: AromaAnimationSpriteSheet-2_21
+  - first:
+      213: -4584198378288584451
+    second: AromaAnimationSpriteSheet-2_22
+  - first:
+      213: -3649613836618241219
+    second: AromaAnimationSpriteSheet-2_23
+  - first:
+      213: -4940453216715408773
+    second: AromaAnimationSpriteSheet-2_24
+  - first:
+      213: -1483677286144590644
+    second: AromaAnimationSpriteSheet-2_25
+  - first:
+      213: -4255047183480145478
+    second: AromaAnimationSpriteSheet-2_26
+  - first:
+      213: -623251784224481246
+    second: AromaAnimationSpriteSheet-2_27
+  - first:
+      213: 8871838915445436084
+    second: AromaAnimationSpriteSheet-2_28
+  - first:
+      213: -2658822298207447246
+    second: AromaAnimationSpriteSheet-2_29
+  - first:
+      213: -8302592721286245101
+    second: AromaAnimationSpriteSheet-2_30
+  - first:
+      213: 1710939084964398582
+    second: AromaAnimationSpriteSheet-2_31
+  - first:
+      213: 4263219390506904225
+    second: AromaAnimationSpriteSheet-2_32
+  - first:
+      213: 1403534036403547592
+    second: AromaAnimationSpriteSheet-2_33
+  - first:
+      213: -9197685835217061872
+    second: AromaAnimationSpriteSheet-2_34
+  - first:
+      213: -970202612849136355
+    second: AromaAnimationSpriteSheet-2_35
+  - first:
+      213: 527368486116731828
+    second: AromaAnimationSpriteSheet-2_36
+  - first:
+      213: -4898117059769098025
+    second: AromaAnimationSpriteSheet-2_37
+  - first:
+      213: -8783855873942817977
+    second: AromaAnimationSpriteSheet-2_38
+  - first:
+      213: -42968470284961623
+    second: AromaAnimationSpriteSheet-2_39
+  - first:
+      213: -730401413724756747
+    second: AromaAnimationSpriteSheet-2_40
+  - first:
+      213: -4151555760957887273
+    second: AromaAnimationSpriteSheet-2_41
+  - first:
+      213: 6305036365723987634
+    second: AromaAnimationSpriteSheet-2_42
+  - first:
+      213: -1649739888663880768
+    second: AromaAnimationSpriteSheet-2_43
+  - first:
+      213: 9047895075986665865
+    second: AromaAnimationSpriteSheet-2_44
+  - first:
+      213: 5989918562560612949
+    second: AromaAnimationSpriteSheet-2_45
+  - first:
+      213: 715388913038360821
+    second: AromaAnimationSpriteSheet-2_46
+  - first:
+      213: 8316366481805795588
+    second: AromaAnimationSpriteSheet-2_47
+  - first:
+      213: -8825697637466761101
+    second: AromaAnimationSpriteSheet-2_48
+  - first:
+      213: 2663889894435998527
+    second: AromaAnimationSpriteSheet-2_49
+  - first:
+      213: 2951578802796843712
+    second: AromaAnimationSpriteSheet-2_50
+  - first:
+      213: 4348976834623091930
+    second: AromaAnimationSpriteSheet-2_51
+  - first:
+      213: 9063567220930777969
+    second: AromaAnimationSpriteSheet-2_52
+  - first:
+      213: -5420060597637749152
+    second: AromaAnimationSpriteSheet-2_53
+  - first:
+      213: 3466675829368371909
+    second: AromaAnimationSpriteSheet-2_54
+  - first:
+      213: 7413095945978680942
+    second: AromaAnimationSpriteSheet-2_55
+  - first:
+      213: -3053845077682103344
+    second: AromaAnimationSpriteSheet-2_56
+  - first:
+      213: -777853889192534599
+    second: AromaAnimationSpriteSheet-2_57
+  - first:
+      213: -3833973009150816164
+    second: AromaAnimationSpriteSheet-2_58
+  - first:
+      213: 2782827163070954117
+    second: AromaAnimationSpriteSheet-2_59
+  - first:
+      213: -5544071223143315607
+    second: AromaAnimationSpriteSheet-2_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5630
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b8db812fa77d420800000000000000
+      internalID: 2654725685573946135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_1
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 5630
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26e930fca17f2d50800000000000000
+      internalID: 6714710557011338797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_2
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 5630
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1749b5684d96ca20800000000000000
+      internalID: 3082323929251530526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_3
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 5630
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cb0c3ba59c98440800000000000000
+      internalID: 4938699857788451904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_4
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 5630
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b71cada29457260800000000000000
+      internalID: 7094657236399651686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_5
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 5630
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e574017841263f7a0800000000000000
+      internalID: -6344619609730037922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5067
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e6cc127ab453ba0800000000000000
+      internalID: -6109894138259542516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_7
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 5067
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a1ad39f93d07630800000000000000
+      internalID: 3922867957773507129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_8
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 5067
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d972bd64373550800000000000000
+      internalID: 6140434262693369483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_9
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 5067
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee6bfe7e66095890800000000000000
+      internalID: -7468931435370680605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_10
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 5067
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c8e9670b740870800000000000000
+      internalID: 8648172456230045706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_11
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 5067
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f04a50b3f41a060800000000000000
+      internalID: 6962933613807800142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4504
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1597cccf352672350800000000000000
+      internalID: 5991865942102800721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_13
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 4504
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9311ea125f2d90800000000000000
+      internalID: -7120382210450679032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_14
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 4504
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94659a6c243608d0800000000000000
+      internalID: -2880557546285472614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_15
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 4504
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de07a55e6fad1e0800000000000000
+      internalID: -2172152405327549160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_16
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 4504
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f40c7492f217210800000000000000
+      internalID: 1328895219394957183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_17
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 4504
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a8aa8ebac807b20800000000000000
+      internalID: 3130156410993281615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3941
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8488d48dcbb1a70800000000000000
+      internalID: 8798833934198130902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_19
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3941
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcab7379ae289e4e0800000000000000
+      internalID: -1951885019417429299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_20
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 3941
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70be507152be77840800000000000000
+      internalID: 5221900837491960583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_21
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 3941
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a92dd6400e0ba20800000000000000
+      internalID: 3076204855121058462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_22
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 3941
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8ef22fcd7a160c0800000000000000
+      internalID: -4584198378288584451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_23
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 3941
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be4055d87f95dc0800000000000000
+      internalID: -3649613836618241219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3378
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7afd3c99fbff6bb0800000000000000
+      internalID: -4940453216715408773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_25
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3378
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc390e7e5be86be0800000000000000
+      internalID: -1483677286144590644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_26
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 3378
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9b32e712903f4c0800000000000000
+      internalID: -4255047183480145478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_27
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 3378
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ebabedc3c957f0800000000000000
+      internalID: -623251784224481246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_28
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 3378
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beac931d7a1f1b70800000000000000
+      internalID: 8871838915445436084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_29
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 3378
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2371572f437f91bd0800000000000000
+      internalID: -2658822298207447246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2815
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3155df4b8e347cc80800000000000000
+      internalID: -8302592721286245101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_31
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2815
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f582a7680a7eb710800000000000000
+      internalID: 1710939084964398582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_32
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2815
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaa8bab27ff92b30800000000000000
+      internalID: 4263219390506904225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_33
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 2815
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cde00615ca5a7310800000000000000
+      internalID: 1403534036403547592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_34
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 2815
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018be3cd6714b5080800000000000000
+      internalID: -9197685835217061872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_35
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 2815
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1da8fc2dd52982f0800000000000000
+      internalID: -970202612849136355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2252
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb29b018d6915700800000000000000
+      internalID: 527368486116731828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_37
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2252
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ae284c74660cb0800000000000000
+      internalID: -4898117059769098025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_38
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2252
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743f86b1f99791680800000000000000
+      internalID: -8783855873942817977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_39
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 2252
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a87f186768576ff0800000000000000
+      internalID: -42968470284961623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_40
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 2252
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f42e77b8c71dd5f0800000000000000
+      internalID: -730401413724756747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_41
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 2252
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dce0e20806b266c0800000000000000
+      internalID: -4151555760957887273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1689
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bee5ea4b2dff7750800000000000000
+      internalID: 6305036365723987634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_43
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1689
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb956cdf42fa19e0800000000000000
+      internalID: -1649739888663880768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_44
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1689
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981f03142a4909d70800000000000000
+      internalID: 9047895075986665865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_45
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1689
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a91fa5237702350800000000000000
+      internalID: 5989918562560612949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_46
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 1689
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f087e51d629de900800000000000000
+      internalID: 715388913038360821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_47
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 1689
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401eff1d04ba96370800000000000000
+      internalID: 8316366481805795588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1126
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3781acf52c2d48580800000000000000
+      internalID: -8825697637466761101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_49
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1126
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b4c9ebeb908f420800000000000000
+      internalID: 2663889894435998527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_50
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1126
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c25743784d16f820800000000000000
+      internalID: 2951578802796843712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_51
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1126
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4bc14a36baa5c30800000000000000
+      internalID: 4348976834623091930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_52
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 1126
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731479dd5248cd70800000000000000
+      internalID: 9063567220930777969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_53
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 1126
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066e5b86a9318c4b0800000000000000
+      internalID: -5420060597637749152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca3fe0bc4b1c1030800000000000000
+      internalID: 3466675829368371909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_55
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 563
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6692f19c7b90e660800000000000000
+      internalID: 7413095945978680942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_56
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 563
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbdea1f4109e95d0800000000000000
+      internalID: -3053845077682103344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_57
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 563
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdd58f42028435f0800000000000000
+      internalID: -777853889192534599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_58
+      rect:
+        serializedVersion: 2
+        x: 4752
+        y: 563
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5051278cddfacac0800000000000000
+      internalID: -3833973009150816164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_59
+      rect:
+        serializedVersion: 2
+        x: 5940
+        y: 563
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af62e8f869e9620800000000000000
+      internalID: 2782827163070954117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaAnimationSpriteSheet-2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c317a8908f03b0800000000000000
+      internalID: -5544071223143315607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

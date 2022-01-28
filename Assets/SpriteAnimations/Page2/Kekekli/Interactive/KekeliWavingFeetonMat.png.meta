@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: c468b9bb2b5cbd549a2b3d35b1909314
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6911194813750140096
+    second: KekeliWavingFeetonMat_0
+  - first:
+      213: -7309191038200847756
+    second: KekeliWavingFeetonMat_1
+  - first:
+      213: 4210832746615362880
+    second: KekeliWavingFeetonMat_2
+  - first:
+      213: 4296380643174485381
+    second: KekeliWavingFeetonMat_3
+  - first:
+      213: -6748161663112753721
+    second: KekeliWavingFeetonMat_4
+  - first:
+      213: -5996891181720744198
+    second: KekeliWavingFeetonMat_5
+  - first:
+      213: 5230765089755439597
+    second: KekeliWavingFeetonMat_6
+  - first:
+      213: 4494662248359927852
+    second: KekeliWavingFeetonMat_7
+  - first:
+      213: -5208535251703608793
+    second: KekeliWavingFeetonMat_8
+  - first:
+      213: 2737223960154472668
+    second: KekeliWavingFeetonMat_9
+  - first:
+      213: -4403485368617567756
+    second: KekeliWavingFeetonMat_10
+  - first:
+      213: -2818627878475554436
+    second: KekeliWavingFeetonMat_11
+  - first:
+      213: 9199630583337490512
+    second: KekeliWavingFeetonMat_12
+  - first:
+      213: 3886167739306108233
+    second: KekeliWavingFeetonMat_13
+  - first:
+      213: -8997938503925609512
+    second: KekeliWavingFeetonMat_14
+  - first:
+      213: -8192670879413295659
+    second: KekeliWavingFeetonMat_15
+  - first:
+      213: 6331977153754694886
+    second: KekeliWavingFeetonMat_16
+  - first:
+      213: -7737676253260371911
+    second: KekeliWavingFeetonMat_17
+  - first:
+      213: 570797728292620125
+    second: KekeliWavingFeetonMat_18
+  - first:
+      213: 6136071792465122435
+    second: KekeliWavingFeetonMat_19
+  - first:
+      213: -3582998476832399105
+    second: KekeliWavingFeetonMat_20
+  - first:
+      213: 5624623393032444035
+    second: KekeliWavingFeetonMat_21
+  - first:
+      213: -3236299910495919493
+    second: KekeliWavingFeetonMat_22
+  - first:
+      213: -7618882373178012135
+    second: KekeliWavingFeetonMat_23
+  - first:
+      213: 2016897854398181942
+    second: KekeliWavingFeetonMat_24
+  - first:
+      213: 6313030463956194264
+    second: KekeliWavingFeetonMat_25
+  - first:
+      213: 361339672369739705
+    second: KekeliWavingFeetonMat_26
+  - first:
+      213: 3012368183999778249
+    second: KekeliWavingFeetonMat_27
+  - first:
+      213: -4168475751127880717
+    second: KekeliWavingFeetonMat_28
+  - first:
+      213: -1570033194465244930
+    second: KekeliWavingFeetonMat_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc5917e01f79ef50800000000000000
+      internalID: 6911194813750140096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472e19cf979809a90800000000000000
+      internalID: -7309191038200847756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0455796b212ef6a30800000000000000
+      internalID: 4210832746615362880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d87488e6fcf9b30800000000000000
+      internalID: 4296380643174485381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_4
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd414f78b6b952a0800000000000000
+      internalID: -6748161663112753721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_5
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeccdc3e33c6cca0800000000000000
+      internalID: -5996891181720744198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de12366a229679840800000000000000
+      internalID: 5230765089755439597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c202ada408f306e30800000000000000
+      internalID: 4494662248359927852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_8
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a4b1ad8c097b7b0800000000000000
+      internalID: -5208535251703608793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_9
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd002b770b29cf520800000000000000
+      internalID: 2737223960154472668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_10
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f97bed436da3e2c0800000000000000
+      internalID: -4403485368617567756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_11
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71a375d0e832e8d0800000000000000
+      internalID: -2818627878475554436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05896a81647abaf70800000000000000
+      internalID: 9199630583337490512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456ce618f07ee530800000000000000
+      internalID: 3886167739306108233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_14
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db44b29a96e02380800000000000000
+      internalID: -8997938503925609512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_15
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d522e6ed39cd4e80800000000000000
+      internalID: -8192670879413295659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_16
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4007f4ca3bfd750800000000000000
+      internalID: 6331977153754694886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_17
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938a07191704e9490800000000000000
+      internalID: -7737676253260371911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d574b797281ebe700800000000000000
+      internalID: 570797728292620125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3849d22f8c4b72550800000000000000
+      internalID: 6136071792465122435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_20
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0a3ad6ed1a64ec0800000000000000
+      internalID: -3582998476832399105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_21
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3881d09ec2dae0e40800000000000000
+      internalID: 5624623393032444035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_22
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b722348c06a5613d0800000000000000
+      internalID: -3236299910495919493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_23
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e4d3129da444690800000000000000
+      internalID: -7618882373178012135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632b6af99e57dfb10800000000000000
+      internalID: 2016897854398181942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3145452c36c9750800000000000000
+      internalID: 6313030463956194264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_26
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7bade748cb30500800000000000000
+      internalID: 361339672369739705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_27
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdcef337e41ec920800000000000000
+      internalID: 3012368183999778249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_28
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb613fc3699626c0800000000000000
+      internalID: -4168475751127880717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingFeetonMat_29
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 0
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8c356c02f163ae0800000000000000
+      internalID: -1570033194465244930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

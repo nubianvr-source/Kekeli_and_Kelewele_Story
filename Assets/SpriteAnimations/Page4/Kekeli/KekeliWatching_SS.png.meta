@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: 33662494807b7f847994499e578f88e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2372363947355306150
+    second: KekeliWatching_SS_0
+  - first:
+      213: 907475450382030990
+    second: KekeliWatching_SS_1
+  - first:
+      213: 503006541991229949
+    second: KekeliWatching_SS_2
+  - first:
+      213: 1385927551039300309
+    second: KekeliWatching_SS_3
+  - first:
+      213: 2717769726786969013
+    second: KekeliWatching_SS_4
+  - first:
+      213: -2008041220463077070
+    second: KekeliWatching_SS_5
+  - first:
+      213: 8156418334628781023
+    second: KekeliWatching_SS_6
+  - first:
+      213: 771989657158196698
+    second: KekeliWatching_SS_7
+  - first:
+      213: -6594462180238400965
+    second: KekeliWatching_SS_8
+  - first:
+      213: 5255604022977234383
+    second: KekeliWatching_SS_9
+  - first:
+      213: 5511435767957196634
+    second: KekeliWatching_SS_10
+  - first:
+      213: -1221289186412090763
+    second: KekeliWatching_SS_11
+  - first:
+      213: -6651932181750997731
+    second: KekeliWatching_SS_12
+  - first:
+      213: -947432661757457027
+    second: KekeliWatching_SS_13
+  - first:
+      213: 4634075253693072156
+    second: KekeliWatching_SS_14
+  - first:
+      213: -4207058505313393690
+    second: KekeliWatching_SS_15
+  - first:
+      213: 3073752848890898186
+    second: KekeliWatching_SS_16
+  - first:
+      213: -6960038069045562527
+    second: KekeliWatching_SS_17
+  - first:
+      213: -8630755544589968345
+    second: KekeliWatching_SS_18
+  - first:
+      213: -3916578748817582876
+    second: KekeliWatching_SS_19
+  - first:
+      213: 444893821094321905
+    second: KekeliWatching_SS_20
+  - first:
+      213: -4212617012879258848
+    second: KekeliWatching_SS_21
+  - first:
+      213: -537843054135206579
+    second: KekeliWatching_SS_22
+  - first:
+      213: 2168099315827373597
+    second: KekeliWatching_SS_23
+  - first:
+      213: 8337092726125793540
+    second: KekeliWatching_SS_24
+  - first:
+      213: -5149120715992253065
+    second: KekeliWatching_SS_25
+  - first:
+      213: -7155018928252982360
+    second: KekeliWatching_SS_26
+  - first:
+      213: -5139948664523174163
+    second: KekeliWatching_SS_27
+  - first:
+      213: -6129920335638753988
+    second: KekeliWatching_SS_28
+  - first:
+      213: -8556454579207752460
+    second: KekeliWatching_SS_29
+  - first:
+      213: 2118567174039808639
+    second: KekeliWatching_SS_30
+  - first:
+      213: -6556416453521708664
+    second: KekeliWatching_SS_31
+  - first:
+      213: 6096896336050463767
+    second: KekeliWatching_SS_32
+  - first:
+      213: 2631630566663997384
+    second: KekeliWatching_SS_33
+  - first:
+      213: 3045605822159955323
+    second: KekeliWatching_SS_34
+  - first:
+      213: -1995614325500955263
+    second: KekeliWatching_SS_35
+  - first:
+      213: -3886130762666907578
+    second: KekeliWatching_SS_36
+  - first:
+      213: 1735862318244635336
+    second: KekeliWatching_SS_37
+  - first:
+      213: 8593595796277691076
+    second: KekeliWatching_SS_38
+  - first:
+      213: -7403444444070016082
+    second: KekeliWatching_SS_39
+  - first:
+      213: 4707277627233688616
+    second: KekeliWatching_SS_40
+  - first:
+      213: 6962588536064952230
+    second: KekeliWatching_SS_41
+  - first:
+      213: -5547115868479887999
+    second: KekeliWatching_SS_42
+  - first:
+      213: 5584879748792016873
+    second: KekeliWatching_SS_43
+  - first:
+      213: 7391906235103109500
+    second: KekeliWatching_SS_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KekeliWatching_SS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5781f72f8ba31fd0800000000000000
+      internalID: -2372363947355306150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1960
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8898663d10089c00800000000000000
+      internalID: 907475450382030990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1960
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9b51fe8c90bf600800000000000000
+      internalID: 503006541991229949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1960
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2ef14c3cdcb3310800000000000000
+      internalID: 1385927551039300309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1960
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd927aca2577b520800000000000000
+      internalID: 2717769726786969013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_5
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1960
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239d4f726210224e0800000000000000
+      internalID: -2008041220463077070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_6
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1960
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb1803c24b613170800000000000000
+      internalID: 8156418334628781023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_7
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1960
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add9035c088a6ba00800000000000000
+      internalID: 771989657158196698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_8
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1960
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3264260693cb74a0800000000000000
+      internalID: -6594462180238400965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc50ca57308afe840800000000000000
+      internalID: 5255604022977234383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1470
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f887f41ad8c7c40800000000000000
+      internalID: 5511435767957196634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1470
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa1e3a4fb1d0fe0800000000000000
+      internalID: -1221289186412090763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1470
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d1eb49ce69fa3a0800000000000000
+      internalID: -6651932181750997731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_13
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1470
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d085b830b0ad2f0800000000000000
+      internalID: -947432661757457027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_14
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1470
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13cdce04ea8f4040800000000000000
+      internalID: 4634075253693072156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_15
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1470
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3628154968d95c0800000000000000
+      internalID: -4207058505313393690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_16
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1470
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07ac7d3ee928aa20800000000000000
+      internalID: 3073752848890898186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_17
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1470
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163f757804af86f90800000000000000
+      internalID: -6960038069045562527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c5b755f85693880800000000000000
+      internalID: -8630755544589968345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 980
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e452edf06485a9c0800000000000000
+      internalID: -3916578748817582876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 980
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fed719b2949c2600800000000000000
+      internalID: 444893821094321905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 980
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b809c6527c985c0800000000000000
+      internalID: -4212617012879258848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_22
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 980
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d1c5587923988f0800000000000000
+      internalID: -537843054135206579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_23
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 980
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1678a537d2a61e10800000000000000
+      internalID: 2168099315827373597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_24
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 980
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4019830a9ad43b370800000000000000
+      internalID: 8337092726125793540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_25
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 980
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d3da17df5aa88b0800000000000000
+      internalID: -5149120715992253065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_26
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 980
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abe844913444bc90800000000000000
+      internalID: -7155018928252982360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee4a571ceb3ba8b0800000000000000
+      internalID: -5139948664523174163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_28
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 490
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d0fc4bee52eeaa0800000000000000
+      internalID: -6129920335638753988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_29
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 490
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4be8de4ed514980800000000000000
+      internalID: -8556454579207752460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_30
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 490
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2271ce99a66d10800000000000000
+      internalID: 2118567174039808639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_31
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 490
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889ef4019fde205a0800000000000000
+      internalID: -6556416453521708664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_32
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 490
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142ba63ae68c9450800000000000000
+      internalID: 6096896336050463767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_33
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 490
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c74112be0e658420800000000000000
+      internalID: 2631630566663997384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_34
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 490
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75a4b3eb5a244a20800000000000000
+      internalID: 3045605822159955323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_35
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 490
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185b5db18572e44e0800000000000000
+      internalID: -1995614325500955263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648658439a0b11ac0800000000000000
+      internalID: -3886130762666907578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c225f9d495071810800000000000000
+      internalID: 1735862318244635336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20c6c88d5924770800000000000000
+      internalID: 8593595796277691076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_39
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab0ed4d08ea14990800000000000000
+      internalID: -7403444444070016082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_40
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c586ecf0c935140800000000000000
+      internalID: 4707277627233688616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_41
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7cb59526510a060800000000000000
+      internalID: 6962588536064952230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_42
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 0
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185e25be18fa403b0800000000000000
+      internalID: -5547115868479887999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_43
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 0
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef5504aa8a718d40800000000000000
+      internalID: 5584879748792016873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWatching_SS_44
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 189
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71e05c8e83559660800000000000000
+      internalID: 7391906235103109500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

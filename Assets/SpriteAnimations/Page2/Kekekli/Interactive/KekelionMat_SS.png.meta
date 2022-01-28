@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: 10bfe7fae6b84994795dac2cc19e420d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6805405686733798130
+    second: KekelionMat_SS_0
+  - first:
+      213: 3470036473486046275
+    second: KekelionMat_SS_1
+  - first:
+      213: 5292304970698854249
+    second: KekelionMat_SS_2
+  - first:
+      213: 3744414480885841017
+    second: KekelionMat_SS_3
+  - first:
+      213: -3848512805436092698
+    second: KekelionMat_SS_4
+  - first:
+      213: 3630522049420603779
+    second: KekelionMat_SS_5
+  - first:
+      213: -2612127755515506812
+    second: KekelionMat_SS_6
+  - first:
+      213: 5278350865608003719
+    second: KekelionMat_SS_7
+  - first:
+      213: -8377904741099124409
+    second: KekelionMat_SS_8
+  - first:
+      213: -1879456230566608615
+    second: KekelionMat_SS_9
+  - first:
+      213: 8517500952422034389
+    second: KekelionMat_SS_10
+  - first:
+      213: 4105664436778447743
+    second: KekelionMat_SS_11
+  - first:
+      213: -2332922552033796068
+    second: KekelionMat_SS_12
+  - first:
+      213: -7213645446685666612
+    second: KekelionMat_SS_13
+  - first:
+      213: -6865467097988715681
+    second: KekelionMat_SS_14
+  - first:
+      213: 78766756617997453
+    second: KekelionMat_SS_15
+  - first:
+      213: -2755383361512333465
+    second: KekelionMat_SS_16
+  - first:
+      213: -2793293824490384888
+    second: KekelionMat_SS_17
+  - first:
+      213: 9007083268348781582
+    second: KekelionMat_SS_18
+  - first:
+      213: -7443533020105078646
+    second: KekelionMat_SS_19
+  - first:
+      213: 1934792672095232492
+    second: KekelionMat_SS_20
+  - first:
+      213: 6745502104548460758
+    second: KekelionMat_SS_21
+  - first:
+      213: 8119453186599613427
+    second: KekelionMat_SS_22
+  - first:
+      213: -3689430453909144852
+    second: KekelionMat_SS_23
+  - first:
+      213: -5416315034868532828
+    second: KekelionMat_SS_24
+  - first:
+      213: 1004941712350546739
+    second: KekelionMat_SS_25
+  - first:
+      213: -3969637986736488124
+    second: KekelionMat_SS_26
+  - first:
+      213: 6163744962347339006
+    second: KekelionMat_SS_27
+  - first:
+      213: 4103005330230317759
+    second: KekelionMat_SS_28
+  - first:
+      213: -7274292875735635789
+    second: KekelionMat_SS_29
+  - first:
+      213: -2943776440143354401
+    second: KekelionMat_SS_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KekelionMat_SS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e050fc1a5975e81a0800000000000000
+      internalID: -6805405686733798130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344f8cf99cb082030800000000000000
+      internalID: 3470036473486046275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f0a8db45b027940800000000000000
+      internalID: 5292304970698854249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c7701b125d6f330800000000000000
+      internalID: 3744414480885841017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_4
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee80766ef5579ac0800000000000000
+      internalID: -3848512805436092698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_5
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38130f09194326230800000000000000
+      internalID: 3630522049420603779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f4f8065abdfbbd0800000000000000
+      internalID: -2612127755515506812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780d0787528704940800000000000000
+      internalID: 5278350865608003719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_8
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749c9b8a604bbbb80800000000000000
+      internalID: -8377904741099124409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_9
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ce2e1484dae5e0800000000000000
+      internalID: -1879456230566608615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_10
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbaa231dfd343670800000000000000
+      internalID: 8517500952422034389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_11
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7332217d004af830800000000000000
+      internalID: 4105664436778447743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10278d9c4bcf9fd0800000000000000
+      internalID: -2332922552033796068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2dfae8fabf3eb90800000000000000
+      internalID: -7213645446685666612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_14
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b20479c06f8b0a0800000000000000
+      internalID: -6865467097988715681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_15
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c4354a2f5d71100800000000000000
+      internalID: 78766756617997453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_16
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f190d6e69e2c9d0800000000000000
+      internalID: -2755383361512333465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_17
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80255fde01a3c39d0800000000000000
+      internalID: -2793293824490384888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e042b40d2869ffc70800000000000000
+      internalID: 9007083268348781582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a880fbed72243b890800000000000000
+      internalID: -7443533020105078646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_20
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e34e2fa3c9da10800000000000000
+      internalID: 1934792672095232492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_21
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c245cc66dc9d50800000000000000
+      internalID: 6745502104548460758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_22
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3fead87a71ea070800000000000000
+      internalID: 8119453186599613427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_23
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceabc33bc828cccc0800000000000000
+      internalID: -3689430453909144852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9bd033c2265d4b0800000000000000
+      internalID: -5416315034868532828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b80a8b92542fd00800000000000000
+      internalID: 1004941712350546739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_26
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441cca9784309e8c0800000000000000
+      internalID: -3969637986736488124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_27
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc01d6e2650a8550800000000000000
+      internalID: 6163744962347339006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_28
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb299e3fb9dc0f830800000000000000
+      internalID: 4103005330230317759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_29
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b86f9d9b258c0b90800000000000000
+      internalID: -7274292875735635789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_SS_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5671bacea9527d0800000000000000
+      internalID: -2943776440143354401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

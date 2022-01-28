@@ -1,0 +1,1124 @@
+fileFormatVersion: 2
+guid: d6a672c723b99504cb064ed254e5fdba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1049348994540779018
+    second: Page3AromaAnimationSpriteSheet2_0
+  - first:
+      213: -1813779121670123707
+    second: Page3AromaAnimationSpriteSheet2_1
+  - first:
+      213: -9070957419406733799
+    second: Page3AromaAnimationSpriteSheet2_2
+  - first:
+      213: -1198633823357626889
+    second: Page3AromaAnimationSpriteSheet2_3
+  - first:
+      213: 8319910006483503860
+    second: Page3AromaAnimationSpriteSheet2_4
+  - first:
+      213: 756341758177215994
+    second: Page3AromaAnimationSpriteSheet2_5
+  - first:
+      213: 4762091435352537965
+    second: Page3AromaAnimationSpriteSheet2_6
+  - first:
+      213: -6265211161888860174
+    second: Page3AromaAnimationSpriteSheet2_7
+  - first:
+      213: 2118411692780963746
+    second: Page3AromaAnimationSpriteSheet2_8
+  - first:
+      213: -8266642864705502427
+    second: Page3AromaAnimationSpriteSheet2_9
+  - first:
+      213: -5473997374644048447
+    second: Page3AromaAnimationSpriteSheet2_10
+  - first:
+      213: 3391270584302468799
+    second: Page3AromaAnimationSpriteSheet2_11
+  - first:
+      213: -2735355881551359587
+    second: Page3AromaAnimationSpriteSheet2_12
+  - first:
+      213: 636945250477835618
+    second: Page3AromaAnimationSpriteSheet2_13
+  - first:
+      213: 4339681538863997283
+    second: Page3AromaAnimationSpriteSheet2_14
+  - first:
+      213: 4089485270407185932
+    second: Page3AromaAnimationSpriteSheet2_15
+  - first:
+      213: 5728046273649544845
+    second: Page3AromaAnimationSpriteSheet2_16
+  - first:
+      213: 8479297935931282610
+    second: Page3AromaAnimationSpriteSheet2_17
+  - first:
+      213: 4465226106952491347
+    second: Page3AromaAnimationSpriteSheet2_18
+  - first:
+      213: 8604545905367450710
+    second: Page3AromaAnimationSpriteSheet2_19
+  - first:
+      213: -5724599501138086420
+    second: Page3AromaAnimationSpriteSheet2_20
+  - first:
+      213: 6767040158658498891
+    second: Page3AromaAnimationSpriteSheet2_21
+  - first:
+      213: -5658801480580452547
+    second: Page3AromaAnimationSpriteSheet2_22
+  - first:
+      213: 4861498325089011766
+    second: Page3AromaAnimationSpriteSheet2_23
+  - first:
+      213: -4341486795420844099
+    second: Page3AromaAnimationSpriteSheet2_24
+  - first:
+      213: -130483575646655401
+    second: Page3AromaAnimationSpriteSheet2_25
+  - first:
+      213: 4575413735011208981
+    second: Page3AromaAnimationSpriteSheet2_26
+  - first:
+      213: 2215805250965390723
+    second: Page3AromaAnimationSpriteSheet2_27
+  - first:
+      213: 3903518167979429071
+    second: Page3AromaAnimationSpriteSheet2_28
+  - first:
+      213: -1370881327422242230
+    second: Page3AromaAnimationSpriteSheet2_29
+  - first:
+      213: -8009324483651083227
+    second: Page3AromaAnimationSpriteSheet2_30
+  - first:
+      213: 8198129100400580501
+    second: Page3AromaAnimationSpriteSheet2_31
+  - first:
+      213: -1127249348575756484
+    second: Page3AromaAnimationSpriteSheet2_32
+  - first:
+      213: 7313182647001112877
+    second: Page3AromaAnimationSpriteSheet2_33
+  - first:
+      213: 1696410273576454269
+    second: Page3AromaAnimationSpriteSheet2_34
+  - first:
+      213: -2811159094516050161
+    second: Page3AromaAnimationSpriteSheet2_35
+  - first:
+      213: -4494695885585920023
+    second: Page3AromaAnimationSpriteSheet2_36
+  - first:
+      213: 8904753552068274610
+    second: Page3AromaAnimationSpriteSheet2_37
+  - first:
+      213: 6383108475723864603
+    second: Page3AromaAnimationSpriteSheet2_38
+  - first:
+      213: 8578709211118942011
+    second: Page3AromaAnimationSpriteSheet2_39
+  - first:
+      213: -8001262516652444829
+    second: Page3AromaAnimationSpriteSheet2_40
+  - first:
+      213: -3157199418600852402
+    second: Page3AromaAnimationSpriteSheet2_41
+  - first:
+      213: 586147598737906985
+    second: Page3AromaAnimationSpriteSheet2_42
+  - first:
+      213: 9165980437438797383
+    second: Page3AromaAnimationSpriteSheet2_43
+  - first:
+      213: 3416254684700573630
+    second: Page3AromaAnimationSpriteSheet2_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7632
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9cbfe26a6ff61f0800000000000000
+      internalID: -1049348994540779018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_1
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 7632
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f05d7af7924d6e0800000000000000
+      internalID: -1813779121670123707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_2
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 7632
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e419b794c7d1280800000000000000
+      internalID: -9070957419406733799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_3
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 7632
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5100763e89d5fe0800000000000000
+      internalID: -1198633823357626889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_4
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 7632
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4facaa3f112467370800000000000000
+      internalID: 8319910006483503860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6678
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af582f062d01f7a00800000000000000
+      internalID: 756341758177215994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_6
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 6678
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b3e180ee8561240800000000000000
+      internalID: 4762091435352537965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_7
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 6678
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f75dcc84af7d09a0800000000000000
+      internalID: -6265211161888860174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_8
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 6678
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a74e34f53c166d10800000000000000
+      internalID: 2118411692780963746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_9
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 6678
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5230634fc1cf64d80800000000000000
+      internalID: -8266642864705502427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5724
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdabe6e3647804b0800000000000000
+      internalID: -5473997374644048447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_11
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 5724
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe7492f0a6301f20800000000000000
+      internalID: 3391270584302468799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_12
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 5724
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d911bd971501a0ad0800000000000000
+      internalID: -2735355881551359587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_13
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 5724
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2658a14a452e6d800800000000000000
+      internalID: 636945250477835618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_14
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 5724
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3612f42fd55a93c30800000000000000
+      internalID: 4339681538863997283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4770
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0600d8bf25c0c830800000000000000
+      internalID: 4089485270407185932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_16
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 4770
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e81e5ccbb1e7f40800000000000000
+      internalID: 5728046273649544845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_17
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 4770
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b413e72c848ca570800000000000000
+      internalID: 8479297935931282610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_18
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 4770
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35124ba8c7ba7fd30800000000000000
+      internalID: 4465226106952491347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_19
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 4770
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65408fe79ec796770800000000000000
+      internalID: 8604545905367450710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3816
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5394d75132e80b0800000000000000
+      internalID: -5724599501138086420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_21
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 3816
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4194a5cb2b59ed50800000000000000
+      internalID: 6767040158658498891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_22
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 3816
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f2c87f806e771b0800000000000000
+      internalID: -5658801480580452547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_23
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 3816
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638461728f2877340800000000000000
+      internalID: 4861498325089011766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_24
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 3816
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf34e103c0ffb3c0800000000000000
+      internalID: -4341486795420844099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2862
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cee8811ed603ef0800000000000000
+      internalID: -130483575646655401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_26
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2862
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f49c7ec822f7f30800000000000000
+      internalID: 4575413735011208981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_27
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 2862
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385cc3bc22f10ce10800000000000000
+      internalID: 2215805250965390723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_28
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 2862
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc82b097151c2630800000000000000
+      internalID: 3903518167979429071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_29
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 2862
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4208c922b6a9fce0800000000000000
+      internalID: -1370881327422242230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524632d31d929d090800000000000000
+      internalID: -8009324483651083227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_31
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1908
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5975b243bfa95c170800000000000000
+      internalID: 8198129100400580501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_32
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 1908
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ff9dc90b43b50f0800000000000000
+      internalID: -1127249348575756484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_33
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 1908
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d216d0cded4ad7560800000000000000
+      internalID: 7313182647001112877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_34
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 1908
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7809d5e72cda8710800000000000000
+      internalID: 1696410273576454269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07134c92b1ccf8d0800000000000000
+      internalID: -2811159094516050161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_36
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 954
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efcd3ee7e1af91c0800000000000000
+      internalID: -4494695885585920023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_37
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 954
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b96d6b1d2a049b70800000000000000
+      internalID: 8904753552068274610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_38
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 954
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a5e4ae65b559850800000000000000
+      internalID: 6383108475723864603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_39
+      rect:
+        serializedVersion: 2
+        x: 6392
+        y: 954
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37bd185392bd0770800000000000000
+      internalID: 8578709211118942011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page3AromaAnimationSpriteSheet2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3637844322ec5f090800000000000000
+      internalID: -8001262516652444829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

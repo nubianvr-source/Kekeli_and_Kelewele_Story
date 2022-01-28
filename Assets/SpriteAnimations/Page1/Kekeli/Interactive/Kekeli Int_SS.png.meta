@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 4b78847f8246b024db2a39457feca694
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2486555991578538942
+    second: Kekeli Int_SS_0
+  - first:
+      213: 4611782970200271381
+    second: Kekeli Int_SS_1
+  - first:
+      213: -1809496630324327866
+    second: Kekeli Int_SS_2
+  - first:
+      213: 3526115951400767226
+    second: Kekeli Int_SS_3
+  - first:
+      213: -6483432933414676057
+    second: Kekeli Int_SS_4
+  - first:
+      213: -5179918120434344308
+    second: Kekeli Int_SS_5
+  - first:
+      213: -6053700025465358455
+    second: Kekeli Int_SS_6
+  - first:
+      213: -1027253476009179329
+    second: Kekeli Int_SS_7
+  - first:
+      213: 8722727824051913958
+    second: Kekeli Int_SS_8
+  - first:
+      213: 1126249278570338787
+    second: Kekeli Int_SS_9
+  - first:
+      213: -3176955504358549577
+    second: Kekeli Int_SS_10
+  - first:
+      213: -3099628044948478967
+    second: Kekeli Int_SS_11
+  - first:
+      213: 7594446976919469851
+    second: Kekeli Int_SS_12
+  - first:
+      213: 3128786333459861690
+    second: Kekeli Int_SS_13
+  - first:
+      213: -2397250288390469940
+    second: Kekeli Int_SS_14
+  - first:
+      213: -7409321193352629223
+    second: Kekeli Int_SS_15
+  - first:
+      213: -1725527098856685546
+    second: Kekeli Int_SS_16
+  - first:
+      213: -4529619421256587001
+    second: Kekeli Int_SS_17
+  - first:
+      213: 1027354868254456292
+    second: Kekeli Int_SS_18
+  - first:
+      213: 3930244773166834740
+    second: Kekeli Int_SS_19
+  - first:
+      213: 2801719055834165052
+    second: Kekeli Int_SS_20
+  - first:
+      213: 4316195874644728908
+    second: Kekeli Int_SS_21
+  - first:
+      213: -2133617004088832762
+    second: Kekeli Int_SS_22
+  - first:
+      213: 5206204873428257822
+    second: Kekeli Int_SS_23
+  - first:
+      213: 4645018749087192906
+    second: Kekeli Int_SS_24
+  - first:
+      213: 3715324306958252697
+    second: Kekeli Int_SS_25
+  - first:
+      213: -194836959075801812
+    second: Kekeli Int_SS_26
+  - first:
+      213: 6438087431399401567
+    second: Kekeli Int_SS_27
+  - first:
+      213: -9194240649550149495
+    second: Kekeli Int_SS_28
+  - first:
+      213: -5119827347749056796
+    second: Kekeli Int_SS_29
+  - first:
+      213: -1648906983429667796
+    second: Kekeli Int_SS_30
+  - first:
+      213: -7800694189462968822
+    second: Kekeli Int_SS_31
+  - first:
+      213: -7280347400761106280
+    second: Kekeli Int_SS_32
+  - first:
+      213: 6156983863034978903
+    second: Kekeli Int_SS_33
+  - first:
+      213: 8174191199497489348
+    second: Kekeli Int_SS_34
+  - first:
+      213: 3675843016586494676
+    second: Kekeli Int_SS_35
+  - first:
+      213: 7981341049681938069
+    second: Kekeli Int_SS_36
+  - first:
+      213: 4342630024431872819
+    second: Kekeli Int_SS_37
+  - first:
+      213: 1863752133448247492
+    second: Kekeli Int_SS_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kekeli Int_SS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2888
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb378200085028220800000000000000
+      internalID: 2486555991578538942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2888
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aabf75d28500040800000000000000
+      internalID: 4611782970200271381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2888
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a804fd66063e6e0800000000000000
+      internalID: -1809496630324327866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_3
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2888
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afec41096c74fe030800000000000000
+      internalID: 3526115951400767226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_4
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2888
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9dfb609183606a0800000000000000
+      internalID: -6483432933414676057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_5
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 2888
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ed6e1f9eb3d18b0800000000000000
+      internalID: -5179918120434344308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_6
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2888
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9873d5596efecfba0800000000000000
+      internalID: -6053700025465358455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_7
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 2888
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37003cf7667eb1f0800000000000000
+      internalID: -1027253476009179329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_8
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2888
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4c701bdba5d0970800000000000000
+      internalID: 8722727824051913958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e999b170cd31af00800000000000000
+      internalID: 1126249278570338787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79c7f0dcf29e3d0800000000000000
+      internalID: -3176955504358549577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904e10537b8ebf4d0800000000000000
+      internalID: -3099628044948478967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_12
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ff2d4d945e46960800000000000000
+      internalID: 7594446976919469851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_13
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0d8ffd79eab6b20800000000000000
+      internalID: 3128786333459861690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_14
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc688ca50914bbed0800000000000000
+      internalID: -2397250288390469940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_15
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914717381adcc2990800000000000000
+      internalID: -7409321193352629223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_16
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610465eee32bd08e0800000000000000
+      internalID: -1725527098856685546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_17
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7096a44a22f8321c0800000000000000
+      internalID: -4529619421256587001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9339c3fc5e14e00800000000000000
+      internalID: 1027354868254456292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434e1f04cc80b8630800000000000000
+      internalID: 3930244773166834740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_20
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f207b13a4b1e620800000000000000
+      internalID: 2801719055834165052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_21
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c9431a74536eb30800000000000000
+      internalID: 4316195874644728908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_22
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d4d80a3aed362e0800000000000000
+      internalID: -2133617004088832762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_23
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c499cafb7204840800000000000000
+      internalID: 5206204873428257822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_24
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a471f5221fb667040800000000000000
+      internalID: 4645018749087192906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_25
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99afe95c5cb7f8330800000000000000
+      internalID: 3715324306958252697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_26
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c256b2961dccb4df0800000000000000
+      internalID: -194836959075801812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58e77d886ea85950800000000000000
+      internalID: 6438087431399401567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9884b18a7de776080800000000000000
+      internalID: -9194240649550149495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_29
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee461a3728b2f8b0800000000000000
+      internalID: -5119827347749056796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_30
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c248309b5d7ed19e0800000000000000
+      internalID: -1648906983429667796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_31
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a062b9be6fd5eb390800000000000000
+      internalID: -7800694189462968822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_32
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8902238ac9207fa90800000000000000
+      internalID: -7280347400761106280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_33
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752230cc330027550800000000000000
+      internalID: 6156983863034978903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_34
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb0c24569f807170800000000000000
+      internalID: 8174191199497489348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_35
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d20db58fb7330330800000000000000
+      internalID: 3675843016586494676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5960981d56b63ce60800000000000000
+      internalID: 7981341049681938069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b253dbffe144c30800000000000000
+      internalID: 4342630024431872819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli Int_SS_38
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c82f87d0b06dd910800000000000000
+      internalID: 1863752133448247492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

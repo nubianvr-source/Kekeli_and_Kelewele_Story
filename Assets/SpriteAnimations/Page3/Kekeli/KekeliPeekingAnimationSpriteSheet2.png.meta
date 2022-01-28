@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: 0191c693183d44c4dbfb0b23f63d9ea2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6758175116172947395
+    second: KekeliPeekingAnimationSpriteSheet2_0
+  - first:
+      213: 293248225258974005
+    second: KekeliPeekingAnimationSpriteSheet2_1
+  - first:
+      213: 1719034406849246048
+    second: KekeliPeekingAnimationSpriteSheet2_2
+  - first:
+      213: 7638215614571943156
+    second: KekeliPeekingAnimationSpriteSheet2_3
+  - first:
+      213: 8816823089762865982
+    second: KekeliPeekingAnimationSpriteSheet2_4
+  - first:
+      213: 776926013467414209
+    second: KekeliPeekingAnimationSpriteSheet2_5
+  - first:
+      213: 4729006286080833588
+    second: KekeliPeekingAnimationSpriteSheet2_6
+  - first:
+      213: 1641978841367451276
+    second: KekeliPeekingAnimationSpriteSheet2_7
+  - first:
+      213: -6678676377235162669
+    second: KekeliPeekingAnimationSpriteSheet2_8
+  - first:
+      213: -566828624929982800
+    second: KekeliPeekingAnimationSpriteSheet2_9
+  - first:
+      213: 598956064304481149
+    second: KekeliPeekingAnimationSpriteSheet2_10
+  - first:
+      213: -9026330007935581182
+    second: KekeliPeekingAnimationSpriteSheet2_11
+  - first:
+      213: -7075686618335799397
+    second: KekeliPeekingAnimationSpriteSheet2_12
+  - first:
+      213: 2828687928128832629
+    second: KekeliPeekingAnimationSpriteSheet2_13
+  - first:
+      213: -2439628020466868241
+    second: KekeliPeekingAnimationSpriteSheet2_14
+  - first:
+      213: 4135632491759723134
+    second: KekeliPeekingAnimationSpriteSheet2_15
+  - first:
+      213: -6781348691399976328
+    second: KekeliPeekingAnimationSpriteSheet2_16
+  - first:
+      213: -6610705267467953907
+    second: KekeliPeekingAnimationSpriteSheet2_17
+  - first:
+      213: 2363958124190210003
+    second: KekeliPeekingAnimationSpriteSheet2_18
+  - first:
+      213: 8452052957172086598
+    second: KekeliPeekingAnimationSpriteSheet2_19
+  - first:
+      213: -6228573032612265648
+    second: KekeliPeekingAnimationSpriteSheet2_20
+  - first:
+      213: 5609536223726421517
+    second: KekeliPeekingAnimationSpriteSheet2_21
+  - first:
+      213: 6270657660611957097
+    second: KekeliPeekingAnimationSpriteSheet2_22
+  - first:
+      213: -1155354844282583276
+    second: KekeliPeekingAnimationSpriteSheet2_23
+  - first:
+      213: -6109236791412404680
+    second: KekeliPeekingAnimationSpriteSheet2_24
+  - first:
+      213: 3054960339125449907
+    second: KekeliPeekingAnimationSpriteSheet2_25
+  - first:
+      213: -4235068582319450531
+    second: KekeliPeekingAnimationSpriteSheet2_26
+  - first:
+      213: -8605348997761431500
+    second: KekeliPeekingAnimationSpriteSheet2_27
+  - first:
+      213: -5585690455651205605
+    second: KekeliPeekingAnimationSpriteSheet2_28
+  - first:
+      213: -619134180434311301
+    second: KekeliPeekingAnimationSpriteSheet2_29
+  - first:
+      213: -2338608094110156588
+    second: KekeliPeekingAnimationSpriteSheet2_30
+  - first:
+      213: 5392642770430029263
+    second: KekeliPeekingAnimationSpriteSheet2_31
+  - first:
+      213: -6155379902404351129
+    second: KekeliPeekingAnimationSpriteSheet2_32
+  - first:
+      213: -3029389430132982953
+    second: KekeliPeekingAnimationSpriteSheet2_33
+  - first:
+      213: 832275177520876354
+    second: KekeliPeekingAnimationSpriteSheet2_34
+  - first:
+      213: -5704191068451346401
+    second: KekeliPeekingAnimationSpriteSheet2_35
+  - first:
+      213: -4709582583539330495
+    second: KekeliPeekingAnimationSpriteSheet2_36
+  - first:
+      213: -7952655847330178734
+    second: KekeliPeekingAnimationSpriteSheet2_37
+  - first:
+      213: -8162262229459069067
+    second: KekeliPeekingAnimationSpriteSheet2_38
+  - first:
+      213: -2337810366558662497
+    second: KekeliPeekingAnimationSpriteSheet2_39
+  - first:
+      213: -5510778793315797633
+    second: KekeliPeekingAnimationSpriteSheet2_40
+  - first:
+      213: 7945720160839377699
+    second: KekeliPeekingAnimationSpriteSheet2_41
+  - first:
+      213: -7273737110583306286
+    second: KekeliPeekingAnimationSpriteSheet2_42
+  - first:
+      213: 242989995441910054
+    second: KekeliPeekingAnimationSpriteSheet2_43
+  - first:
+      213: 6990583137449473068
+    second: KekeliPeekingAnimationSpriteSheet2_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2120
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf6f59367cd9cd50800000000000000
+      internalID: 6758175116172947395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_1
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2120
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b239905b3d11400800000000000000
+      internalID: 293248225258974005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2120
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637ce86fac3bd710800000000000000
+      internalID: 1719034406849246048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2120
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41768e1a4600a60800000000000000
+      internalID: 7638215614571943156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_4
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2120
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3317c8f2e5ab5a70800000000000000
+      internalID: 8816823089762865982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2120
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce4c79c71238ca00800000000000000
+      internalID: 776926013467414209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_6
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2120
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ff6e692ec0a140800000000000000
+      internalID: 4729006286080833588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_7
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 2120
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c861a608e0b79c610800000000000000
+      internalID: 1641978841367451276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_8
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2120
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9fa1558339053a0800000000000000
+      internalID: -6678676377235162669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6768a6e583228f0800000000000000
+      internalID: -566828624929982800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1590
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d734fe8fd5bef4800800000000000000
+      internalID: 598956064304481149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1590
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2040d8b6ea80cb280800000000000000
+      internalID: -9026330007935581182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_12
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1590
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971c1c528c1ecd90800000000000000
+      internalID: -7075686618335799397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1590
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5740e800fa4814720800000000000000
+      internalID: 2828687928128832629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_14
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1590
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef9bf7bd33b42ed0800000000000000
+      internalID: -2439628020466868241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_15
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1590
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72e6e8f6d7b46930800000000000000
+      internalID: 4135632491759723134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_16
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1590
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a5b075b4fc3e1a0800000000000000
+      internalID: -6781348691399976328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_17
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1590
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09d4c1959e0244a0800000000000000
+      internalID: -6610705267467953907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d79140a3677ec020800000000000000
+      internalID: 2363958124190210003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_19
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1060
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64738073269bb4570800000000000000
+      internalID: 8452052957172086598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1060
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0518195c3d9af89a0800000000000000
+      internalID: -6228573032612265648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1060
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0646e1997319dd40800000000000000
+      internalID: 5609536223726421517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_22
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1060
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9619bd04be9d50750800000000000000
+      internalID: 6270657660611957097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1060
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4178205f3ea57ffe0800000000000000
+      internalID: -1155354844282583276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_24
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1060
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ecd1f9181a73ba0800000000000000
+      internalID: -6109236791412404680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_25
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1060
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4ba781e36656a20800000000000000
+      internalID: 3054960339125449907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_26
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1060
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d569e6f00930a35c0800000000000000
+      internalID: -4235068582319450531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4388a2cfda8a39880800000000000000
+      internalID: -8605348997761431500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_28
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 530
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ebe95ff14ab72b0800000000000000
+      internalID: -5585690455651205605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_29
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 530
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7709e24eb46867f0800000000000000
+      internalID: -619134180434311301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_30
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 530
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8f5b134589b8fd0800000000000000
+      internalID: -2338608094110156588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_31
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 530
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd6f0c370486da40800000000000000
+      internalID: 5392642770430029263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_32
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 530
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b2c936792b39aa0800000000000000
+      internalID: -6155379902404351129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_33
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 530
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bb99a1d5275f5d0800000000000000
+      internalID: -3029389430132982953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_34
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 530
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc1874dd5dc8b00800000000000000
+      internalID: 832275177520876354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_35
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 530
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1860020274a6d0b0800000000000000
+      internalID: -5704191068451346401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14295cbb79334aeb0800000000000000
+      internalID: -4709582583539330495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25993fe44ad72a190800000000000000
+      internalID: -7952655847330178734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_38
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57711817fb1d9be80800000000000000
+      internalID: -8162262229459069067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_39
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f909b0d9bdd6e8fd0800000000000000
+      internalID: -2337810366558662497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_40
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75f7a482e7c583b0800000000000000
+      internalID: -5510778793315797633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_41
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323ad77536ed44e60800000000000000
+      internalID: 7945720160839377699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_42
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 0
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d71b16c2ae7e0b90800000000000000
+      internalID: -7273737110583306286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_43
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 0
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621f94a0d164f5300800000000000000
+      internalID: 242989995441910054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliPeekingAnimationSpriteSheet2_44
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 270
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24f288635a830160800000000000000
+      internalID: 6990583137449473068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

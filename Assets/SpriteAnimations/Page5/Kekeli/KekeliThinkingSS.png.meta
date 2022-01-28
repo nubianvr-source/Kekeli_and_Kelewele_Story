@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: f4189f4efb900214a9612bc332ffaf09
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5835962997462008478
+    second: KekeliThinkingSS_0
+  - first:
+      213: -2195098807932294494
+    second: KekeliThinkingSS_1
+  - first:
+      213: 5747259619539663111
+    second: KekeliThinkingSS_2
+  - first:
+      213: 865821942591155591
+    second: KekeliThinkingSS_3
+  - first:
+      213: -708756406300702169
+    second: KekeliThinkingSS_4
+  - first:
+      213: 6546066291298793713
+    second: KekeliThinkingSS_5
+  - first:
+      213: 2184872080516705743
+    second: KekeliThinkingSS_6
+  - first:
+      213: -3248339713148697437
+    second: KekeliThinkingSS_7
+  - first:
+      213: 1313622049636858971
+    second: KekeliThinkingSS_8
+  - first:
+      213: -8237807609643500183
+    second: KekeliThinkingSS_9
+  - first:
+      213: -3428872953966654759
+    second: KekeliThinkingSS_10
+  - first:
+      213: 1374253629015660833
+    second: KekeliThinkingSS_11
+  - first:
+      213: -6043137965832282150
+    second: KekeliThinkingSS_12
+  - first:
+      213: -8075058360518390594
+    second: KekeliThinkingSS_13
+  - first:
+      213: -4113537993013747705
+    second: KekeliThinkingSS_14
+  - first:
+      213: -8998195401893357615
+    second: KekeliThinkingSS_15
+  - first:
+      213: -3616455300246250926
+    second: KekeliThinkingSS_16
+  - first:
+      213: -8658241971850182853
+    second: KekeliThinkingSS_17
+  - first:
+      213: -5231710162824898109
+    second: KekeliThinkingSS_18
+  - first:
+      213: -1026365167959099145
+    second: KekeliThinkingSS_19
+  - first:
+      213: 6981164067336393924
+    second: KekeliThinkingSS_20
+  - first:
+      213: 8649231305734505595
+    second: KekeliThinkingSS_21
+  - first:
+      213: -5122795178055706900
+    second: KekeliThinkingSS_22
+  - first:
+      213: -823201391416964253
+    second: KekeliThinkingSS_23
+  - first:
+      213: 5271933609900804468
+    second: KekeliThinkingSS_24
+  - first:
+      213: 1872537446661070734
+    second: KekeliThinkingSS_25
+  - first:
+      213: -1606854373189988441
+    second: KekeliThinkingSS_26
+  - first:
+      213: 4872004283660588086
+    second: KekeliThinkingSS_27
+  - first:
+      213: 5443025520255078608
+    second: KekeliThinkingSS_28
+  - first:
+      213: -2146935190682220008
+    second: KekeliThinkingSS_29
+  - first:
+      213: 7679536162859520017
+    second: KekeliThinkingSS_30
+  - first:
+      213: -7920293453268670095
+    second: KekeliThinkingSS_31
+  - first:
+      213: 3539815305960120947
+    second: KekeliThinkingSS_32
+  - first:
+      213: -4819438446987210411
+    second: KekeliThinkingSS_33
+  - first:
+      213: 3065441004880149202
+    second: KekeliThinkingSS_34
+  - first:
+      213: -2836456785609107273
+    second: KekeliThinkingSS_35
+  - first:
+      213: -1740091754248703298
+    second: KekeliThinkingSS_36
+  - first:
+      213: 5440594661519642340
+    second: KekeliThinkingSS_37
+  - first:
+      213: -853223508835968862
+    second: KekeliThinkingSS_38
+  - first:
+      213: -5926804336512282082
+    second: KekeliThinkingSS_39
+  - first:
+      213: -3973946843332938644
+    second: KekeliThinkingSS_40
+  - first:
+      213: 2773956158189463982
+    second: KekeliThinkingSS_41
+  - first:
+      213: 5727881891447172885
+    second: KekeliThinkingSS_42
+  - first:
+      213: 4429821329496850702
+    second: KekeliThinkingSS_43
+  - first:
+      213: -9113033696750016103
+    second: KekeliThinkingSS_44
+  - first:
+      213: 8887239754495597277
+    second: KekeliThinkingSS_45
+  - first:
+      213: -8817567293076834594
+    second: KekeliThinkingSS_46
+  - first:
+      213: 4697065198933871443
+    second: KekeliThinkingSS_47
+  - first:
+      213: 6388985749543864056
+    second: KekeliThinkingSS_48
+  - first:
+      213: 3162835148386955060
+    second: KekeliThinkingSS_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KekeliThinkingSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2828
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e920c0a0d618df050800000000000000
+      internalID: 5835962997462008478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2828
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaef4aa3417981e0800000000000000
+      internalID: -2195098807932294494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_2
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2828
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709bb967c2e52cf40800000000000000
+      internalID: 5747259619539663111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_3
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2828
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d62ee2874040c00800000000000000
+      internalID: 865821942591155591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_4
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2828
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a0a2abdcdf926f0800000000000000
+      internalID: -708756406300702169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_5
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2828
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f5010c9c48da50800000000000000
+      internalID: 6546066291298793713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_6
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2828
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdeddec499325e10800000000000000
+      internalID: 2184872080516705743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_7
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2828
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a44af7cd349be2d0800000000000000
+      internalID: -3248339713148697437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_8
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2828
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cb9b55b4cea3210800000000000000
+      internalID: 1313622049636858971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_9
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 2828
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d7033ff9d6dad80800000000000000
+      internalID: -8237807609643500183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2121
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da8fde17323a60d0800000000000000
+      internalID: -3428872953966654759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2121
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12915ccf464521310800000000000000
+      internalID: 1374253629015660833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2121
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd3e9b906722ca0800000000000000
+      internalID: -6043137965832282150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_13
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2121
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc0c06431afef80800000000000000
+      internalID: -8075058360518390594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_14
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2121
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a7546df6c9e6c0800000000000000
+      internalID: -4113537993013747705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_15
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2121
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d79ad4fcff1380800000000000000
+      internalID: -8998195401893357615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_16
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2121
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a5eb2b015cfcdc0800000000000000
+      internalID: -3616455300246250926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_17
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 2121
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ffd78ccceb7d780800000000000000
+      internalID: -8658241971850182853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_18
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2121
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c95501635b3567b0800000000000000
+      internalID: -5231710162824898109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_19
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 2121
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8b6f1515e91c1f0800000000000000
+      internalID: -1026365167959099145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1414
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c49e404bb312e060800000000000000
+      internalID: 6981164067336393924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1414
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744e760c0e380870800000000000000
+      internalID: 8649231305734505595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1414
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6d7e26dec28e8b0800000000000000
+      internalID: -5122795178055706900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1414
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b0cfd22b66394f0800000000000000
+      internalID: -823201391416964253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1414
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4798491bfaba92940800000000000000
+      internalID: 5271933609900804468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_25
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1414
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f99d8f2e69cf910800000000000000
+      internalID: 1872537446661070734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_26
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1414
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af4a38067e43b9e0800000000000000
+      internalID: -1606854373189988441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_27
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1414
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63455cf3516dc9340800000000000000
+      internalID: 4872004283660588086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_28
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1414
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0903e4fd2898b40800000000000000
+      internalID: 5443025520255078608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_29
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 1414
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ac99ba1dd8432e0800000000000000
+      internalID: -2146935190682220008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 707
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1101203c371339a60800000000000000
+      internalID: 7679536162859520017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_31
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 707
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179a1195117751290800000000000000
+      internalID: -7920293453268670095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_32
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 707
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3726e3a1443ff1130800000000000000
+      internalID: 3539815305960120947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_33
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 707
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5519776544aed1db0800000000000000
+      internalID: -4819438446987210411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_34
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 707
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da3ccf3a52aa8a20800000000000000
+      internalID: 3065441004880149202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_35
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 707
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8d509e491e2a8d0800000000000000
+      internalID: -2836456785609107273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_36
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 707
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb27b67d4c3f9d7e0800000000000000
+      internalID: -1740091754248703298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_37
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 707
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eec3c6e400e08b40800000000000000
+      internalID: 5440594661519642340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 707
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8d1d14dbdb824f0800000000000000
+      internalID: -853223508835968862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_39
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 707
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12d0f48bd2cfbda0800000000000000
+      internalID: -5926804336512282082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64fade9664b9d8c0800000000000000
+      internalID: -3973946843332938644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_41
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9e367cd621f7620800000000000000
+      internalID: 2773956158189463982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fe91f8b368d7f40800000000000000
+      internalID: 5727881891447172885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_43
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01cb1b6703e97d30800000000000000
+      internalID: 4429821329496850702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_44
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999ec0fb220088180800000000000000
+      internalID: -9113033696750016103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_45
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda90785871d55b70800000000000000
+      internalID: 8887239754495597277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_46
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed67d01b345b1a580800000000000000
+      internalID: -8817567293076834594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_47
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 0
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b8d4d89e35f2140800000000000000
+      internalID: 4697065198933871443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_48
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6489c50bc3aa850800000000000000
+      internalID: 6388985749543864056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliThinkingSS_49
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 0
+        width: 450
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f69be5fc5a4eb20800000000000000
+      internalID: 3162835148386955060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: 1e23f872b3d32e5468132ab87333ca6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1573910512151721851
+    second: BlwingFixed_SS_0
+  - first:
+      213: -411469195026075870
+    second: BlwingFixed_SS_1
+  - first:
+      213: 2935763435585597151
+    second: BlwingFixed_SS_2
+  - first:
+      213: 7244372928229663969
+    second: BlwingFixed_SS_3
+  - first:
+      213: -4020361835538993638
+    second: BlwingFixed_SS_4
+  - first:
+      213: 1334164642508811880
+    second: BlwingFixed_SS_5
+  - first:
+      213: 4789652022818628562
+    second: BlwingFixed_SS_6
+  - first:
+      213: -5751242275995587367
+    second: BlwingFixed_SS_7
+  - first:
+      213: 9205421062238127765
+    second: BlwingFixed_SS_8
+  - first:
+      213: -434708331085858516
+    second: BlwingFixed_SS_9
+  - first:
+      213: -2015183943868440608
+    second: BlwingFixed_SS_10
+  - first:
+      213: -2015353619278028189
+    second: BlwingFixed_SS_11
+  - first:
+      213: -8794515598392115706
+    second: BlwingFixed_SS_12
+  - first:
+      213: -1723720508393017982
+    second: BlwingFixed_SS_13
+  - first:
+      213: 4778142959916080507
+    second: BlwingFixed_SS_14
+  - first:
+      213: 4448358649776657429
+    second: BlwingFixed_SS_15
+  - first:
+      213: -1963239797085767437
+    second: BlwingFixed_SS_16
+  - first:
+      213: 5575335880977631288
+    second: BlwingFixed_SS_17
+  - first:
+      213: -3860450178428530065
+    second: BlwingFixed_SS_18
+  - first:
+      213: -3560210668326591879
+    second: BlwingFixed_SS_19
+  - first:
+      213: 6154407414843057489
+    second: BlwingFixed_SS_20
+  - first:
+      213: 4777664283456767780
+    second: BlwingFixed_SS_21
+  - first:
+      213: 5881289609730141782
+    second: BlwingFixed_SS_22
+  - first:
+      213: -763725883549040573
+    second: BlwingFixed_SS_23
+  - first:
+      213: 1402044364282265570
+    second: BlwingFixed_SS_24
+  - first:
+      213: 2547538322980652951
+    second: BlwingFixed_SS_25
+  - first:
+      213: -8288273416575922919
+    second: BlwingFixed_SS_26
+  - first:
+      213: -3463404851405383592
+    second: BlwingFixed_SS_27
+  - first:
+      213: -3279931445418952017
+    second: BlwingFixed_SS_28
+  - first:
+      213: -7885283719399762015
+    second: BlwingFixed_SS_29
+  - first:
+      213: -5927872147259327292
+    second: BlwingFixed_SS_30
+  - first:
+      213: 5067251781876934357
+    second: BlwingFixed_SS_31
+  - first:
+      213: 3724401379366357714
+    second: BlwingFixed_SS_32
+  - first:
+      213: 2774394412035140293
+    second: BlwingFixed_SS_33
+  - first:
+      213: 7571957537189775796
+    second: BlwingFixed_SS_34
+  - first:
+      213: -6707921295435396194
+    second: BlwingFixed_SS_35
+  - first:
+      213: -4298618877326195344
+    second: BlwingFixed_SS_36
+  - first:
+      213: 5963347463838764959
+    second: BlwingFixed_SS_37
+  - first:
+      213: -2567385365709026908
+    second: BlwingFixed_SS_38
+  - first:
+      213: 7086596202918200096
+    second: BlwingFixed_SS_39
+  - first:
+      213: 7302339337973427479
+    second: BlwingFixed_SS_40
+  - first:
+      213: 2150805584744540394
+    second: BlwingFixed_SS_41
+  - first:
+      213: -4469442733909975590
+    second: BlwingFixed_SS_42
+  - first:
+      213: -1883041970818747810
+    second: BlwingFixed_SS_43
+  - first:
+      213: 6657971672066793953
+    second: BlwingFixed_SS_44
+  - first:
+      213: -5248637828890037323
+    second: BlwingFixed_SS_45
+  - first:
+      213: -8900496404828920136
+    second: BlwingFixed_SS_46
+  - first:
+      213: 2126825613681766129
+    second: BlwingFixed_SS_47
+  - first:
+      213: -7034268042633202637
+    second: BlwingFixed_SS_48
+  - first:
+      213: 998025106162332567
+    second: BlwingFixed_SS_49
+  - first:
+      213: -8829270428219553538
+    second: BlwingFixed_SS_50
+  - first:
+      213: 1936926598566302090
+    second: BlwingFixed_SS_51
+  - first:
+      213: 7479595108488821244
+    second: BlwingFixed_SS_52
+  - first:
+      213: -3396227845605849452
+    second: BlwingFixed_SS_53
+  - first:
+      213: 7126174411614910449
+    second: BlwingFixed_SS_54
+  - first:
+      213: -7530357357782907643
+    second: BlwingFixed_SS_55
+  - first:
+      213: 6485949009759004546
+    second: BlwingFixed_SS_56
+  - first:
+      213: -6629584295706014506
+    second: BlwingFixed_SS_57
+  - first:
+      213: 2353039694624833715
+    second: BlwingFixed_SS_58
+  - first:
+      213: -73937787937392415
+    second: BlwingFixed_SS_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlwingFixed_SS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b777e099547a7d510800000000000000
+      internalID: 1573910512151721851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_1
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f647a72fa2a4af0800000000000000
+      internalID: -411469195026075870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_2
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee8a25a4dedb820800000000000000
+      internalID: 2935763435585597151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_3
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4e59fbbce298460800000000000000
+      internalID: 7244372928229663969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_4
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e292c163ec438c0800000000000000
+      internalID: -4020361835538993638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_5
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eaf947ca7e38210800000000000000
+      internalID: 1334164642508811880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_6
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e5d95323487240800000000000000
+      internalID: 4789652022818628562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_7
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dce2121f9b7f20b0800000000000000
+      internalID: -5751242275995587367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_8
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5964a960fa930cf70800000000000000
+      internalID: 9205421062238127765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2979b8731b97f9f0800000000000000
+      internalID: -434708331085858516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef96a441e0a804e0800000000000000
+      internalID: -2015183943868440608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_11
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362a222af860804e0800000000000000
+      internalID: -2015353619278028189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_12
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eb43a98aa93f580800000000000000
+      internalID: -8794515598392115706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_13
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dad2d845d1418e0800000000000000
+      internalID: -1723720508393017982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_14
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd4d3d4bf5f4240800000000000000
+      internalID: 4778142959916080507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_15
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5145971af9ebbbd30800000000000000
+      internalID: 4448358649776657429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_16
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8fac56ecb21c4e0800000000000000
+      internalID: -1963239797085767437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_17
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8384921c1729f5d40800000000000000
+      internalID: 5575335880977631288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629ca9240dec6ac0800000000000000
+      internalID: -3860450178428530065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_19
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97266dc8247979ec0800000000000000
+      internalID: -3560210668326591879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_20
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15520c4bfe8d86550800000000000000
+      internalID: 6154407414843057489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_21
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42703874a5cad4240800000000000000
+      internalID: 4777664283456767780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_22
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e29295db98e9150800000000000000
+      internalID: 5881289609730141782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_23
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340c945fa53b665f0800000000000000
+      internalID: -763725883549040573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_24
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eff164cbef057310800000000000000
+      internalID: 1402044364282265570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_25
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797c4f87b9caa5320800000000000000
+      internalID: 2547538322980652951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_26
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dcda3ad332afc80800000000000000
+      internalID: -8288273416575922919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8581e9633a38fefc0800000000000000
+      internalID: -3463404851405383592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_28
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa7b2c6ab75b72d0800000000000000
+      internalID: -3279931445418952017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_29
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a791083c38d19290800000000000000
+      internalID: -7885283719399762015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_30
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccfca470b7fbbda0800000000000000
+      internalID: -5927872147259327292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_31
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66d3ee5ae725640800000000000000
+      internalID: 5067251781876934357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_32
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da4b12625bbfa330800000000000000
+      internalID: 3724401379366357714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_33
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caee24b401a08620800000000000000
+      internalID: 2774394412035140293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_34
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9c98a134ff41960800000000000000
+      internalID: 7571957537189775796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_35
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b8b443f1da8e2a0800000000000000
+      internalID: -6707921295435396194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0750f28f7ec3854c0800000000000000
+      internalID: -4298618877326195344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_37
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f06565ce012c250800000000000000
+      internalID: 5963347463838764959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_38
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9806bcc90de5cd0800000000000000
+      internalID: -2567385365709026908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_39
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023429d33b5a85260800000000000000
+      internalID: 7086596202918200096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_40
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d644d30fe175560800000000000000
+      internalID: 7302339337973427479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_41
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8ef9ba84239dd10800000000000000
+      internalID: 2150805584744540394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_42
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add585d738959f1c0800000000000000
+      internalID: -4469442733909975590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_43
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e527238ed471ed5e0800000000000000
+      internalID: -1883041970818747810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_44
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a726d5fdd56c50800000000000000
+      internalID: 6657971672066793953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f45ef3b71927b0800000000000000
+      internalID: -5248637828890037323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_46
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6e7893da51b7480800000000000000
+      internalID: -8900496404828920136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_47
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe24b290a0048d10800000000000000
+      internalID: 2126825613681766129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_48
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33437fffb72416e90800000000000000
+      internalID: -7034268042633202637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_49
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7933ab9db82b9dd00800000000000000
+      internalID: 998025106162332567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_50
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8cc143351287580800000000000000
+      internalID: -8829270428219553538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_51
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81dc87aa7851ea10800000000000000
+      internalID: 1936926598566302090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_52
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b9316f1cdcc760800000000000000
+      internalID: 7479595108488821244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_53
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4968f56b4cc2ed0d0800000000000000
+      internalID: -3396227845605849452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7f8cb0fd145e260800000000000000
+      internalID: 7126174411614910449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_55
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505c99171ebce7790800000000000000
+      internalID: -7530357357782907643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_56
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2876bf5a248b20a50800000000000000
+      internalID: 6485949009759004546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_57
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc4fe5453cfef3a0800000000000000
+      internalID: -6629584295706014506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_58
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c184a22da7a020800000000000000
+      internalID: 2353039694624833715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlwingFixed_SS_59
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8738e39f159fef0800000000000000
+      internalID: -73937787937392415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

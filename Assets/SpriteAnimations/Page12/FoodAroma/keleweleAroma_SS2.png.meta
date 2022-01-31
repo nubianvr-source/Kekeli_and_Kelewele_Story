@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: 031b7f81d79c48445a936bda2bff7228
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6757781807120173369
+    second: keleweleAroma_SS2_0
+  - first:
+      213: 8361030188980958026
+    second: keleweleAroma_SS2_1
+  - first:
+      213: -7260282525819908380
+    second: keleweleAroma_SS2_2
+  - first:
+      213: -6873868289545278947
+    second: keleweleAroma_SS2_3
+  - first:
+      213: -2166236343407824399
+    second: keleweleAroma_SS2_4
+  - first:
+      213: -3443593671391664060
+    second: keleweleAroma_SS2_5
+  - first:
+      213: -4049999339582778795
+    second: keleweleAroma_SS2_6
+  - first:
+      213: 8803703424758851481
+    second: keleweleAroma_SS2_7
+  - first:
+      213: 6780517814079858802
+    second: keleweleAroma_SS2_8
+  - first:
+      213: 8104342302024229637
+    second: keleweleAroma_SS2_9
+  - first:
+      213: -4843018776906751941
+    second: keleweleAroma_SS2_10
+  - first:
+      213: -6599314049615054239
+    second: keleweleAroma_SS2_11
+  - first:
+      213: -7056245114356176147
+    second: keleweleAroma_SS2_12
+  - first:
+      213: 720797540900658175
+    second: keleweleAroma_SS2_13
+  - first:
+      213: -7179755146357825202
+    second: keleweleAroma_SS2_14
+  - first:
+      213: -3924888700013220144
+    second: keleweleAroma_SS2_15
+  - first:
+      213: -6574529498572168478
+    second: keleweleAroma_SS2_16
+  - first:
+      213: 7666416168421970195
+    second: keleweleAroma_SS2_17
+  - first:
+      213: -4321733186393710129
+    second: keleweleAroma_SS2_18
+  - first:
+      213: -4058989257207707348
+    second: keleweleAroma_SS2_19
+  - first:
+      213: 637298745916025044
+    second: keleweleAroma_SS2_20
+  - first:
+      213: 6084866992209572245
+    second: keleweleAroma_SS2_21
+  - first:
+      213: -181864295705029772
+    second: keleweleAroma_SS2_22
+  - first:
+      213: -5143716878135159244
+    second: keleweleAroma_SS2_23
+  - first:
+      213: -7227150974271558760
+    second: keleweleAroma_SS2_24
+  - first:
+      213: 60538818451812584
+    second: keleweleAroma_SS2_25
+  - first:
+      213: -8947496094667355914
+    second: keleweleAroma_SS2_26
+  - first:
+      213: 3552991672488041488
+    second: keleweleAroma_SS2_27
+  - first:
+      213: -6864857378723520441
+    second: keleweleAroma_SS2_28
+  - first:
+      213: 3854747150893263297
+    second: keleweleAroma_SS2_29
+  - first:
+      213: -7005663247302243987
+    second: keleweleAroma_SS2_30
+  - first:
+      213: 5768334441619681921
+    second: keleweleAroma_SS2_31
+  - first:
+      213: -3159779657419204582
+    second: keleweleAroma_SS2_32
+  - first:
+      213: -3678538339853550030
+    second: keleweleAroma_SS2_33
+  - first:
+      213: -3871229051083309825
+    second: keleweleAroma_SS2_34
+  - first:
+      213: -7762195804183002095
+    second: keleweleAroma_SS2_35
+  - first:
+      213: 8732033888853023012
+    second: keleweleAroma_SS2_36
+  - first:
+      213: -2089328861032843580
+    second: keleweleAroma_SS2_37
+  - first:
+      213: -2214459279309160233
+    second: keleweleAroma_SS2_38
+  - first:
+      213: -2364956964066889293
+    second: keleweleAroma_SS2_39
+  - first:
+      213: -6175288864574115710
+    second: keleweleAroma_SS2_40
+  - first:
+      213: 8647182459023608785
+    second: keleweleAroma_SS2_41
+  - first:
+      213: 8670679436049659372
+    second: keleweleAroma_SS2_42
+  - first:
+      213: -2471663562082260397
+    second: keleweleAroma_SS2_43
+  - first:
+      213: -1258519096879905620
+    second: keleweleAroma_SS2_44
+  - first:
+      213: 6818595523903438321
+    second: keleweleAroma_SS2_45
+  - first:
+      213: 1745253771400828356
+    second: keleweleAroma_SS2_46
+  - first:
+      213: 2857823655457129703
+    second: keleweleAroma_SS2_47
+  - first:
+      213: 2553520606107137795
+    second: keleweleAroma_SS2_48
+  - first:
+      213: 9171868193986629259
+    second: keleweleAroma_SS2_49
+  - first:
+      213: -1814847791616091730
+    second: keleweleAroma_SS2_50
+  - first:
+      213: -5716542697526888805
+    second: keleweleAroma_SS2_51
+  - first:
+      213: -131848468775150942
+    second: keleweleAroma_SS2_52
+  - first:
+      213: 7039287480060111665
+    second: keleweleAroma_SS2_53
+  - first:
+      213: -8620436838545001216
+    second: keleweleAroma_SS2_54
+  - first:
+      213: -6885725505440642623
+    second: keleweleAroma_SS2_55
+  - first:
+      213: -5693871793004298051
+    second: keleweleAroma_SS2_56
+  - first:
+      213: 453630386905298308
+    second: keleweleAroma_SS2_57
+  - first:
+      213: -8168090025721382815
+    second: keleweleAroma_SS2_58
+  - first:
+      213: 8653891227629471894
+    second: keleweleAroma_SS2_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1912
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6310d20498732a0800000000000000
+      internalID: -6757781807120173369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1912
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43f68288a8580470800000000000000
+      internalID: 8361030188980958026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1912
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee4787628b4e3b90800000000000000
+      internalID: -7260282525819908380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_3
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1912
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ae4d0c53d1b90a0800000000000000
+      internalID: -6873868289545278947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_4
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1912
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1b2abd58bffe1e0800000000000000
+      internalID: -2166236343407824399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_5
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1912
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448aae10dc5e530d0800000000000000
+      internalID: -3443593671391664060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_6
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1912
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5521a97fe038bc7c0800000000000000
+      internalID: -4049999339582778795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1673
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99724acee990d2a70800000000000000
+      internalID: 8803703424758851481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1673
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782075f60d391e50800000000000000
+      internalID: 6780517814079858802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1673
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50363529268687070800000000000000
+      internalID: 8104342302024229637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_10
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1673
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b302de1f4142accb0800000000000000
+      internalID: -4843018776906751941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_11
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1673
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a337726d68a64a0800000000000000
+      internalID: -6599314049615054239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_12
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1673
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deae6be347e231e90800000000000000
+      internalID: -7056245114356176147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_13
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1673
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbdb546b89c00a00800000000000000
+      internalID: 720797540900658175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1434
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e412f0ffbb26c5c90800000000000000
+      internalID: -7179755146357825202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_15
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1434
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de64c4b58ef789c0800000000000000
+      internalID: -3924888700013220144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_16
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1434
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26740214492c4a0800000000000000
+      internalID: -6574529498572168478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_17
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1434
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3115a1303e4946a60800000000000000
+      internalID: 7666416168421970195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_18
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1434
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc16cf2809e1604c0800000000000000
+      internalID: -4321733186393710129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_19
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1434
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c290209a6c29ba7c0800000000000000
+      internalID: -4058989257207707348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_20
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1434
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8602635d328d800800000000000000
+      internalID: 637298745916025044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1195
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b6285a4ac17450800000000000000
+      internalID: 6084866992209572245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_22
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1195
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473dc29f263e97df0800000000000000
+      internalID: -181864295705029772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_23
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1195
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436929d70c8dd98b0800000000000000
+      internalID: -5143716878135159244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_24
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1195
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bec60ea7004bb90800000000000000
+      internalID: -7227150974271558760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_25
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1195
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e031f01cb317d000800000000000000
+      internalID: 60538818451812584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_26
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1195
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8482035bb14d380800000000000000
+      internalID: -8947496094667355914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_27
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1195
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c12900a13ce4130800000000000000
+      internalID: 3552991672488041488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 956
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740277be5902bb0a0800000000000000
+      internalID: -6864857378723520441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 956
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c921f34c10de7530800000000000000
+      internalID: 3854747150893263297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_30
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 956
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d694a88e462e6ce90800000000000000
+      internalID: -7005663247302243987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_31
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 956
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182746adc9d3d0050800000000000000
+      internalID: 5768334441619681921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_32
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 956
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18d50f84253624d0800000000000000
+      internalID: -3159779657419204582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_33
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 956
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ebf50aed433fcc0800000000000000
+      internalID: -3678538339853550030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_34
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 956
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcb10e40b1a64ac0800000000000000
+      internalID: -3871229051083309825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 717
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11405aeba04274490800000000000000
+      internalID: -7762195804183002095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_36
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 717
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429d1cfbe8a6e2970800000000000000
+      internalID: 8732033888853023012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_37
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 717
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c67a2b78763103e0800000000000000
+      internalID: -2089328861032843580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_38
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 717
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0c537a409a441e0800000000000000
+      internalID: -2214459279309160233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_39
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 717
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1f4b7db2cfd2fd0800000000000000
+      internalID: -2364956964066889293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_40
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 717
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28072a9ee77fc4aa0800000000000000
+      internalID: -6175288864574115710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_41
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 717
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db471ab1a6f00870800000000000000
+      internalID: 8647182459023608785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce536030201745870800000000000000
+      internalID: 8670679436049659372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_43
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 478
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a6fc1f513e2bdd0800000000000000
+      internalID: -2471663562082260397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 478
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca48d6f9c87d88ee0800000000000000
+      internalID: -1258519096879905620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_45
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 478
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd3555a08480ae50800000000000000
+      internalID: 6818595523903438321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_46
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 478
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5d14fee03683810800000000000000
+      internalID: 1745253771400828356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_47
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 478
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e40b36297709a720800000000000000
+      internalID: 2857823655457129703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_48
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 478
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307f7ad467def6320800000000000000
+      internalID: 2553520606107137795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ec64d1785094f70800000000000000
+      internalID: 9171868193986629259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 239
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9125b8c8d50d6e0800000000000000
+      internalID: -1814847791616091730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_51
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 239
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b967e8244b2caa0b0800000000000000
+      internalID: -5716542697526888805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_52
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 239
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa5a7624849b2ef0800000000000000
+      internalID: -131848468775150942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_53
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 239
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b66d8daa290b160800000000000000
+      internalID: 7039287480060111665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_54
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 239
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00575dd4e5e0e5880800000000000000
+      internalID: -8620436838545001216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_55
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 239
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c90d5b822df070a0800000000000000
+      internalID: -6885725505440642623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0cc5d85cd4bf0b0800000000000000
+      internalID: -5693871793004298051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_57
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48530d6fe6e9b4600800000000000000
+      internalID: 453630386905298308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_58
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1683773e56d15ae80800000000000000
+      internalID: -8168090025721382815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: keleweleAroma_SS2_59
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 390
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69849b3a83cc81870800000000000000
+      internalID: 8653891227629471894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

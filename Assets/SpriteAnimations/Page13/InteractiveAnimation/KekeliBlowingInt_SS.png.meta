@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 63ca5617076f3254889ff9233c2f5c9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1462040565084582028
+    second: KekeliBlowingInt_SS_0
+  - first:
+      213: -9133393831807872849
+    second: KekeliBlowingInt_SS_1
+  - first:
+      213: 8405784674552423388
+    second: KekeliBlowingInt_SS_2
+  - first:
+      213: -2209680972262905684
+    second: KekeliBlowingInt_SS_3
+  - first:
+      213: 7515375807865877929
+    second: KekeliBlowingInt_SS_4
+  - first:
+      213: -581946921650591920
+    second: KekeliBlowingInt_SS_5
+  - first:
+      213: 2530671452888503643
+    second: KekeliBlowingInt_SS_6
+  - first:
+      213: 8769222370782059598
+    second: KekeliBlowingInt_SS_7
+  - first:
+      213: -4008662372293518061
+    second: KekeliBlowingInt_SS_8
+  - first:
+      213: 2386685821913290744
+    second: KekeliBlowingInt_SS_9
+  - first:
+      213: 8038652524114781073
+    second: KekeliBlowingInt_SS_10
+  - first:
+      213: 1746786336110778202
+    second: KekeliBlowingInt_SS_11
+  - first:
+      213: 2835087024772566274
+    second: KekeliBlowingInt_SS_12
+  - first:
+      213: 115554054846200596
+    second: KekeliBlowingInt_SS_13
+  - first:
+      213: 7507913368985171227
+    second: KekeliBlowingInt_SS_14
+  - first:
+      213: 5484433162685701709
+    second: KekeliBlowingInt_SS_15
+  - first:
+      213: -2080137246731537588
+    second: KekeliBlowingInt_SS_16
+  - first:
+      213: -9012136148115987890
+    second: KekeliBlowingInt_SS_17
+  - first:
+      213: 506778286423017560
+    second: KekeliBlowingInt_SS_18
+  - first:
+      213: 4164710696102760360
+    second: KekeliBlowingInt_SS_19
+  - first:
+      213: 8637038288717520248
+    second: KekeliBlowingInt_SS_20
+  - first:
+      213: 2357132643861724116
+    second: KekeliBlowingInt_SS_21
+  - first:
+      213: -7815920895655016061
+    second: KekeliBlowingInt_SS_22
+  - first:
+      213: 7976062644271994264
+    second: KekeliBlowingInt_SS_23
+  - first:
+      213: 6411545474474720168
+    second: KekeliBlowingInt_SS_24
+  - first:
+      213: -66384610963204292
+    second: KekeliBlowingInt_SS_25
+  - first:
+      213: -8892424511786898925
+    second: KekeliBlowingInt_SS_26
+  - first:
+      213: -1967646927408949281
+    second: KekeliBlowingInt_SS_27
+  - first:
+      213: -8117881384222568016
+    second: KekeliBlowingInt_SS_28
+  - first:
+      213: 3208876678357053275
+    second: KekeliBlowingInt_SS_29
+  - first:
+      213: 3102488948821229450
+    second: KekeliBlowingInt_SS_30
+  - first:
+      213: 1469434099976070928
+    second: KekeliBlowingInt_SS_31
+  - first:
+      213: 7221679139573428713
+    second: KekeliBlowingInt_SS_32
+  - first:
+      213: -4767639236097903991
+    second: KekeliBlowingInt_SS_33
+  - first:
+      213: -3513384491879453417
+    second: KekeliBlowingInt_SS_34
+  - first:
+      213: -1885702157831771058
+    second: KekeliBlowingInt_SS_35
+  - first:
+      213: -5807832599599958941
+    second: KekeliBlowingInt_SS_36
+  - first:
+      213: -7590618766799744842
+    second: KekeliBlowingInt_SS_37
+  - first:
+      213: -8144155057457101887
+    second: KekeliBlowingInt_SS_38
+  - first:
+      213: -8972576545237862871
+    second: KekeliBlowingInt_SS_39
+  - first:
+      213: 5249155770828304268
+    second: KekeliBlowingInt_SS_40
+  - first:
+      213: 7198448347531632186
+    second: KekeliBlowingInt_SS_41
+  - first:
+      213: 1805857443790128965
+    second: KekeliBlowingInt_SS_42
+  - first:
+      213: 544334401592560523
+    second: KekeliBlowingInt_SS_43
+  - first:
+      213: 1644671894141083196
+    second: KekeliBlowingInt_SS_44
+  - first:
+      213: -542545005834681595
+    second: KekeliBlowingInt_SS_45
+  - first:
+      213: -1425893346238244513
+    second: KekeliBlowingInt_SS_46
+  - first:
+      213: -3513098671710922643
+    second: KekeliBlowingInt_SS_47
+  - first:
+      213: -7394303975242860191
+    second: KekeliBlowingInt_SS_48
+  - first:
+      213: 3719220021928855460
+    second: KekeliBlowingInt_SS_49
+  - first:
+      213: 4183898309712640131
+    second: KekeliBlowingInt_SS_50
+  - first:
+      213: 1036360949524376637
+    second: KekeliBlowingInt_SS_51
+  - first:
+      213: -4125776225257368264
+    second: KekeliBlowingInt_SS_52
+  - first:
+      213: 3479527589725305777
+    second: KekeliBlowingInt_SS_53
+  - first:
+      213: 6924377328372460317
+    second: KekeliBlowingInt_SS_54
+  - first:
+      213: 3220796434646843702
+    second: KekeliBlowingInt_SS_55
+  - first:
+      213: 1427136075327766603
+    second: KekeliBlowingInt_SS_56
+  - first:
+      213: 8891897771290503997
+    second: KekeliBlowingInt_SS_57
+  - first:
+      213: -8409661649749523060
+    second: KekeliBlowingInt_SS_58
+  - first:
+      213: -8665038049565763039
+    second: KekeliBlowingInt_SS_59
+  - first:
+      213: 944581518795303945
+    second: KekeliBlowingInt_SS_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f311d5263a4410800000000000000
+      internalID: 1462040565084582028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_1
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0195563baaf3180800000000000000
+      internalID: -9133393831807872849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_2
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3ae1130a857a470800000000000000
+      internalID: 8405784674552423388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_3
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca86455fcd2a551e0800000000000000
+      internalID: -2209680972262905684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_4
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5f865aa7afb4860800000000000000
+      internalID: 7515375807865877929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_5
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05762e8ab528ce7f0800000000000000
+      internalID: -581946921650591920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_6
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5514a04740ce1320800000000000000
+      internalID: 2530671452888503643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_7
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c9fdee84982b970800000000000000
+      internalID: 8769222370782059598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_8
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 5898
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d58faafce5e58c0800000000000000
+      internalID: -4008662372293518061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f75a9d1c163f1120800000000000000
+      internalID: 2386685821913290744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_10
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a8ac41e70f8f60800000000000000
+      internalID: 8038652524114781073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_11
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579366fae4dd3810800000000000000
+      internalID: 1746786336110778202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_12
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d43eac0a0485720800000000000000
+      internalID: 2835087024772566274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_13
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bb677fcc78a9100800000000000000
+      internalID: 115554054846200596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_14
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1574c23e67713860800000000000000
+      internalID: 7507913368985171227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_15
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ed04857ee9c1c40800000000000000
+      internalID: 5484433162685701709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_16
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43f184f13ed123e0800000000000000
+      internalID: -2080137246731537588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_17
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 4915
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42e610fbe57ee280800000000000000
+      internalID: -9012136148115987890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858002e9a20780700800000000000000
+      internalID: 506778286423017560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_19
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af897100560cc930800000000000000
+      internalID: 4164710696102760360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_20
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d9476009cecd770800000000000000
+      internalID: 8637038288717520248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_21
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbfad5a6a736b020800000000000000
+      internalID: 2357132643861724116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_22
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3890eed1b55488390800000000000000
+      internalID: -7815920895655016061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_23
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895581a47baa0be60800000000000000
+      internalID: 7976062644271994264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_24
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab3453a3a26af850800000000000000
+      internalID: 6411545474474720168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_25
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c375cfc4c87241ff0800000000000000
+      internalID: -66384610963204292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_26
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 3932
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a27f64503c79480800000000000000
+      internalID: -8892424511786898925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd796686b8381b4e0800000000000000
+      internalID: -1967646927408949281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_28
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b158a434ed775f80800000000000000
+      internalID: -8117881384222568016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_29
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe18d6658388c20800000000000000
+      internalID: 3208876678357053275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_30
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f7012e2414e0b20800000000000000
+      internalID: 3102488948821229450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_31
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0176bed478a746410800000000000000
+      internalID: 1469434099976070928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_32
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e17f145aee883460800000000000000
+      internalID: 7221679139573428713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_33
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9827b23ff51f5ddb0800000000000000
+      internalID: -4767639236097903991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_34
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71da82a5b63fd3fc0800000000000000
+      internalID: -3513384491879453417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_35
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 2949
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cef3ad0e3a4d5e0800000000000000
+      internalID: -1885702157831771058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36439e9950f666fa0800000000000000
+      internalID: -5807832599599958941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_37
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0dc7bc274b8a690800000000000000
+      internalID: -7590618766799744842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_38
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c38194ff162afe80800000000000000
+      internalID: -8144155057457101887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_39
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926781dbb210b7380800000000000000
+      internalID: -8972576545237862871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_40
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fa9e2cc5fb8d840800000000000000
+      internalID: 5249155770828304268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_41
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ede9012a606e360800000000000000
+      internalID: 7198448347531632186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_42
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5470b1cf6c1bf0910800000000000000
+      internalID: 1805857443790128965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_43
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b03f5114ddd8700800000000000000
+      internalID: 544334401592560523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_44
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 1966
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e1956bf5c03d610800000000000000
+      internalID: 1644671894141083196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503cf84113e7878f0800000000000000
+      internalID: -542545005834681595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_46
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5950e96e85363ce0800000000000000
+      internalID: -1425893346238244513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_47
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6816cb0f57fe3fc0800000000000000
+      internalID: -3513098671710922643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_48
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169f36216b7226990800000000000000
+      internalID: -7394303975242860191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_49
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7079897e25d9330800000000000000
+      internalID: 3719220021928855460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_50
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38877ce6851301a30800000000000000
+      internalID: 4183898309712640131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_51
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cac7feac4e16e00800000000000000
+      internalID: 1036360949524376637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_52
+      rect:
+        serializedVersion: 2
+        x: 4844
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83558c6e16c4eb6c0800000000000000
+      internalID: -4125776225257368264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_53
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 983
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb7fb358e3c94030800000000000000
+      internalID: 3479527589725305777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ba8644e74581060800000000000000
+      internalID: 6924377328372460317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_55
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63148f4fa4192bc20800000000000000
+      internalID: 3220796434646843702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_56
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b408e0003b43ec310800000000000000
+      internalID: 1427136075327766603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_57
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3babd469ed566b70800000000000000
+      internalID: 8891897771290503997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_58
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85447d2941ea4b80800000000000000
+      internalID: -8409661649749523060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_59
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a9362adc99fb780800000000000000
+      internalID: -8665038049565763039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliBlowingInt_SS_60
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 0
+        width: 692
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c613103e3db1d00800000000000000
+      internalID: 944581518795303945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 212d2400d15510a42b09a183e34b7573
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1723183314379242029
+    second: MumFrontPlantainInt_SS_0
+  - first:
+      213: 1633769367029660811
+    second: MumFrontPlantainInt_SS_1
+  - first:
+      213: 5146600857484951760
+    second: MumFrontPlantainInt_SS_2
+  - first:
+      213: 2740097148151705930
+    second: MumFrontPlantainInt_SS_3
+  - first:
+      213: -8201104690707400423
+    second: MumFrontPlantainInt_SS_4
+  - first:
+      213: 3246332707987163666
+    second: MumFrontPlantainInt_SS_5
+  - first:
+      213: 638948030124646301
+    second: MumFrontPlantainInt_SS_6
+  - first:
+      213: -3231291676585516071
+    second: MumFrontPlantainInt_SS_7
+  - first:
+      213: -6288299014446096800
+    second: MumFrontPlantainInt_SS_8
+  - first:
+      213: -5271038295649429279
+    second: MumFrontPlantainInt_SS_9
+  - first:
+      213: 121745663512501278
+    second: MumFrontPlantainInt_SS_10
+  - first:
+      213: 5084457173442328392
+    second: MumFrontPlantainInt_SS_11
+  - first:
+      213: -7042611082750445799
+    second: MumFrontPlantainInt_SS_12
+  - first:
+      213: -3335984057140461110
+    second: MumFrontPlantainInt_SS_13
+  - first:
+      213: -5342174993301281098
+    second: MumFrontPlantainInt_SS_14
+  - first:
+      213: 3975322734115180806
+    second: MumFrontPlantainInt_SS_15
+  - first:
+      213: -2059907576451599625
+    second: MumFrontPlantainInt_SS_16
+  - first:
+      213: 7940928622130476411
+    second: MumFrontPlantainInt_SS_17
+  - first:
+      213: 8052581470300743138
+    second: MumFrontPlantainInt_SS_18
+  - first:
+      213: 1402857601312123835
+    second: MumFrontPlantainInt_SS_19
+  - first:
+      213: -3978902963585974076
+    second: MumFrontPlantainInt_SS_20
+  - first:
+      213: -4270987297824931783
+    second: MumFrontPlantainInt_SS_21
+  - first:
+      213: -4192284799656265577
+    second: MumFrontPlantainInt_SS_22
+  - first:
+      213: 9175413198649975598
+    second: MumFrontPlantainInt_SS_23
+  - first:
+      213: -6171200720060192024
+    second: MumFrontPlantainInt_SS_24
+  - first:
+      213: 1349363442920765609
+    second: MumFrontPlantainInt_SS_25
+  - first:
+      213: -4707095887124981651
+    second: MumFrontPlantainInt_SS_26
+  - first:
+      213: -3797228021123998035
+    second: MumFrontPlantainInt_SS_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d58b87c7e50618e0800000000000000
+      internalID: -1723183314379242029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cb7be45905ca610800000000000000
+      internalID: 1633769367029660811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d08c1746366c6740800000000000000
+      internalID: 5146600857484951760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_3
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b4ada6d7c60620800000000000000
+      internalID: 2740097148151705930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_4
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91978903cb2df2e80800000000000000
+      internalID: -8201104690707400423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_5
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a8e4ae56a4d0d20800000000000000
+      internalID: 3246332707987163666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_6
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd38d19dffdd800800000000000000
+      internalID: 638948030124646301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a17b17552823d0800000000000000
+      internalID: -3231291676585516071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e508afc597bb8a0800000000000000
+      internalID: -6288299014446096800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_9
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8d556e89289d6b0800000000000000
+      internalID: -5271038295649429279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_10
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c5b92390780b100800000000000000
+      internalID: 121745663512501278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84777b25cde9f8640800000000000000
+      internalID: 5084457173442328392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_12
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9173e69988e934e90800000000000000
+      internalID: -7042611082750445799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_13
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1c6c1cc2434b1d0800000000000000
+      internalID: -3335984057140461110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b66d4cc528ccd5b0800000000000000
+      internalID: -5342174993301281098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601587ae6fe2b2730800000000000000
+      internalID: 3975322734115180806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2777b19fcb963e0800000000000000
+      internalID: -2059907576451599625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_17
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75b1dc4288d33e60800000000000000
+      internalID: 7940928622130476411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e52b2ece2480cf60800000000000000
+      internalID: 8052581470300743138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_19
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb6aa44e83f77310800000000000000
+      internalID: 1402857601312123835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_20
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c085b3f5d818c8c0800000000000000
+      internalID: -3978902963585974076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93080f86ea76ab4c0800000000000000
+      internalID: -4270987297824931783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f737bf2302d5c0800000000000000
+      internalID: -4192284799656265577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2366f4d0bd955f70800000000000000
+      internalID: 9175413198649975598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_24
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea6d2b34ad7b5aa0800000000000000
+      internalID: -6171200720060192024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_25
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8b030f6e6e9b210800000000000000
+      internalID: 1349363442920765609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_26
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68963cda390daeb0800000000000000
+      internalID: -4707095887124981651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontPlantainInt_SS_27
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae9ebdbb398d4bc0800000000000000
+      internalID: -3797228021123998035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

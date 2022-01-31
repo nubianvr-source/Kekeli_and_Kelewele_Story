@@ -1,0 +1,1208 @@
+fileFormatVersion: 2
+guid: 0f775033ee175474aa2b7a0712bf7ef1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6520493980498569600
+    second: Kekeli_SS2_0
+  - first:
+      213: -1926906547760056606
+    second: Kekeli_SS2_1
+  - first:
+      213: -4173673436199428987
+    second: Kekeli_SS2_2
+  - first:
+      213: -5372736941767178539
+    second: Kekeli_SS2_3
+  - first:
+      213: 4364419209410843318
+    second: Kekeli_SS2_4
+  - first:
+      213: -3313916087906439746
+    second: Kekeli_SS2_5
+  - first:
+      213: 17529910186790125
+    second: Kekeli_SS2_6
+  - first:
+      213: 8885591880641474578
+    second: Kekeli_SS2_7
+  - first:
+      213: -6674975669098295812
+    second: Kekeli_SS2_8
+  - first:
+      213: -3870421944450724717
+    second: Kekeli_SS2_9
+  - first:
+      213: -1246051560255311229
+    second: Kekeli_SS2_10
+  - first:
+      213: -4749813050878228684
+    second: Kekeli_SS2_11
+  - first:
+      213: 8367532540930216713
+    second: Kekeli_SS2_12
+  - first:
+      213: 7727224738206915755
+    second: Kekeli_SS2_13
+  - first:
+      213: -5215037723160294882
+    second: Kekeli_SS2_14
+  - first:
+      213: -205565075875827908
+    second: Kekeli_SS2_15
+  - first:
+      213: -2684016936736841359
+    second: Kekeli_SS2_16
+  - first:
+      213: -5839440762145814124
+    second: Kekeli_SS2_17
+  - first:
+      213: -6944690070556683769
+    second: Kekeli_SS2_18
+  - first:
+      213: 5901587918288831234
+    second: Kekeli_SS2_19
+  - first:
+      213: -3932945084977645907
+    second: Kekeli_SS2_20
+  - first:
+      213: -3893377551195104895
+    second: Kekeli_SS2_21
+  - first:
+      213: -3147381821465186682
+    second: Kekeli_SS2_22
+  - first:
+      213: 7635066158217896623
+    second: Kekeli_SS2_23
+  - first:
+      213: 8812238557068397363
+    second: Kekeli_SS2_24
+  - first:
+      213: 1482759983697652108
+    second: Kekeli_SS2_25
+  - first:
+      213: 7980277133162242966
+    second: Kekeli_SS2_26
+  - first:
+      213: 1284912364286980111
+    second: Kekeli_SS2_27
+  - first:
+      213: 8669390544364118499
+    second: Kekeli_SS2_28
+  - first:
+      213: 8598448124620012817
+    second: Kekeli_SS2_29
+  - first:
+      213: 5867340084416894264
+    second: Kekeli_SS2_30
+  - first:
+      213: -4788303600576040963
+    second: Kekeli_SS2_31
+  - first:
+      213: -4704421726149555549
+    second: Kekeli_SS2_32
+  - first:
+      213: 157722386945527506
+    second: Kekeli_SS2_33
+  - first:
+      213: 4499770005648084961
+    second: Kekeli_SS2_34
+  - first:
+      213: -5787285869225481353
+    second: Kekeli_SS2_35
+  - first:
+      213: -8294605281863676664
+    second: Kekeli_SS2_36
+  - first:
+      213: -8490044734765473150
+    second: Kekeli_SS2_37
+  - first:
+      213: 8534355754400826776
+    second: Kekeli_SS2_38
+  - first:
+      213: -6778011105780005903
+    second: Kekeli_SS2_39
+  - first:
+      213: 1307584056720935089
+    second: Kekeli_SS2_40
+  - first:
+      213: -5586290896914341817
+    second: Kekeli_SS2_41
+  - first:
+      213: 1025586895755390938
+    second: Kekeli_SS2_42
+  - first:
+      213: -5711832229522057977
+    second: Kekeli_SS2_43
+  - first:
+      213: -3124811645344882345
+    second: Kekeli_SS2_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kekeli_SS2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2692
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a0bb6ab27d7a50800000000000000
+      internalID: 6520493980498569600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2692
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6336934b04245e0800000000000000
+      internalID: -1926906547760056606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2692
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c59d27f122416c0800000000000000
+      internalID: -4173673436199428987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_3
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2692
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6495aa7343075b0800000000000000
+      internalID: -5372736941767178539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_4
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2692
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b213d3b528819c30800000000000000
+      internalID: 4364419209410843318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_5
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2692
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd62ec30ea9202d0800000000000000
+      internalID: -3313916087906439746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_6
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 2692
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc0a54c574e3000800000000000000
+      internalID: 17529910186790125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_7
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 2692
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210fab0dcb6ff4b70800000000000000
+      internalID: 8885591880641474578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_8
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2692
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd45079ef8bd53a0800000000000000
+      internalID: -6674975669098295812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2019
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c43267fbf794ac0800000000000000
+      internalID: -3870421944450724717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2019
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382392335b225bee0800000000000000
+      internalID: -1246051560255311229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2019
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43783e02236451eb0800000000000000
+      internalID: -4749813050878228684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_12
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2019
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903daac43827f1470800000000000000
+      internalID: 8367532540930216713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_13
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2019
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac1f6475fd9c3b60800000000000000
+      internalID: 7727224738206915755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_14
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2019
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ac4cc32d670a7b0800000000000000
+      internalID: -5215037723160294882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_15
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 2019
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fe13217afa52df0800000000000000
+      internalID: -205565075875827908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_16
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 2019
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1712baa01d470cad0800000000000000
+      internalID: -2684016936736841359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_17
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2019
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499cc55c09326fea0800000000000000
+      internalID: -5839440762145814124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1346
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7025945ec218f9f90800000000000000
+      internalID: -6944690070556683769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1346
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203c75891f6a6e150800000000000000
+      internalID: 5901587918288831234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_20
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1346
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6f9c8684f5b69c0800000000000000
+      internalID: -3932945084977645907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_21
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1346
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1891984ceb1f7f9c0800000000000000
+      internalID: -3893377551195104895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_22
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1346
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eab0fa8e04254d0800000000000000
+      internalID: -3147381821465186682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_23
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1346
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa22f25f73435f960800000000000000
+      internalID: 7635066158217896623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_24
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 1346
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b0016474c5b4a70800000000000000
+      internalID: 8812238557068397363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_25
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 1346
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8966736952d39410800000000000000
+      internalID: 1482759983697652108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_26
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 1346
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693ee4375c3afbe60800000000000000
+      internalID: 7980277133162242966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0035d0dcfce4d110800000000000000
+      internalID: 1284912364286980111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 673
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e124f784ccdf4870800000000000000
+      internalID: 8669390544364118499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_29
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 673
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d79974303d35770800000000000000
+      internalID: 8598448124620012817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_30
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 673
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835541468bafc6150800000000000000
+      internalID: 5867340084416894264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_31
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 673
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffe0faae378c8db0800000000000000
+      internalID: -4788303600576040963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_32
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 673
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aac93b7d5986beb0800000000000000
+      internalID: -4704421726149555549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_33
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 673
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dec30fdca7503200800000000000000
+      internalID: 157722386945527506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_34
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 673
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef8c95baf4627e30800000000000000
+      internalID: 4499770005648084961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_35
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 673
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b6d2f0a2e6fafa0800000000000000
+      internalID: -5787285869225481353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dcf6e5174a3ec80800000000000000
+      internalID: -8294605281863676664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_37
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282e021cb4d4d2a80800000000000000
+      internalID: -8490044734765473150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_38
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8954fd7775f107670800000000000000
+      internalID: 8534355754400826776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_39
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3845c8fcaafe1a0800000000000000
+      internalID: -6778011105780005903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_40
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 0
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8c0de85c8752210800000000000000
+      internalID: 1307584056720935089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_41
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 0
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7402c65d6028972b0800000000000000
+      internalID: -5586290896914341817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_42
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 0
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfabcf09dd9b3e00800000000000000
+      internalID: 1025586895755390938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_43
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 0
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705d5be89de7bb0b0800000000000000
+      internalID: -5711832229522057977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kekeli_SS2_44
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 0
+        width: 362
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751e6315d5072a4d0800000000000000
+      internalID: -3124811645344882345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

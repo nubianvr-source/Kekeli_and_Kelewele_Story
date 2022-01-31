@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 052534b09969e4b4c96b2c9587c43d99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -889103676643373508
+    second: MumFrontBananaInt_SS_0
+  - first:
+      213: 3357336419659910068
+    second: MumFrontBananaInt_SS_1
+  - first:
+      213: 6485675504942638011
+    second: MumFrontBananaInt_SS_2
+  - first:
+      213: 7469042726401505785
+    second: MumFrontBananaInt_SS_3
+  - first:
+      213: -3923185067429096093
+    second: MumFrontBananaInt_SS_4
+  - first:
+      213: 8970092214443717865
+    second: MumFrontBananaInt_SS_5
+  - first:
+      213: 4576484502480394591
+    second: MumFrontBananaInt_SS_6
+  - first:
+      213: -6713072368522645604
+    second: MumFrontBananaInt_SS_7
+  - first:
+      213: 2007884167849647290
+    second: MumFrontBananaInt_SS_8
+  - first:
+      213: 7374796591441739269
+    second: MumFrontBananaInt_SS_9
+  - first:
+      213: 6069593568854949027
+    second: MumFrontBananaInt_SS_10
+  - first:
+      213: 2187775352004493564
+    second: MumFrontBananaInt_SS_11
+  - first:
+      213: 2447097585403293823
+    second: MumFrontBananaInt_SS_12
+  - first:
+      213: 5249051851784382569
+    second: MumFrontBananaInt_SS_13
+  - first:
+      213: 6854677279872457110
+    second: MumFrontBananaInt_SS_14
+  - first:
+      213: 845940161264163663
+    second: MumFrontBananaInt_SS_15
+  - first:
+      213: -5395823959548465676
+    second: MumFrontBananaInt_SS_16
+  - first:
+      213: -3218427721408399460
+    second: MumFrontBananaInt_SS_17
+  - first:
+      213: -602357530500794085
+    second: MumFrontBananaInt_SS_18
+  - first:
+      213: 2784088082955323848
+    second: MumFrontBananaInt_SS_19
+  - first:
+      213: -2115492357308961640
+    second: MumFrontBananaInt_SS_20
+  - first:
+      213: 4787076620232435286
+    second: MumFrontBananaInt_SS_21
+  - first:
+      213: 127641868904548780
+    second: MumFrontBananaInt_SS_22
+  - first:
+      213: -3425651085053607320
+    second: MumFrontBananaInt_SS_23
+  - first:
+      213: 4875873817919308668
+    second: MumFrontBananaInt_SS_24
+  - first:
+      213: 3410748069221480834
+    second: MumFrontBananaInt_SS_25
+  - first:
+      213: 7235362479391403162
+    second: MumFrontBananaInt_SS_26
+  - first:
+      213: -5620721260942782484
+    second: MumFrontBananaInt_SS_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e8d21bae449a3f0800000000000000
+      internalID: -889103676643373508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_1
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb8f4d8fa7a79e20800000000000000
+      internalID: 3357336419659910068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_2
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3ee88528fb10a50800000000000000
+      internalID: 6485675504942638011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_3
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9706779ce57a760800000000000000
+      internalID: 7469042726401505785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_4
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36595c397fb0e89c0800000000000000
+      internalID: -3923185067429096093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_5
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e43a6ce75b2c7c70800000000000000
+      internalID: 8970092214443717865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_6
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2894
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f599c626860f28f30800000000000000
+      internalID: 4576484502480394591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fa7ba8f3066d2a0800000000000000
+      internalID: -6713072368522645604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_8
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc1fce23007ddb10800000000000000
+      internalID: 2007884167849647290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_9
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e75a33d6a885660800000000000000
+      internalID: 7374796591441739269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_10
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac389a51378b3450800000000000000
+      internalID: 6069593568854949027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf04590671a8c5e10800000000000000
+      internalID: 2187775352004493564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_12
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70fda4e946d5f120800000000000000
+      internalID: 2447097585403293823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_13
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1932
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e63939d068d840800000000000000
+      internalID: 5249051851784382569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6991dbc1ba4b02f50800000000000000
+      internalID: 6854677279872457110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b136d38126dbb00800000000000000
+      internalID: 845940161264163663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_16
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd629472be2e15b0800000000000000
+      internalID: -5395823959548465676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_17
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97be221a09d553d0800000000000000
+      internalID: -3218427721408399460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19f7b6740ff3a7f0800000000000000
+      internalID: -602357530500794085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_19
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c943f75c5113a620800000000000000
+      internalID: 2784088082955323848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_20
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 970
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cab8dc8e244a2e0800000000000000
+      internalID: -2115492357308961640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6562885b2dc1f6240800000000000000
+      internalID: 4787076620232435286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c58e7a9975c100800000000000000
+      internalID: 127641868904548780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c2feec74a570d0800000000000000
+      internalID: -3425651085053607320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_24
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7345b667659aa340800000000000000
+      internalID: 4875873817919308668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_25
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289bb4c4c49655f20800000000000000
+      internalID: 3410748069221480834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_26
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c605527db296460800000000000000
+      internalID: 7235362479391403162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumFrontBananaInt_SS_27
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8
+        width: 750
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef05040bcf2ff1b0800000000000000
+      internalID: -5620721260942782484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

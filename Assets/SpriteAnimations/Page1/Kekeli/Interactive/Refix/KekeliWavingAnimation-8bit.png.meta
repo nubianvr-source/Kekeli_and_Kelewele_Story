@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 9e4e2b28d45ec284a87814af8abd7d53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1853433546032493681
+    second: KekeliWavingAnimation-8bit_0
+  - first:
+      213: -7966327329902359452
+    second: KekeliWavingAnimation-8bit_1
+  - first:
+      213: -5818380108484789098
+    second: KekeliWavingAnimation-8bit_2
+  - first:
+      213: -1983398870633935760
+    second: KekeliWavingAnimation-8bit_3
+  - first:
+      213: 7550276039660353909
+    second: KekeliWavingAnimation-8bit_4
+  - first:
+      213: 5288683872663758079
+    second: KekeliWavingAnimation-8bit_5
+  - first:
+      213: 4870336307404670138
+    second: KekeliWavingAnimation-8bit_6
+  - first:
+      213: -4626808982783758819
+    second: KekeliWavingAnimation-8bit_7
+  - first:
+      213: 7968692468162319476
+    second: KekeliWavingAnimation-8bit_8
+  - first:
+      213: 4630706576360901866
+    second: KekeliWavingAnimation-8bit_9
+  - first:
+      213: 5864261068374689136
+    second: KekeliWavingAnimation-8bit_10
+  - first:
+      213: 7796447703757369026
+    second: KekeliWavingAnimation-8bit_11
+  - first:
+      213: 470743560293667708
+    second: KekeliWavingAnimation-8bit_12
+  - first:
+      213: -8820980748137004240
+    second: KekeliWavingAnimation-8bit_13
+  - first:
+      213: -1461612684434246231
+    second: KekeliWavingAnimation-8bit_14
+  - first:
+      213: 5501199438743784832
+    second: KekeliWavingAnimation-8bit_15
+  - first:
+      213: -1242389499087029506
+    second: KekeliWavingAnimation-8bit_16
+  - first:
+      213: -4016536213913894042
+    second: KekeliWavingAnimation-8bit_17
+  - first:
+      213: 5512239716642213319
+    second: KekeliWavingAnimation-8bit_18
+  - first:
+      213: 399529800503329181
+    second: KekeliWavingAnimation-8bit_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bc0f182084746e0800000000000000
+      internalID: -1853433546032493681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0fa8308be17190800000000000000
+      internalID: -7966327329902359452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_2
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cb0915e16f04fa0800000000000000
+      internalID: -5818380108484789098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_3
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c04f35c3d8974e0800000000000000
+      internalID: -1983398870633935760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_4
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 2166
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57939141e08f7c860800000000000000
+      internalID: 7550276039660353909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4e57726fd256940800000000000000
+      internalID: 5288683872663758079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab40b834119e69340800000000000000
+      internalID: 4870336307404670138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e66997eb54acfb0800000000000000
+      internalID: -4626808982783758819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_8
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4745521749b769e60800000000000000
+      internalID: 7968692468162319476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_9
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1444
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec8e0fb813934040800000000000000
+      internalID: 4630706576360901866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07540aa1f5a026150800000000000000
+      internalID: 5864261068374689136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2e5411eb823c60800000000000000
+      internalID: 7796447703757369026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c735b9326ca688600800000000000000
+      internalID: 470743560293667708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_13
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0330cb0ceb4959580800000000000000
+      internalID: -8820980748137004240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_14
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 722
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a57719e10f47bbe0800000000000000
+      internalID: -1461612684434246231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dc6e03ebf285c40800000000000000
+      internalID: 5501199438743784832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efafd32455522cee0800000000000000
+      internalID: -1242389499087029506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_17
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6638b2e08956248c0800000000000000
+      internalID: -4016536213913894042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_18
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 0
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd424331d86f7c40800000000000000
+      internalID: 5512239716642213319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekeliWavingAnimation-8bit_19
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 410
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910f2c9c3a6b8500800000000000000
+      internalID: 399529800503329181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

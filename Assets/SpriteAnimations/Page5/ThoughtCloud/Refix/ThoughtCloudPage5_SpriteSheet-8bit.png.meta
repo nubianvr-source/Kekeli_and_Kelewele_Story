@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: 75aa5650e0d84ab4080386c7dddf3ccf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3279934084692754417
+    second: ThoughtCloudPage5_SpriteSheet-8bit_0
+  - first:
+      213: 6571820725321356233
+    second: ThoughtCloudPage5_SpriteSheet-8bit_1
+  - first:
+      213: 5874397514633202017
+    second: ThoughtCloudPage5_SpriteSheet-8bit_2
+  - first:
+      213: 8984375688376110769
+    second: ThoughtCloudPage5_SpriteSheet-8bit_3
+  - first:
+      213: -566164734839856909
+    second: ThoughtCloudPage5_SpriteSheet-8bit_4
+  - first:
+      213: -2949152625203686309
+    second: ThoughtCloudPage5_SpriteSheet-8bit_5
+  - first:
+      213: -2351737974079781662
+    second: ThoughtCloudPage5_SpriteSheet-8bit_6
+  - first:
+      213: -2638393312323333294
+    second: ThoughtCloudPage5_SpriteSheet-8bit_7
+  - first:
+      213: 1754956309194058254
+    second: ThoughtCloudPage5_SpriteSheet-8bit_8
+  - first:
+      213: -3127315369564218451
+    second: ThoughtCloudPage5_SpriteSheet-8bit_9
+  - first:
+      213: 1990759729849421311
+    second: ThoughtCloudPage5_SpriteSheet-8bit_10
+  - first:
+      213: -4278575049109925007
+    second: ThoughtCloudPage5_SpriteSheet-8bit_11
+  - first:
+      213: 6439394151704985357
+    second: ThoughtCloudPage5_SpriteSheet-8bit_12
+  - first:
+      213: 746838927744021619
+    second: ThoughtCloudPage5_SpriteSheet-8bit_13
+  - first:
+      213: -755217403644607637
+    second: ThoughtCloudPage5_SpriteSheet-8bit_14
+  - first:
+      213: -8340254500956391779
+    second: ThoughtCloudPage5_SpriteSheet-8bit_15
+  - first:
+      213: 8991213159778965649
+    second: ThoughtCloudPage5_SpriteSheet-8bit_16
+  - first:
+      213: -5139856593322441566
+    second: ThoughtCloudPage5_SpriteSheet-8bit_17
+  - first:
+      213: -6015975159278267745
+    second: ThoughtCloudPage5_SpriteSheet-8bit_18
+  - first:
+      213: 6655835982565202140
+    second: ThoughtCloudPage5_SpriteSheet-8bit_19
+  - first:
+      213: 737566269798406809
+    second: ThoughtCloudPage5_SpriteSheet-8bit_20
+  - first:
+      213: 6592712801855055471
+    second: ThoughtCloudPage5_SpriteSheet-8bit_21
+  - first:
+      213: 23047823022244960
+    second: ThoughtCloudPage5_SpriteSheet-8bit_22
+  - first:
+      213: -3639453744004714399
+    second: ThoughtCloudPage5_SpriteSheet-8bit_23
+  - first:
+      213: -4062460414906785270
+    second: ThoughtCloudPage5_SpriteSheet-8bit_24
+  - first:
+      213: 3688123230790852782
+    second: ThoughtCloudPage5_SpriteSheet-8bit_25
+  - first:
+      213: -1591801673967057413
+    second: ThoughtCloudPage5_SpriteSheet-8bit_26
+  - first:
+      213: -7337874396080996438
+    second: ThoughtCloudPage5_SpriteSheet-8bit_27
+  - first:
+      213: 6586498927791668889
+    second: ThoughtCloudPage5_SpriteSheet-8bit_28
+  - first:
+      213: 9173318899786228620
+    second: ThoughtCloudPage5_SpriteSheet-8bit_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3405
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00413be3555b72d0800000000000000
+      internalID: -3279934084692754417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_1
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 3405
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c35454712cc33b50800000000000000
+      internalID: 6571820725321356233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_2
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 3405
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16946296a6d068150800000000000000
+      internalID: 5874397514633202017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_3
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 3405
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be405a561aeeac70800000000000000
+      internalID: 8984375688376110769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_4
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 3405
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0648f5c249428f0800000000000000
+      internalID: -566164734839856909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2724
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54d25a00518217d0800000000000000
+      internalID: -2949152625203686309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_6
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2724
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e48d2ac5c2fc5fd0800000000000000
+      internalID: -2351737974079781662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_7
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 2724
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2539331e24b826bd0800000000000000
+      internalID: -2638393312323333294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_8
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2724
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aa7dd077bda5810800000000000000
+      internalID: 1754956309194058254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_9
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 2724
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab51889d3b8994d0800000000000000
+      internalID: -3127315369564218451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2043
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdc3d24d6990ab10800000000000000
+      internalID: 1990759729849421311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_11
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 2043
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17314f469a27f94c0800000000000000
+      internalID: -4278575049109925007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_12
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 2043
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f7a151dd25d5950800000000000000
+      internalID: 6439394151704985357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_13
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2043
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374bd904c0e4d5a00800000000000000
+      internalID: 746838927744021619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_14
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 2043
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63029fc5cde485f0800000000000000
+      internalID: -755217403644607637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1362
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96342e48b6714c80800000000000000
+      internalID: -8340254500956391779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_16
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1362
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19851783bb437cc70800000000000000
+      internalID: 8991213159778965649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_17
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1362
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4019619af8ba8b0800000000000000
+      internalID: -5139856593322441566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_18
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 1362
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9215a57776f28ca0800000000000000
+      internalID: -6015975159278267745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_19
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 1362
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8df00ef874e5c50800000000000000
+      internalID: 6655835982565202140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 681
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ad4a55d9c5c3a00800000000000000
+      internalID: 737566269798406809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_21
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 681
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66adb41d550e7b50800000000000000
+      internalID: 6592712801855055471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_22
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 681
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06446187fd1e15000800000000000000
+      internalID: 23047823022244960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_23
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 681
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160322c3a101e7dc0800000000000000
+      internalID: -3639453744004714399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_24
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 681
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a022567c6cd3f97c0800000000000000
+      internalID: -4062460414906785270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0a723b988de2330800000000000000
+      internalID: 3688123230790852782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_26
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 0
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5425eafc8c8e9e0800000000000000
+      internalID: -1591801673967057413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_27
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 0
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf782f4d12aa2a90800000000000000
+      internalID: -7337874396080996438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_28
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 0
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e7388c0e1f76b50800000000000000
+      internalID: 6586498927791668889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThoughtCloudPage5_SpriteSheet-8bit_29
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 0
+        width: 881
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83a221efec2e4f70800000000000000
+      internalID: 9173318899786228620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: cb220a0c30124ce4785e4d1919372c0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1309876380491967070
+    second: MumMixingIntPage10_SpriteSheet-8bit_0
+  - first:
+      213: -1916653101230488327
+    second: MumMixingIntPage10_SpriteSheet-8bit_1
+  - first:
+      213: 6637589518178970583
+    second: MumMixingIntPage10_SpriteSheet-8bit_2
+  - first:
+      213: -2871569999857078274
+    second: MumMixingIntPage10_SpriteSheet-8bit_3
+  - first:
+      213: 1462479211801936738
+    second: MumMixingIntPage10_SpriteSheet-8bit_4
+  - first:
+      213: 5927117586598518785
+    second: MumMixingIntPage10_SpriteSheet-8bit_5
+  - first:
+      213: 6831206945858927903
+    second: MumMixingIntPage10_SpriteSheet-8bit_6
+  - first:
+      213: -353694332112144896
+    second: MumMixingIntPage10_SpriteSheet-8bit_7
+  - first:
+      213: -8810327314404502669
+    second: MumMixingIntPage10_SpriteSheet-8bit_8
+  - first:
+      213: -1492698682649584519
+    second: MumMixingIntPage10_SpriteSheet-8bit_9
+  - first:
+      213: 7538799039849879459
+    second: MumMixingIntPage10_SpriteSheet-8bit_10
+  - first:
+      213: 4593496013874757909
+    second: MumMixingIntPage10_SpriteSheet-8bit_11
+  - first:
+      213: -1246745890659783549
+    second: MumMixingIntPage10_SpriteSheet-8bit_12
+  - first:
+      213: -6728485017697699486
+    second: MumMixingIntPage10_SpriteSheet-8bit_13
+  - first:
+      213: 2323393931330521125
+    second: MumMixingIntPage10_SpriteSheet-8bit_14
+  - first:
+      213: -5764422660519833724
+    second: MumMixingIntPage10_SpriteSheet-8bit_15
+  - first:
+      213: 3753116235114647643
+    second: MumMixingIntPage10_SpriteSheet-8bit_16
+  - first:
+      213: -5270513605060607570
+    second: MumMixingIntPage10_SpriteSheet-8bit_17
+  - first:
+      213: -558721206483790166
+    second: MumMixingIntPage10_SpriteSheet-8bit_18
+  - first:
+      213: -1985322372689931837
+    second: MumMixingIntPage10_SpriteSheet-8bit_19
+  - first:
+      213: 4070427401808838397
+    second: MumMixingIntPage10_SpriteSheet-8bit_20
+  - first:
+      213: 4284670165400520208
+    second: MumMixingIntPage10_SpriteSheet-8bit_21
+  - first:
+      213: -6994008517268738425
+    second: MumMixingIntPage10_SpriteSheet-8bit_22
+  - first:
+      213: -4488786787368183050
+    second: MumMixingIntPage10_SpriteSheet-8bit_23
+  - first:
+      213: 7878462947450073361
+    second: MumMixingIntPage10_SpriteSheet-8bit_24
+  - first:
+      213: 769181686065898704
+    second: MumMixingIntPage10_SpriteSheet-8bit_25
+  - first:
+      213: 23396461907029293
+    second: MumMixingIntPage10_SpriteSheet-8bit_26
+  - first:
+      213: -3324053518963371310
+    second: MumMixingIntPage10_SpriteSheet-8bit_27
+  - first:
+      213: -2897776940765505820
+    second: MumMixingIntPage10_SpriteSheet-8bit_28
+  - first:
+      213: -8418952227858288962
+    second: MumMixingIntPage10_SpriteSheet-8bit_29
+  - first:
+      213: -4801340389392099497
+    second: MumMixingIntPage10_SpriteSheet-8bit_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1938
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a51a193f5262dde0800000000000000
+      internalID: -1309876380491967070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1938
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f48187c82ea665e0800000000000000
+      internalID: -1916653101230488327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1938
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe9e3df747d1c50800000000000000
+      internalID: 6637589518178970583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1938
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa9d2ac422628d0800000000000000
+      internalID: -2871569999857078274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_4
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1938
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26309d63815cb4410800000000000000
+      internalID: 1462479211801936738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_5
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1938
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100ec23ba0a514250800000000000000
+      internalID: 5927117586598518785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1938
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d3a1326825dce50800000000000000
+      internalID: 6831206945858927903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_7
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1938
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006f26ff0ec671bf0800000000000000
+      internalID: -353694332112144896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1292
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3739ff59cfd6bb580800000000000000
+      internalID: -8810327314404502669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1292
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c5affe47ed84be0800000000000000
+      internalID: -1492698682649584519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_10
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1292
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7de43d8c13f9860800000000000000
+      internalID: 7538799039849879459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_11
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1292
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5118d2889406fbf30800000000000000
+      internalID: 4593496013874757909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_12
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1292
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cab0ec73ba2bee0800000000000000
+      internalID: -1246745890659783549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_13
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1292
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2693793868e9f92a0800000000000000
+      internalID: -6728485017697699486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_14
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1292
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528014e787a5e3020800000000000000
+      internalID: 2323393931330521125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_15
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1292
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc088a128a000b0800000000000000
+      internalID: -5764422660519833724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5092cab45fb51430800000000000000
+      internalID: 3753116235114647643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 646
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1cf72fccf5bd6b0800000000000000
+      internalID: -5270513605060607570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 646
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa65e0fd5060f38f0800000000000000
+      internalID: -558721206483790166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 646
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c15e2b12d7b274e0800000000000000
+      internalID: -1985322372689931837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_20
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 646
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfef4d8e7201d7830800000000000000
+      internalID: 4070427401808838397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_21
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 646
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016896470d4367b30800000000000000
+      internalID: 4284670165400520208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_22
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 646
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ee3243f4a40fe90800000000000000
+      internalID: -6994008517268738425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_23
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 646
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad3721330a4b1c0800000000000000
+      internalID: -4488786787368183050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111b6de0f4ce55d60800000000000000
+      internalID: 7878462947450073361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4a1bd0baeacaa00800000000000000
+      internalID: 769181686065898704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_26
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d28f845fe135000800000000000000
+      internalID: 23396461907029293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d21dc3afe69ed1d0800000000000000
+      internalID: -3324053518963371310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_28
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 0
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e69a57b93709c7d0800000000000000
+      internalID: -2897776940765505820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_29
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee585ed8fd92b80800000000000000
+      internalID: -8418952227858288962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumMixingIntPage10_SpriteSheet-8bit_30
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 0
+        width: 292
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7575c8cba563e5db0800000000000000
+      internalID: -4801340389392099497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

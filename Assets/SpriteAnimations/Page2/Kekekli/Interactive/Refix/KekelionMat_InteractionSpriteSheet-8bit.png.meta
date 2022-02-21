@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: edad4ea0a2624444e86e1be7e5ebf7c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2192575920278686070
+    second: KekelionMat_InteractionSpriteSheet-8bit_0
+  - first:
+      213: -6064817223979878492
+    second: KekelionMat_InteractionSpriteSheet-8bit_1
+  - first:
+      213: 7376186649790057423
+    second: KekelionMat_InteractionSpriteSheet-8bit_2
+  - first:
+      213: -3815975898460809749
+    second: KekelionMat_InteractionSpriteSheet-8bit_3
+  - first:
+      213: -8922780647144706667
+    second: KekelionMat_InteractionSpriteSheet-8bit_4
+  - first:
+      213: 5395441105063682049
+    second: KekelionMat_InteractionSpriteSheet-8bit_5
+  - first:
+      213: 4671763773582687456
+    second: KekelionMat_InteractionSpriteSheet-8bit_6
+  - first:
+      213: 747508901511270684
+    second: KekelionMat_InteractionSpriteSheet-8bit_7
+  - first:
+      213: 833738505771632383
+    second: KekelionMat_InteractionSpriteSheet-8bit_8
+  - first:
+      213: 5828782384789046902
+    second: KekelionMat_InteractionSpriteSheet-8bit_9
+  - first:
+      213: -8062892207715670931
+    second: KekelionMat_InteractionSpriteSheet-8bit_10
+  - first:
+      213: 7989164802877141303
+    second: KekelionMat_InteractionSpriteSheet-8bit_11
+  - first:
+      213: 1712444448360390522
+    second: KekelionMat_InteractionSpriteSheet-8bit_12
+  - first:
+      213: -5364669779625590505
+    second: KekelionMat_InteractionSpriteSheet-8bit_13
+  - first:
+      213: -3758174807841535033
+    second: KekelionMat_InteractionSpriteSheet-8bit_14
+  - first:
+      213: 4727941511094441070
+    second: KekelionMat_InteractionSpriteSheet-8bit_15
+  - first:
+      213: 3358006234765414579
+    second: KekelionMat_InteractionSpriteSheet-8bit_16
+  - first:
+      213: 8648241164156246392
+    second: KekelionMat_InteractionSpriteSheet-8bit_17
+  - first:
+      213: 922754275755622051
+    second: KekelionMat_InteractionSpriteSheet-8bit_18
+  - first:
+      213: 6569119630562293816
+    second: KekelionMat_InteractionSpriteSheet-8bit_19
+  - first:
+      213: 5444301147758049904
+    second: KekelionMat_InteractionSpriteSheet-8bit_20
+  - first:
+      213: -467153933501047372
+    second: KekelionMat_InteractionSpriteSheet-8bit_21
+  - first:
+      213: -4695534229737095509
+    second: KekelionMat_InteractionSpriteSheet-8bit_22
+  - first:
+      213: -4117335359909834998
+    second: KekelionMat_InteractionSpriteSheet-8bit_23
+  - first:
+      213: -5311866342121126489
+    second: KekelionMat_InteractionSpriteSheet-8bit_24
+  - first:
+      213: 3218420662903562660
+    second: KekelionMat_InteractionSpriteSheet-8bit_25
+  - first:
+      213: 2377164774582446477
+    second: KekelionMat_InteractionSpriteSheet-8bit_26
+  - first:
+      213: -6788781790579376533
+    second: KekelionMat_InteractionSpriteSheet-8bit_27
+  - first:
+      213: 2602689825580681411
+    second: KekelionMat_InteractionSpriteSheet-8bit_28
+  - first:
+      213: 177008137378247211
+    second: KekelionMat_InteractionSpriteSheet-8bit_29
+  - first:
+      213: -4051545033651869898
+    second: KekelionMat_InteractionSpriteSheet-8bit_30
+  - first:
+      213: -1482411008032885341
+    second: KekelionMat_InteractionSpriteSheet-8bit_31
+  - first:
+      213: 1474330377652158140
+    second: KekelionMat_InteractionSpriteSheet-8bit_32
+  - first:
+      213: -190169478194713418
+    second: KekelionMat_InteractionSpriteSheet-8bit_33
+  - first:
+      213: -6155425887671969101
+    second: KekelionMat_InteractionSpriteSheet-8bit_34
+  - first:
+      213: 1278793449402854804
+    second: KekelionMat_InteractionSpriteSheet-8bit_35
+  - first:
+      213: 414431110574092806
+    second: KekelionMat_InteractionSpriteSheet-8bit_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6794947ce289d6e10800000000000000
+      internalID: 2192575920278686070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1392
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a732091ed075dba0800000000000000
+      internalID: -6064817223979878492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1392
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb07b16daa7d5660800000000000000
+      internalID: 7376186649790057423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1392
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be59ac4632eea0bc0800000000000000
+      internalID: -3815975898460809749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_4
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1392
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59da53eb64aeb2480800000000000000
+      internalID: -8922780647144706667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_5
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1392
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100acd9491570ea40800000000000000
+      internalID: 5395441105063682049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec3fe6666075d040800000000000000
+      internalID: 4671763773582687456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11950da26faf5a00800000000000000
+      internalID: 747508901511270684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_8
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff64510f0c8029b00800000000000000
+      internalID: 833738505771632383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_9
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676c76e52bef3e050800000000000000
+      internalID: 5828782384789046902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_10
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a7d0914ada1090800000000000000
+      internalID: -8062892207715670931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_11
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1160
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731bb8f4f073fde60800000000000000
+      internalID: 7989164802877141303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f5c122723d3c710800000000000000
+      internalID: 1712444448360390522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_13
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711c428324ddc85b0800000000000000
+      internalID: -5364669779625590505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_14
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb88c68ce748dbc0800000000000000
+      internalID: -3758174807841535033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_15
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e649b9f21c50d9140800000000000000
+      internalID: 4727941511094441070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_16
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b05db801e80a9e20800000000000000
+      internalID: 3358006234765414579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_17
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 928
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8799179b489b40870800000000000000
+      internalID: 8648241164156246392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef265ff184ecc00800000000000000
+      internalID: 922754275755622051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f5b2df733a2b50800000000000000
+      internalID: 6569119630562293816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_20
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07abe5a7c0b0e8b40800000000000000
+      internalID: 5444301147758049904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_21
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd5e3af8f55489f0800000000000000
+      internalID: -467153933501047372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_22
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae35ddfe7c16deb0800000000000000
+      internalID: -4695534229737095509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_23
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 696
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4b630e494cd6c0800000000000000
+      internalID: -4117335359909834998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5448f84b57846b0800000000000000
+      internalID: -5311866342121126489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1e42e7a802aac20800000000000000
+      internalID: 3218420662903562660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_26
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89ee8984c26df020800000000000000
+      internalID: 2377164774582446477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_27
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e30e21ee669c1a0800000000000000
+      internalID: -6788781790579376533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_28
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c882425b9c9e1420800000000000000
+      internalID: 2602689825580681411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_29
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 464
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22b8ce86fbd47200800000000000000
+      internalID: 177008137378247211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637aea5024506c7c0800000000000000
+      internalID: -4051545033651869898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53217da0b6d6be0800000000000000
+      internalID: -1482411008032885341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_32
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe3689caafd57410800000000000000
+      internalID: 1474330377652158140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_33
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc251dfdd16c5df0800000000000000
+      internalID: -190169478194713418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_34
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba911c94c8839aa0800000000000000
+      internalID: -6155425887671969101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_35
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 232
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49de0cceddf2fb110800000000000000
+      internalID: 1278793449402854804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KekelionMat_InteractionSpriteSheet-8bit_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 430
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b3a936ea50c500800000000000000
+      internalID: 414431110574092806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

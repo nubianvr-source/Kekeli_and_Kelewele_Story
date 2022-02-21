@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: fb6863879d1a1b04bb241809fcff3737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2213051288006936058
+    second: AromaPage3_SpriteSheet-8bit_0
+  - first:
+      213: 7660407831351755177
+    second: AromaPage3_SpriteSheet-8bit_1
+  - first:
+      213: 6575611879835561898
+    second: AromaPage3_SpriteSheet-8bit_2
+  - first:
+      213: -278183182357506021
+    second: AromaPage3_SpriteSheet-8bit_3
+  - first:
+      213: -4959908118203532803
+    second: AromaPage3_SpriteSheet-8bit_4
+  - first:
+      213: 1321079873790114936
+    second: AromaPage3_SpriteSheet-8bit_5
+  - first:
+      213: 5713771137828540293
+    second: AromaPage3_SpriteSheet-8bit_6
+  - first:
+      213: -8617055651611353795
+    second: AromaPage3_SpriteSheet-8bit_7
+  - first:
+      213: -5728770340577894287
+    second: AromaPage3_SpriteSheet-8bit_8
+  - first:
+      213: -3906014755602232331
+    second: AromaPage3_SpriteSheet-8bit_9
+  - first:
+      213: -6836244920148674702
+    second: AromaPage3_SpriteSheet-8bit_10
+  - first:
+      213: 450670601583895940
+    second: AromaPage3_SpriteSheet-8bit_11
+  - first:
+      213: -9152772580654943553
+    second: AromaPage3_SpriteSheet-8bit_12
+  - first:
+      213: -7163404232945691490
+    second: AromaPage3_SpriteSheet-8bit_13
+  - first:
+      213: 2716386174372325879
+    second: AromaPage3_SpriteSheet-8bit_14
+  - first:
+      213: -1323774510651859475
+    second: AromaPage3_SpriteSheet-8bit_15
+  - first:
+      213: -8675536443785538820
+    second: AromaPage3_SpriteSheet-8bit_16
+  - first:
+      213: -7293382069300266153
+    second: AromaPage3_SpriteSheet-8bit_17
+  - first:
+      213: -6067118702414171604
+    second: AromaPage3_SpriteSheet-8bit_18
+  - first:
+      213: -1793667349076113637
+    second: AromaPage3_SpriteSheet-8bit_19
+  - first:
+      213: -4233242502471197778
+    second: AromaPage3_SpriteSheet-8bit_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4770
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a30ac2499a941e0800000000000000
+      internalID: -2213051288006936058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_1
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 4770
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a18756065c3f4a60800000000000000
+      internalID: 7660407831351755177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_2
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 4770
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafef666a24414b50800000000000000
+      internalID: 6575611879835561898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_3
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 4770
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d7199ed1b32cf0800000000000000
+      internalID: -278183182357506021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3816
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9f6ef58ddda2bb0800000000000000
+      internalID: -4959908118203532803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_5
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 3816
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c7d25552b655210800000000000000
+      internalID: 1321079873790114936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_6
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 3816
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f4626b3946b4f40800000000000000
+      internalID: 5713771137828540293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_7
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 3816
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ddeeb3a811a6880800000000000000
+      internalID: -8617055651611353795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2862
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170af024ab15f70b0800000000000000
+      internalID: -5728770340577894287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_9
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2862
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb05e4564c0bc9c0800000000000000
+      internalID: -3906014755602232331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_10
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 2862
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27738f01777c021a0800000000000000
+      internalID: -6836244920148674702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_11
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 2862
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485ae1e368a114600800000000000000
+      internalID: 450670601583895940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb27024d4d1daf080800000000000000
+      internalID: -9152772580654943553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_13
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1908
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e941eb0bdc9769c90800000000000000
+      internalID: -7163404232945691490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_14
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 1908
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9ae3465da82b520800000000000000
+      internalID: 2716386174372325879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_15
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 1908
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded11e1a81201ade0800000000000000
+      internalID: -1323774510651859475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf21530c19d4a9780800000000000000
+      internalID: -8675536443785538820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_17
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 954
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b772466a3b8ca90800000000000000
+      internalID: -7293382069300266153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_18
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 954
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2279746fa34dcba0800000000000000
+      internalID: -6067118702414171604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_19
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 954
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b170a1d9c0d9b17e0800000000000000
+      internalID: -1793667349076113637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AromaPage3_SpriteSheet-8bit_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1598
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab5e186f508045c0800000000000000
+      internalID: -4233242502471197778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

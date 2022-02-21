@@ -1,0 +1,876 @@
+fileFormatVersion: 2
+guid: 9bfeaa5f0bfcd274f8770484e3fec6f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5141699641241870058
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_0
+  - first:
+      213: -1099963916491862543
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_1
+  - first:
+      213: 4434024509991951447
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_2
+  - first:
+      213: -8861425254061864785
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_3
+  - first:
+      213: 4519070985438550108
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_4
+  - first:
+      213: -2012729811696777603
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_5
+  - first:
+      213: 210276322154852245
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_6
+  - first:
+      213: -9086454618330134718
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_7
+  - first:
+      213: -629562385123871843
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_8
+  - first:
+      213: 3709605191549951361
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_9
+  - first:
+      213: -5281644877575903204
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_10
+  - first:
+      213: 548223902580410008
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_11
+  - first:
+      213: -1071631962625975577
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_12
+  - first:
+      213: 7097094542857962570
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_13
+  - first:
+      213: -1551286939254528444
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_14
+  - first:
+      213: -3330407198634802002
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_15
+  - first:
+      213: 104135307518261787
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_16
+  - first:
+      213: 6847358390068747483
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_17
+  - first:
+      213: 6156809793603655595
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_18
+  - first:
+      213: -6835720263263549571
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_19
+  - first:
+      213: 8233430739827867601
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_20
+  - first:
+      213: 2862787028608718899
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_21
+  - first:
+      213: 7865967790519248656
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_22
+  - first:
+      213: 7745850808506187567
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_23
+  - first:
+      213: -8867717659567196024
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_24
+  - first:
+      213: -7757569959540535435
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_25
+  - first:
+      213: -6501423969660327617
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_26
+  - first:
+      213: 1936893361153836544
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_27
+  - first:
+      213: -4015747360169239557
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_28
+  - first:
+      213: -3857722368608545928
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_29
+  - first:
+      213: -7709495225918197930
+    second: Page2Aroma_SpriteSheetReduced-2_8bit_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3941
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611660e0b6305a8b0800000000000000
+      internalID: -5141699641241870058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_1
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3941
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd41c355a42cb0f0800000000000000
+      internalID: -1099963916491862543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_2
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 3941
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c1273acc1d88d30800000000000000
+      internalID: 4434024509991951447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_3
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 3941
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa887f76ea4e50580800000000000000
+      internalID: -8861425254061864785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3378
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d6d14e17f6be30800000000000000
+      internalID: 4519070985438550108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_5
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 3378
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7689f076e85114e0800000000000000
+      internalID: -2012729811696777603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_6
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 3378
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f27be633d0be200800000000000000
+      internalID: 210276322154852245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_7
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 3378
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24789beaaad66e180800000000000000
+      internalID: -9086454618330134718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2815
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d937eb6a8585347f0800000000000000
+      internalID: -629562385123871843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2815
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d9743744a2b7330800000000000000
+      internalID: 3709605191549951361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_10
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2815
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18a35a97f3d3b6b0800000000000000
+      internalID: -5281644877575903204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_11
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 2815
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8960faa1cbeab9700800000000000000
+      internalID: 548223902580410008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2252
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea59b1686cc021f0800000000000000
+      internalID: -1071631962625975577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_13
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2252
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44896c72e1fd7260800000000000000
+      internalID: 7097094542857962570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_14
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 2252
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446e7017fb8b87ae0800000000000000
+      internalID: -1551286939254528444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_15
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 2252
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea408ff4c4408c1d0800000000000000
+      internalID: -3330407198634802002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1689
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ab33da286f17100800000000000000
+      internalID: 104135307518261787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_17
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1689
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc96d94d24b60f50800000000000000
+      internalID: 6847358390068747483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_18
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1689
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7546913e1617550800000000000000
+      internalID: 6156809793603655595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_19
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1689
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778c3443a4a221a0800000000000000
+      internalID: -6835720263263549571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1126
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfb832a2a5034270800000000000000
+      internalID: 8233430739827867601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_21
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1126
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33891d382a9aab720800000000000000
+      internalID: 2862787028608718899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_22
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1126
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0176090a708892d60800000000000000
+      internalID: 7865967790519248656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1126
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ffe24654ace7b60800000000000000
+      internalID: 7745850808506187567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888f90595c98fe480800000000000000
+      internalID: -8867717659567196024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_25
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 563
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f48512933975490800000000000000
+      internalID: -7757569959540535435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_26
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 563
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39af2a785d46c5a0800000000000000
+      internalID: -6501423969660327617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_27
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 563
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0060367ff3a31ea10800000000000000
+      internalID: 1936893361153836544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb56616d033548c0800000000000000
+      internalID: -4015747360169239557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_29
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8735201e1fd967ac0800000000000000
+      internalID: -3857722368608545928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Page2Aroma_SpriteSheetReduced-2_8bit_30
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 0
+        width: 1188
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f639d40fe520590800000000000000
+      internalID: -7709495225918197930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

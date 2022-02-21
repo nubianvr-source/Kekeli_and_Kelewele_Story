@@ -1,0 +1,601 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.24f1 (79c78de19888) revision 7980941'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Professional' Language: 'en' Physical Memory: 16253 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.24f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/anspe/Documents/GitHub/Kekeli_and_Kelewele_Story
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63758
+Successfully changed project path to: C:/Users/anspe/Documents/GitHub/Kekeli_and_Kelewele_Story
+C:/Users/anspe/Documents/GitHub/Kekeli_and_Kelewele_Story
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 99.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.24f1 (79c78de19888)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/anspe/Documents/GitHub/Kekeli_and_Kelewele_Story/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   30.0.15.1123
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56580
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.24f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003655 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 86.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.887 seconds
+Domain Reload Profiling:
+	ReloadAssembly (887ms)
+		BeginReloadAssembly (67ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (714ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (242ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (56ms)
+			SetupLoadedEditorAssemblies (267ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (87ms)
+				BeforeProcessingInitializeOnLoad (16ms)
+				ProcessInitializeOnLoadAttributes (114ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.014783 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 74.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.550 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1551ms)
+		BeginReloadAssembly (169ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (1303ms)
+			LoadAssemblies (147ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (442ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (84ms)
+			SetupLoadedEditorAssemblies (476ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (75ms)
+				BeforeProcessingInitializeOnLoad (110ms)
+				ProcessInitializeOnLoadAttributes (259ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2966 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.2 MB.
+System memory in use after: 121.3 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 3402.
+Total: 3.786700 ms (FindLiveObjects: 0.265400 ms CreateObjectMapping: 0.158300 ms MarkObjects: 3.232400 ms  DeleteObjects: 0.129400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/SpriteAnimations/Page8/Kekeli/Refix/KekeliIdlePage8_SpriteSheet-8bit.png
+  artifactKey: Guid(4a174d8626323c54abb07d4cc6916d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page8/Kekeli/Refix/KekeliIdlePage8_SpriteSheet-8bit.png using Guid(4a174d8626323c54abb07d4cc6916d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de067441ad8dc0f60cfee1a051495b8d') in 0.231337 seconds 
+  Import took 0.240087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/SpriteAnimations/Page8/Kekeli/Refix/KekeliBlinkPage8_SpriteSheet-8bit.png
+  artifactKey: Guid(dcf74685d3782d549b1b7ae75450225e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page8/Kekeli/Refix/KekeliBlinkPage8_SpriteSheet-8bit.png using Guid(dcf74685d3782d549b1b7ae75450225e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0520f3f96190637255e0625445ee59c9') in 0.103005 seconds 
+  Import took 0.110535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.998085 seconds.
+  path: Assets/SpriteAnimations/Page8/Mother/Refix/MotherBlinkPage8_SpriteSheet-8bit.png
+  artifactKey: Guid(38ee91d09a1170e45892bc21abd96465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page8/Mother/Refix/MotherBlinkPage8_SpriteSheet-8bit.png using Guid(38ee91d09a1170e45892bc21abd96465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adf80e99d4202d0950c1daaf19ce94a4') in 0.104485 seconds 
+  Import took 0.112636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/SpriteAnimations/Page8/Mother/Refix/MotherIdlePage8_SpriteSheet-8bit.png
+  artifactKey: Guid(d5b78a3c56ea6ae40888de2e053a7b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page8/Mother/Refix/MotherIdlePage8_SpriteSheet-8bit.png using Guid(d5b78a3c56ea6ae40888de2e053a7b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704ac84b1ec6fd13d190dc6f871bdf55') in 0.101484 seconds 
+  Import took 0.107670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 164.840760 seconds.
+  path: Assets/SpriteAnimations/Page10/Aroma/Refix/AromaPage10_SpriteSheet-8bit.png
+  artifactKey: Guid(7b5d3d3b4d985a048be270b09bc0bfd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Aroma/Refix/AromaPage10_SpriteSheet-8bit.png using Guid(7b5d3d3b4d985a048be270b09bc0bfd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc8374233e88413822da66e4df1c326') in 0.157065 seconds 
+  Import took 0.170851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13354.544180 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/MumInt_SS4.png
+  artifactKey: Guid(e5ba91edcf86d234c84c2723253c9de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/MumInt_SS4.png using Guid(e5ba91edcf86d234c84c2723253c9de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a92638b97a9053ad01d07d76fe84790') in 1.312355 seconds 
+  Import took 1.448831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3115.200310 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix
+  artifactKey: Guid(a08d2877cd0ec494a9733b40d9d489d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix using Guid(a08d2877cd0ec494a9733b40d9d489d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4cd5534f368bb2d1292cb1537204a88') in 0.014276 seconds 
+  Import took 0.036620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.016066 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Int
+  artifactKey: Guid(95659e5fb30b84e4797b29913660fa96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Int using Guid(95659e5fb30b84e4797b29913660fa96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95304f41b1cc21fee8f5e2c34161270b') in 0.013648 seconds 
+  Import took 0.022849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.462303 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Static
+  artifactKey: Guid(7ebf1345b3db5ef47af0a30646d3889c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Static using Guid(7ebf1345b3db5ef47af0a30646d3889c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca771e6476049dc6e76e9a2d68dfa0ce') in 0.013792 seconds 
+  Import took 0.025053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.817033 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumBlinking_SpriteSheet.png
+  artifactKey: Guid(916acbe79352f3d45992ba24d17d781a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumBlinking_SpriteSheet.png using Guid(916acbe79352f3d45992ba24d17d781a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436b97a0767a395c9679583233178ded') in 0.143279 seconds 
+  Import took 0.151834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumIdle_SpriteSheet.png
+  artifactKey: Guid(9d45413f23638e647b218dcccf8ff008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumIdle_SpriteSheet.png using Guid(9d45413f23638e647b218dcccf8ff008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd110289cb31b675fdd9dd55869c6825c') in 0.046918 seconds 
+  Import took 0.053796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 635.108377 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumIdle_SpriteSheet.png
+  artifactKey: Guid(9d45413f23638e647b218dcccf8ff008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumIdle_SpriteSheet.png using Guid(9d45413f23638e647b218dcccf8ff008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5b174b885f0782f19351317ae2ab22') in 0.070265 seconds 
+  Import took 0.080900 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumBlinking_SpriteSheet.png
+  artifactKey: Guid(916acbe79352f3d45992ba24d17d781a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumBlinking_SpriteSheet.png using Guid(916acbe79352f3d45992ba24d17d781a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19b7b93586438ff0c3a80819118ead5') in 0.072266 seconds 
+  Import took 0.081613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.234260 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumIdle_SpriteSheet.png
+  artifactKey: Guid(9d45413f23638e647b218dcccf8ff008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumIdle_SpriteSheet.png using Guid(9d45413f23638e647b218dcccf8ff008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e906f440cc6ff1c1ac489672d2e0f9cc') in 0.047716 seconds 
+  Import took 0.055146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.578578 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumBlinking_SpriteSheet.png
+  artifactKey: Guid(916acbe79352f3d45992ba24d17d781a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumBlinking_SpriteSheet.png using Guid(916acbe79352f3d45992ba24d17d781a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ff5ba8dad47cfd06333367881fe55c6') in 0.057138 seconds 
+  Import took 0.063285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 147.618448 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumIdle_SpriteSheet_1.controller
+  artifactKey: Guid(b98adb5b01ccb7d44b75f54ff52eddb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Static/MumIdle_SpriteSheet_1.controller using Guid(b98adb5b01ccb7d44b75f54ff52eddb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a24f0e219e2af1865ab399edf510ef6') in 0.056348 seconds 
+  Import took 0.065358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.507879 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Int/MumMixingIntPage10_SpriteSheet-8bit.png
+  artifactKey: Guid(cb220a0c30124ce4785e4d1919372c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Int/MumMixingIntPage10_SpriteSheet-8bit.png using Guid(cb220a0c30124ce4785e4d1919372c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cff58d452e577beeca3c2daf9a9df02') in 0.060732 seconds 
+  Import took 0.068503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.886507 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Int/MumMixingIntPage10_SpriteSheet-8bit.png
+  artifactKey: Guid(cb220a0c30124ce4785e4d1919372c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Int/MumMixingIntPage10_SpriteSheet-8bit.png using Guid(cb220a0c30124ce4785e4d1919372c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db528edf9e8bda7c00c0f53f1b9800c8') in 0.249692 seconds 
+  Import took 0.267531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.324397 seconds.
+  path: Assets/SpriteAnimations/Page10/Mum/Refix/Int/MumMixingIntPage10_SpriteSheet-8bit.png
+  artifactKey: Guid(cb220a0c30124ce4785e4d1919372c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Mum/Refix/Int/MumMixingIntPage10_SpriteSheet-8bit.png using Guid(cb220a0c30124ce4785e4d1919372c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46ffe7e235e5c69356a5cc14a4295cd3') in 0.285955 seconds 
+  Import took 0.294693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 377.195808 seconds.
+  path: Assets/SpriteAnimations/Page10/Kekeli
+  artifactKey: Guid(9aec73f91d3670f47b39ffd53116e7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Kekeli using Guid(9aec73f91d3670f47b39ffd53116e7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e5da9d267caecdee85bf6fc45300ce6') in 0.014437 seconds 
+  Import took 0.028643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.507089 seconds.
+  path: Assets/SpriteAnimations/Page10/Kekeli/KekeliBlinkingPage_SpriteSheet.png
+  artifactKey: Guid(04209ec6e9261fe41b9e46debdc8871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Kekeli/KekeliBlinkingPage_SpriteSheet.png using Guid(04209ec6e9261fe41b9e46debdc8871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '896315336217637253a2cbb58ca64bfc') in 0.037174 seconds 
+  Import took 0.046638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/SpriteAnimations/Page10/Kekeli/KekeliIdle_SpriteSheet.png
+  artifactKey: Guid(eaf6739ae9860ef40a3d614e9a2171f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Kekeli/KekeliIdle_SpriteSheet.png using Guid(eaf6739ae9860ef40a3d614e9a2171f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '809bf27c4c2251dc5c249dcf2c2e3411') in 0.029572 seconds 
+  Import took 0.035934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.829020 seconds.
+  path: Assets/SpriteAnimations/Page10/Kekeli/KekeliIdle_SpriteSheet.png
+  artifactKey: Guid(eaf6739ae9860ef40a3d614e9a2171f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Kekeli/KekeliIdle_SpriteSheet.png using Guid(eaf6739ae9860ef40a3d614e9a2171f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a92ad02ee5b2763d0b1a125f428e0f69') in 0.021874 seconds 
+  Import took 0.030297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.598616 seconds.
+  path: Assets/SpriteAnimations/Page10/Kekeli/KekeliIdle_SpriteSheet.png
+  artifactKey: Guid(eaf6739ae9860ef40a3d614e9a2171f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Kekeli/KekeliIdle_SpriteSheet.png using Guid(eaf6739ae9860ef40a3d614e9a2171f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6074b7c2421b7c5c056a2a88be16c7ce') in 0.017423 seconds 
+  Import took 0.028644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.429649 seconds.
+  path: Assets/SpriteAnimations/Page10/Kekeli/KekeliBlinkingPage_SpriteSheet.png
+  artifactKey: Guid(04209ec6e9261fe41b9e46debdc8871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Kekeli/KekeliBlinkingPage_SpriteSheet.png using Guid(04209ec6e9261fe41b9e46debdc8871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '862086a1d1d5c1104bdedcaef3541ef4') in 0.021768 seconds 
+  Import took 0.038379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.426350 seconds.
+  path: Assets/SpriteAnimations/Page10/Kekeli/KekeliBlinkingPage_SpriteSheet.png
+  artifactKey: Guid(04209ec6e9261fe41b9e46debdc8871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Kekeli/KekeliBlinkingPage_SpriteSheet.png using Guid(04209ec6e9261fe41b9e46debdc8871c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ea868260c723716d7c581f30d51794') in 0.080056 seconds 
+  Import took 0.087107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.008760 seconds.
+  path: Assets/SpriteAnimations/Page10/Kekeli/KekeliIdle_SpriteSheet.png
+  artifactKey: Guid(eaf6739ae9860ef40a3d614e9a2171f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Kekeli/KekeliIdle_SpriteSheet.png using Guid(eaf6739ae9860ef40a3d614e9a2171f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15ef57d07374184aad95c2737159bc8') in 0.032608 seconds 
+  Import took 0.040257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.701212 seconds.
+  path: Assets/SpriteAnimations/Page10/Kekeli/KekeliIdle_SpriteSheet_0.controller
+  artifactKey: Guid(fa98027bacedd4744be07c5e3538bed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Kekeli/KekeliIdle_SpriteSheet_0.controller using Guid(fa98027bacedd4744be07c5e3538bed2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b0f90ee1dbf4aa4275906a1f3081f2') in 0.015767 seconds 
+  Import took 0.027634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.985342 seconds.
+  path: Assets/SpriteAnimations/Page11/KeleweleFrying_SS3.png
+  artifactKey: Guid(9aaac3a3003c1334b96f49d399d68a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page11/KeleweleFrying_SS3.png using Guid(9aaac3a3003c1334b96f49d399d68a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbfddba184bfa67e1433dd206d0fffea') in 0.839146 seconds 
+  Import took 0.862135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.724880 seconds.
+  path: Assets/SpriteAnimations/Page12
+  artifactKey: Guid(32372af4d834b4e4099d8fc442797b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page12 using Guid(32372af4d834b4e4099d8fc442797b75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee359f6fa74355e07b388e7dd100541') in 0.012794 seconds 
+  Import took 0.021592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.318300 seconds.
+  path: Assets/SpriteAnimations/Page12/FoodAroma
+  artifactKey: Guid(b6cd375f82214e64093affb29ced2dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page12/FoodAroma using Guid(b6cd375f82214e64093affb29ced2dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41fc334d589690018cc75bb5d79e1157') in 0.010876 seconds 
+  Import took 0.017395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056545 seconds.
+  path: Assets/SpriteAnimations/Page12/FoodAroma/keleweleAroma_SS2.png
+  artifactKey: Guid(031b7f81d79c48445a936bda2bff7228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page12/FoodAroma/keleweleAroma_SS2.png using Guid(031b7f81d79c48445a936bda2bff7228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb9cd8103ea98cb7ebc00450896199c') in 0.318469 seconds 
+  Import took 0.327078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8156.805550 seconds.
+  path: Assets/Pages/Page 12/Kekeli.png
+  artifactKey: Guid(e122ab826ce93fd47a7c195f8e7f3239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pages/Page 12/Kekeli.png using Guid(e122ab826ce93fd47a7c195f8e7f3239) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfe7b2806a01a1fd927bd6120c085ca') in 0.110656 seconds 
+  Import took 0.187877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Pages/Page 12/Mum.png
+  artifactKey: Guid(438d3d8f5330e8545b348e31d4b2b585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pages/Page 12/Mum.png using Guid(438d3d8f5330e8545b348e31d4b2b585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eef2d598ced95e3b57ad1cc8d4fad434') in 0.066955 seconds 
+  Import took 0.075794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Pages/Page 12/UsedBowls.png
+  artifactKey: Guid(55dd4a1e41bd2254d92d974277189303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pages/Page 12/UsedBowls.png using Guid(55dd4a1e41bd2254d92d974277189303) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d404cf1375ce5ff30ddb7359e505828') in 0.046392 seconds 
+  Import took 0.060070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 971.733638 seconds.
+  path: Assets/Pages/Background.png
+  artifactKey: Guid(af17c3e62dfa40746933be61f332d3e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pages/Background.png using Guid(af17c3e62dfa40746933be61f332d3e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c219bd57cec25389ebac53d4d5f6e249') in 0.072589 seconds 
+  Import took 0.081770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001464 seconds.
+  path: Assets/Pages/Tantalizing .png
+  artifactKey: Guid(1f0bf684136a8cb4fb4d4db83a3f19b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pages/Tantalizing .png using Guid(1f0bf684136a8cb4fb4d4db83a3f19b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bf00c9af845caacac85c95828d1ca1c') in 0.050504 seconds 
+  Import took 0.061370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Pages/Horrified.png
+  artifactKey: Guid(db1ad8fd7c7dbdb439d466fc3c748059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pages/Horrified.png using Guid(db1ad8fd7c7dbdb439d466fc3c748059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2373cb041bc36a507717ea61cdbff5c8') in 0.046317 seconds 
+  Import took 0.057488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Pages/Plantain.png
+  artifactKey: Guid(36d5bf7bf920b184292e5bce36cc0f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pages/Plantain.png using Guid(36d5bf7bf920b184292e5bce36cc0f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a089e1ea168cb72fdc7b2fbe61a945de') in 0.046638 seconds 
+  Import took 0.055969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Pages/Kelewele.png
+  artifactKey: Guid(7caaab45e89cbae4da9372c855f9ae51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pages/Kelewele.png using Guid(7caaab45e89cbae4da9372c855f9ae51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c45d7e344109cffbffce00b4d63386') in 0.045603 seconds 
+  Import took 0.057055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.292328 seconds.
+  path: Assets/SpriteAnimations/Page12/Kekeli
+  artifactKey: Guid(0a349f72fbdf86743932af066bff46ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page12/Kekeli using Guid(0a349f72fbdf86743932af066bff46ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114de639eb45b407405028fa9927670b') in 0.006378 seconds 
+  Import took 0.016063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063982 seconds.
+  path: Assets/SpriteAnimations/Page12/Kekeli/BlwingFixed_SS.png
+  artifactKey: Guid(3ee07a1958d25c444b29dd0949a0a5bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page12/Kekeli/BlwingFixed_SS.png using Guid(3ee07a1958d25c444b29dd0949a0a5bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6d82312df3afc363c93fe4a3fed840') in 0.367552 seconds 
+  Import took 0.384537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.366689 seconds.
+  path: Assets/SpriteAnimations/Page12/Kekeli/InteractionRefix
+  artifactKey: Guid(fe46ab8f1d8ed724fb4e25ecbb01f043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page12/Kekeli/InteractionRefix using Guid(fe46ab8f1d8ed724fb4e25ecbb01f043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecce01c1d2db702a53329a8937307804') in 0.014565 seconds 
+  Import took 0.025412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059208 seconds.
+  path: Assets/SpriteAnimations/Page12/Kekeli/InteractionRefix/BlwingFixed_SS.png
+  artifactKey: Guid(1e23f872b3d32e5468132ab87333ca6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page12/Kekeli/InteractionRefix/BlwingFixed_SS.png using Guid(1e23f872b3d32e5468132ab87333ca6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5077ff27178213db8db5a71dd19066') in 0.686588 seconds 
+  Import took 0.712394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.783392 seconds.
+  path: Assets/SpriteAnimations/BefoorePage12
+  artifactKey: Guid(63a001fcbf18c3a458f8af8216ca3c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/BefoorePage12 using Guid(63a001fcbf18c3a458f8af8216ca3c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5b9cc1b8cb6bebfb123c647f3cdc252') in 0.015433 seconds 
+  Import took 0.026253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 231.250833 seconds.
+  path: Assets/SpriteAnimations/BefoorePage12/Kekeli Afraid Animation2.png
+  artifactKey: Guid(fc306b248be58ee4aad7b7d096065983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/BefoorePage12/Kekeli Afraid Animation2.png using Guid(fc306b248be58ee4aad7b7d096065983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04a148ccd00c65e5c0e217c4809d9e6') in 0.047475 seconds 
+  Import took 0.057238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3334.291280 seconds.
+  path: Assets/SpriteAnimations/BefoorePage12/Kekeli Afraid Animation2.png
+  artifactKey: Guid(fc306b248be58ee4aad7b7d096065983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/BefoorePage12/Kekeli Afraid Animation2.png using Guid(fc306b248be58ee4aad7b7d096065983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6782c300685908c5053339f77e7adf2d') in 0.078827 seconds 
+  Import took 0.144676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.377562 seconds.
+  path: Assets/SpriteAnimations/BefoorePage12/Kekeli Afraid Animation2.png
+  artifactKey: Guid(fc306b248be58ee4aad7b7d096065983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/BefoorePage12/Kekeli Afraid Animation2.png using Guid(fc306b248be58ee4aad7b7d096065983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b78a579ca39f38b046cc302b6a3acc5b') in 0.131799 seconds 
+  Import took 0.140531 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 2.243936 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 18.194 seconds
+Domain Reload Profiling:
+	ReloadAssembly (18206ms)
+		BeginReloadAssembly (6093ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (74ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (324ms)
+		EndReloadAssembly (11987ms)
+			LoadAssemblies (12060ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (2662ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (125ms)
+			SetupLoadedEditorAssemblies (2418ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (196ms)
+				ProcessInitializeOnLoadAttributes (545ms)
+				ProcessInitializeOnLoadMethodAttributes (1655ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2948 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.7 MB.
+System memory in use after: 122.8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 3452.
+Total: 7.618700 ms (FindLiveObjects: 1.958600 ms CreateObjectMapping: 0.526600 ms MarkObjects: 4.864300 ms  DeleteObjects: 0.265600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1501.238656 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(1c3442d37e9724b4fae2a6772660b419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(1c3442d37e9724b4fae2a6772660b419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801eef64dc4bfd3db3ecd74f8665ec95') in 0.022720 seconds 
+  Import took 0.032170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.945598 seconds.
+  path: Assets/Scenes/MainStory.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainStory.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc0b8bbdadc2cbee557af34edfe731e') in 0.038818 seconds 
+  Import took 0.048037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.140663 seconds.
+  path: Assets/SpriteAnimations/Page10/Fire/Refix/FirePage10_SpriteSheet-8bit_0.controller
+  artifactKey: Guid(57888b1722c525b46b73f70a8cc5185f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpriteAnimations/Page10/Fire/Refix/FirePage10_SpriteSheet-8bit_0.controller using Guid(57888b1722c525b46b73f70a8cc5185f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f1e01408774d061613ae780575b750') in 0.047661 seconds 
+  Import took 0.057965 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

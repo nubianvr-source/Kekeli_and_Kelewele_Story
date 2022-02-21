@@ -111,7 +111,7 @@
 
   <script src="%UNITY_WEBGL_LOADER_URL%"></script>
   <script>
-  var gameInstance = UnityLoader.instantiate("gameContainer", "%UNITY_WEBGL_BUILD_URL%", {onProgress: UnityProgress});
+  var gameInstance = createUnityInstance("gameContainer", "%UNITY_WEBGL_BUILD_URL%", {onProgress: UnityProgress});
   function UnityProgress(gameInstance, progress) {
     if (!gameInstance.Module) {
       return;

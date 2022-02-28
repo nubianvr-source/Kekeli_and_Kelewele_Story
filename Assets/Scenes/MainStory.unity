@@ -1244,7 +1244,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &126356606
 Transform:
   m_ObjectHideFlags: 0
@@ -8918,7 +8918,7 @@ RectTransform:
   m_Children:
   - {fileID: 1487918811}
   m_Father: {fileID: 989912645}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
@@ -20283,6 +20283,7 @@ GameObject:
   - component: {fileID: 1553608009}
   - component: {fileID: 1553608010}
   - component: {fileID: 1553608011}
+  - component: {fileID: 1553608012}
   m_Layer: 0
   m_Name: KekeliWithShadow
   m_TagString: Untagged
@@ -20344,8 +20345,7 @@ SpriteRenderer:
   m_SortingLayerID: -759920979
   m_SortingLayer: 4
   m_SortingOrder: 1
-  m_Sprite: {fileID: -1853433546032493681, guid: 9e4e2b28d45ec284a87814af8abd7d53,
-    type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -20353,7 +20353,7 @@ SpriteRenderer:
   m_Size: {x: 4.1, y: 7.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!95 &1553608009
@@ -20366,7 +20366,7 @@ Animator:
   m_GameObject: {fileID: 1553608006}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: d6bc3ec29fd45ec43971a7c981364f13, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -20416,6 +20416,25 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4, y: 2.44}
   m_EdgeRadius: 0
+--- !u!114 &1553608012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1553608006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dde63d4e21176014ea87bb6ec8ec096b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  newSprite:
+    m_AssetGUID: 9e4e2b28d45ec284a87814af8abd7d53
+    m_SubObjectName: KekeliWavingAnimation-8bit_0
+    m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_EditorAssetChanged: 0
+  spriteRenderer: {fileID: 0}
 --- !u!1 &1559294270
 GameObject:
   m_ObjectHideFlags: 0
@@ -24096,6 +24115,7 @@ GameObject:
   - component: {fileID: 1748147424}
   - component: {fileID: 1748147423}
   - component: {fileID: 1748147422}
+  - component: {fileID: 1748147456}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -24208,8 +24228,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1748147287}
-  selectedCommands: []
+  - {fileID: 1748147269}
+  selectedCommands:
+  - {fileID: 1748147456}
   variables: []
   description: 
   stepPause: 0
@@ -24412,6 +24433,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 1748147258}
   - {fileID: 1748147405}
+  - {fileID: 1748147456}
   - {fileID: 1748147266}
   - {fileID: 1748147270}
   - {fileID: 1748147264}
@@ -28949,6 +28971,74 @@ MonoBehaviour:
     booleanRef: {fileID: 0}
     booleanVal: 1
   targetGameObjectOLD: {fileID: 0}
+--- !u!114 &1748147456
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748147257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d9ff288f3904c05ada7ac9c9a075bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 224
+  indentLevel: 0
+  description: 
+  delay: 0
+  invokeType: 0
+  staticEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1553608012}
+        m_TargetAssemblyTypeName: AddressableSpriteLoader, Assembly-CSharp
+        m_MethodName: LoadSprite
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  booleanParameter:
+    booleanRef: {fileID: 0}
+    booleanVal: 0
+  booleanEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1553608006}
+        m_TargetAssemblyTypeName: 
+        m_MethodName: 
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: 
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  integerParameter:
+    integerRef: {fileID: 0}
+    integerVal: 0
+  integerEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  floatParameter:
+    floatRef: {fileID: 0}
+    floatVal: 0
+  floatEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  stringParameter:
+    stringRef: {fileID: 0}
+    stringVal: 
+  stringEvent:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &1752067750
 GameObject:
   m_ObjectHideFlags: 0

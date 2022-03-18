@@ -1,20 +1,36 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using System.Runtime.InteropServices;
 
 public class StoryManager : MonoBehaviour
 {
-
-    public GameObject[] pages;
-
-    void Awake()
+    [DllImport("__Internal")]
+    private static extern void ExitGame(string stringValue);
+    public static StoryManager instance;
+    private void Awake()
     {
-        foreach (var i in pages)
+        if (instance == null)
         {
-            i.SetActive(true);
+            instance = this;
         }
+        else
+        {
+            Destroy(gameObject);
+            return;
+        }
+        
+        DontDestroyOnLoad(gameObject);
     }
+
+    public void ExitStory()
+    {
+    #if UNITY_WEBGL == true && UNITY_EDITOR == false
+    ExitGame ("exitGame");
+    #endif
+    }
+
 
     // Start is called before the first frame update
     void Start()

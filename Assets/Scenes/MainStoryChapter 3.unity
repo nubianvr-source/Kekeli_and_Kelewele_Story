@@ -8680,7 +8680,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1748147323}
+  - {fileID: 1748147338}
   selectedCommands: []
   variables:
   - {fileID: 1748147260}
@@ -9604,7 +9604,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 246
   indentLevel: 0
-  soundClip: {fileID: 8300000, guid: bb7a0979a6b339d4a9afa090c6201147, type: 3}
+  soundClip: {fileID: 8300000, guid: 26b9994b190332d41a0ff8eedec376e9, type: 3}
   volume: 1
   waitUntilFinished: 0
 --- !u!114 &1748147281

@@ -6263,7 +6263,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c4782cf42f2644447b9631f6e522160b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volume: 1
+  volume: 0.7
   loop: 1
   targetAudioSource: {fileID: 0}
   audioMode: 0
@@ -6287,7 +6287,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 1683757902}
   punchObject: {fileID: 1370174176}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -9220,7 +9220,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -364.72714
-    y: 67.45452
+    y: 68.59088
     width: 110.227264
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -9261,9 +9261,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1748147278}
+  - {fileID: 1748147269}
   selectedCommands:
-  - {fileID: 1748147272}
+  - {fileID: 1748147268}
   variables:
   - {fileID: 1748147285}
   description: 
@@ -9426,12 +9426,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 0
-  storyText: "Hi everyone, my name is <font=\"Recoleta-Bold SDF\"><color=#FFBD22><size=150%>Kekeli.</size></color></font>
-    I\u2019m 6 years old and guess what?\r\nI love Kelewele! Yummy Yummy Kelewele."
+  storyText: "I love Kelewele! Yummy Yummy Kelewele. Hi everyone, my name is <font=\"Recoleta-Bold
+    SDF\"><color=#FFBD22><size=150%>Kekeli.</size></color></font> I\u2019m 6 years
+    old and guess what? I love Kelewele! Yummy Yummy Kelewele."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 8b1bc2577e58a1d48aeec5d07a607923, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10849,7 +10850,7 @@ MonoBehaviour:
   targetButton: {fileID: 1431074427}
 --- !u!114 &1748147304
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10870,7 +10871,7 @@ MonoBehaviour:
   targetGameObjectOLD: {fileID: 0}
 --- !u!114 &1748147305
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11113,7 +11114,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1748147306
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11356,7 +11357,7 @@ MonoBehaviour:
     vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1748147307
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11370,7 +11371,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &1748147308
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11382,13 +11383,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 248
   indentLevel: 0
-  musicClip: {fileID: 8300000, guid: ee6505866bdf17644b5de5f9e36b9f78, type: 3}
+  musicClip: {fileID: 8300000, guid: aebd0716696d3b640aa200c354d3c42e, type: 3}
   atTime: 0
   loop: 1
   fadeDuration: 1
 --- !u!114 &1748147309
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11400,12 +11401,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 249
   indentLevel: 0
-  soundClip: {fileID: 8300000, guid: bb7a0979a6b339d4a9afa090c6201147, type: 3}
+  soundClip: {fileID: 8300000, guid: 26b9994b190332d41a0ff8eedec376e9, type: 3}
   volume: 1
   waitUntilFinished: 0
 --- !u!114 &1748147310
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11417,12 +11418,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 247
   indentLevel: 0
-  soundClip: {fileID: 8300000, guid: 8b98ba5ef57fb94439a42e7a5a514b26, type: 3}
+  soundClip: {fileID: 8300000, guid: 22301b9c57d6ec949937f34a32c6f517, type: 3}
   volume: 1
   loop: 1
 --- !u!114 &1748147311
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -11439,7 +11440,7 @@ MonoBehaviour:
   waitUntilFinished: 0
 --- !u!114 &1748147313
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}

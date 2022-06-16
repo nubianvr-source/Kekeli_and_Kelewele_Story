@@ -8254,7 +8254,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 1748147305}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 1748147298}
   variables:
   - {fileID: 1748147264}
   description: 
@@ -9860,7 +9861,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 245
   indentLevel: 0
-  soundClip: {fileID: 8300000, guid: ee6505866bdf17644b5de5f9e36b9f78, type: 3}
+  soundClip: {fileID: 8300000, guid: 22301b9c57d6ec949937f34a32c6f517, type: 3}
   volume: 0.5
   loop: 0
 --- !u!114 &1748147298
@@ -9877,7 +9878,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 249
   indentLevel: 0
-  musicClip: {fileID: 8300000, guid: ee6505866bdf17644b5de5f9e36b9f78, type: 3}
+  musicClip: {fileID: 8300000, guid: aebd0716696d3b640aa200c354d3c42e, type: 3}
   atTime: 0
   loop: 1
   fadeDuration: 1

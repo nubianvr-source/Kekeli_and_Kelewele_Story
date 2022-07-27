@@ -21,7 +21,7 @@
         <div class="spinner"></div>
       </div>
     </div>
-    <div id="unity-fullscreen-button fullscreen-button" style="display: none;"></div>
+    <div id="unity-fullscreen-button" style="display: none;"></div>
     <script>
       const hideFullScreenButton = "";
       const buildUrl = "Build";
@@ -33,7 +33,7 @@
         streamingAssetsUrl: "StreamingAssets",
         companyName: "NubianVR",
         productName: "Kekeli and Kelewele",
-        productVersion: "0.0.43",
+        productVersion: "0.0.44",
       };
 
       const container = document.querySelector("#unity-container");
@@ -51,6 +51,9 @@
             'webkitCancelFullScreen',
             'mozCancelFullScreen',
             'msExitFullscreen',
+            'mozRequestFullScreen',
+            'msRequestFullscreen',
+            'webkitRequestFullScreen',
           ]) {
           if (key in document) {
             return true;
@@ -87,23 +90,6 @@
         });
       };
       document.body.appendChild(script);
-    var fullscreenButtonwix = document.getElementById("fullscreen-button");
-    var fullscreenDiv = document.getElementById("fullscreen");
-    var fullscreenFunc = fullscreenDiv.requestFullscreen;
-
-    if (!fullscreenFunc) {
-      ['mozRequestFullScreen',
-        'msRequestFullscreen',
-        'webkitRequestFullScreen'].forEach(function (req) {
-          fullscreenFunc = fullscreenFunc || fullscreenDiv[req];
-        });
-    }
-
-    function enterFullscreen() {
-      fullscreenFunc.call(fullscreenDiv);
-    }
-
-    fullscreenButton.addEventListener('click', enterFullscreen);
     </script>
   </body>
 </html>

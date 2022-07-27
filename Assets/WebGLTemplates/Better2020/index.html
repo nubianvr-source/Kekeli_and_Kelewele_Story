@@ -91,30 +91,13 @@
               fullscreenButton.style.display = "";
             }
             fullscreenButton.onclick = () => {
-              //unityInstance.SetFullscreen(1);
+              unityInstance.SetFullscreen(1);
             };
           }
         }).catch((message) => {
           alert(message);
         });
       };
-    //var fullscreenButton = document.getElementById("fullscreen-button");
-    var fullscreenDiv = document.getElementById("fullscreen");
-    var fullscreenFunc = fullscreenDiv.requestFullscreen;
-
-    if (!fullscreenFunc) {
-      ['mozRequestFullScreen',
-        'msRequestFullscreen',
-        'webkitRequestFullScreen'].forEach(function (req) {
-          fullscreenFunc = fullscreenFunc || fullscreenDiv[req];
-        });
-    }
-
-    function enterFullscreen() {
-      fullscreenFunc.call(fullscreenDiv);
-    }
-
-    fullscreenButton.addEventListener('click', enterFullscreen);
       document.body.appendChild(script);
     </script>
   </body>

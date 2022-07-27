@@ -33,7 +33,7 @@
         streamingAssetsUrl: "StreamingAssets",
         companyName: "NubianVR",
         productName: "Kekeli and Kelewele",
-        productVersion: "0.0.44",
+        productVersion: "0.0.45",
       };
 
       const container = document.querySelector("#unity-container");
@@ -89,6 +89,23 @@
           alert(message);
         });
       };
+    //var fullscreenButton = document.getElementById("fullscreen-button");
+    var fullscreenDiv = document.getElementById("fullscreen");
+    var fullscreenFunc = fullscreenDiv.requestFullscreen;
+
+    if (!fullscreenFunc) {
+      ['mozRequestFullScreen',
+        'msRequestFullscreen',
+        'webkitRequestFullScreen'].forEach(function (req) {
+          fullscreenFunc = fullscreenFunc || fullscreenDiv[req];
+        });
+    }
+
+    function enterFullscreen() {
+      fullscreenFunc.call(fullscreenDiv);
+    }
+
+    fullscreenButton.addEventListener('click', enterFullscreen);
       document.body.appendChild(script);
     </script>
   </body>

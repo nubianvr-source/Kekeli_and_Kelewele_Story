@@ -41,6 +41,7 @@
 </head>
 
 <body>
+	<div style="height:20px; width: %UNITY_WIDTH%px; background: green;" onclick="unityInstance.SetFullscreen(1)"><b>Click here to make it full screen.</b></div>
 	<div id="gameContainer">
 		<canvas id="unity-canvas" data-pixel-art=""></canvas>
 		<script src="Build/WebGL.loader.js"></script>
@@ -53,7 +54,7 @@
 				streamingAssetsUrl: "StreamingAssets",
 				companyName: "NubianVR",
 				productName: "Kekeli and Kelewele",
-				productVersion: "0.0.35",
+				productVersion: "0.0.36",
 			};
 			var scaleToFit;
 			try {

@@ -21,7 +21,7 @@
         <div class="spinner"></div>
       </div>
     </div>
-    <div id="unity-fullscreen-button fullscreen-button" style="display: none;"></div>
+    <div id="unity-fullscreen-button" style="display: none;"></div>
     <script>
       const hideFullScreenButton = "{{{ HIDE_FULL_SCREEN_BUTTON }}}";
       const buildUrl = "Build";
@@ -57,6 +57,9 @@
             'webkitCancelFullScreen',
             'mozCancelFullScreen',
             'msExitFullscreen',
+            'mozRequestFullScreen',
+            'msRequestFullscreen',
+            'webkitRequestFullScreen',
           ]) {
           if (key in document) {
             return true;
@@ -96,23 +99,6 @@
         });
       };
       document.body.appendChild(script);
-    var fullscreenButtonwix = document.getElementById("fullscreen-button");
-    var fullscreenDiv = document.getElementById("fullscreen");
-    var fullscreenFunc = fullscreenDiv.requestFullscreen;
-
-    if (!fullscreenFunc) {
-      ['mozRequestFullScreen',
-        'msRequestFullscreen',
-        'webkitRequestFullScreen'].forEach(function (req) {
-          fullscreenFunc = fullscreenFunc || fullscreenDiv[req];
-        });
-    }
-
-    function enterFullscreen() {
-      fullscreenFunc.call(fullscreenDiv);
-    }
-
-    fullscreenButton.addEventListener('click', enterFullscreen);
     </script>
   </body>
 </html>

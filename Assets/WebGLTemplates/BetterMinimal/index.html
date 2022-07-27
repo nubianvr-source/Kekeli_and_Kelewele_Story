@@ -41,7 +41,7 @@
 </head>
 
 <body>
-	<div style="height:20px; width: %UNITY_WIDTH%px; background: green;" onclick="unityInstance.SetFullscreen(1)"><b>Click here to make it full screen.</b></div>
+	<div style="height:20px; width: %UNITY_WIDTH%px; background: green;" onclick="instance.SetFullscreen(1)"><b>Click here to make it full screen.</b></div>
 	<div id="gameContainer">
 		<canvas id="unity-canvas" data-pixel-art="{{{ OPTIMIZE_FOR_PIXEL_ART }}}"></canvas>
 		<script src="Build/{{{ LOADER_FILENAME }}}"></script>
@@ -99,9 +99,6 @@
 				container.style.left = Math.floor((window.innerWidth - w) / 2) + "px";
 			}
 			createUnityInstance(canvas, config, progressHandler).then(function (instance){
-				fullscreenButton.onclick = () => {
-            	unityInstance.SetFullscreen(1);
-          		};
 				canvas = instance.Module.canvas;
 				onResize();
 				

@@ -1864,8 +1864,8 @@ MonoBehaviour:
     and said \r\n\u201C it\u2019s kelewele\u201D\r\n\u201Ckelewele? what\u2019s that?\u201D
     I asked  "
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2058,8 +2058,8 @@ MonoBehaviour:
     and said \r\n\u201C it\u2019s kelewele\u201D\r\n\u201Ckelewele? what\u2019s that?\u201D
     I asked  "
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3544,8 +3544,8 @@ MonoBehaviour:
   m_text: "Hi everyone, my name is <font=\"Recoleta-Bold SDF\"><color=#FFBD22><size=150%><voffset=0.02em>Kekeli.</voffset></size></color></font>
     I\u2019m 6 years old and guess what?\r\nI love Kelewele! Yummy Yummy Kelewele."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4834,7 +4834,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 458399813}
   punchObject: {fileID: 1615276993}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -4858,7 +4858,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 1065788759}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 458399815}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -5561,7 +5561,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 794936379}
   punchObject: {fileID: 914566960}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -5585,7 +5585,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 1226389125}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 794936381}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -6227,7 +6227,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 320431408}
   punchObject: {fileID: 281949514}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -6251,7 +6251,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 1407267495}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 320431410}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -6592,8 +6592,8 @@ MonoBehaviour:
     and said \r\n\u201C it\u2019s kelewele\u201D\r\n\u201Ckelewele? what\u2019s that?\u201D
     I asked  "
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -7978,7 +7978,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 1444752636}
   punchObject: {fileID: 1696634424}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -8002,7 +8002,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 1745715532}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 1444752638}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -8157,6 +8157,8 @@ GameObject:
   - component: {fileID: 1748147290}
   - component: {fileID: 1748147299}
   - component: {fileID: 1748147298}
+  - component: {fileID: 1748147301}
+  - component: {fileID: 1748147300}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -8241,11 +8243,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -235.0998, y: -9.047898}
+  scrollPos: {x: -804.41895, y: 53.500526}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 395
-  zoom: 0.7000002
+  zoom: 0.55000037
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -8253,9 +8255,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1748147305}
-  selectedCommands:
-  - {fileID: 1748147298}
+  - {fileID: 1748147284}
+  selectedCommands: []
   variables:
   - {fileID: 1748147264}
   description: 
@@ -9128,7 +9129,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1146.8348
     y: 363.2696
-    width: 137.14282
+    width: 135.4545
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9502,9 +9503,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1121.3553
-    y: 143.90918
-    width: 89.999985
+    x: 1117.5577
+    y: 118.59271
+    width: 89.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9540,9 +9541,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 910.6302
-    y: 118.4301
-    width: 89.999985
+    x: 932.1489
+    y: 117.164276
+    width: 89.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9575,7 +9576,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 907.7328
     y: 363.4088
-    width: 127.14283
+    width: 124.5454
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9606,7 +9607,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 768.0867
     y: 116.766785
-    width: 89.999985
+    width: 89.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9723,11 +9724,11 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "\u201CThis is a plantain\u201D \r\n Mummy said as she held something\r\nlong,
     big and yellow in her left hand.\r\n\u201Cand this is a banana\u201D, showing
-    me \r\na shorter and smaller fruit in her right\r\nhand."
+    me \r\na shorter and smaller fruit in her right hand."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 4c15ebeb0e1e8844c846336f6a74d7d8, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9755,7 +9756,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: fe475669252d0ba41991d441b2260fa1, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9782,7 +9783,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 87c923f92cb4d4f4db243d0ea06e5ce0, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9805,12 +9806,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 51
   indentLevel: 0
-  storyText: "Kelewele is made from\r \nanother food that looks just like a\r\nbanana
-    but it\u2019s called plantain\u201D"
+  storyText: "Kelewele is made from another\r\nfood that looks just like a banana\r\nbut
+    it\u2019s called plantain."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 7f892ec672b04a94cbb2b4d1accd9010, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9838,7 +9839,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 991f6eba4cabab440a5d1f525770377c, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9896,6 +9897,44 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 248
   indentLevel: 0
+--- !u!114 &1748147300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748147257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04659f7200983fe40b49cc144086844b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 253
+  indentLevel: 1
+  soundClip:
+  - {fileID: 8300000, guid: d3f67d31331499c40b3090380f9011bb, type: 3}
+  - {fileID: 8300000, guid: b3040fdbc352bc74c9484fa4609548c4, type: 3}
+  volume: 0.469
+  waitUntilFinished: 0
+--- !u!114 &1748147301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748147257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04659f7200983fe40b49cc144086844b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 252
+  indentLevel: 1
+  soundClip:
+  - {fileID: 8300000, guid: 83fc359d160c2e44b9f3d1ccf1547b25, type: 3}
+  - {fileID: 8300000, guid: c0dc447fa7bcafc4a99bf708f56e84da, type: 3}
+  volume: 0.48
+  waitUntilFinished: 0
 --- !u!114 &1748147302
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -9915,7 +9954,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 522fc410531693044af0647ba9966c8d, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9938,12 +9977,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 49
   indentLevel: 0
-  storyText: "Mummy giggled and said, \u201CEi \r\nKekeli, banana with paint on it\r\nYou
-    are very good at describing\r\nthings you see."
+  storyText: 'Ei Kekeli, banana with paint on it
+
+    You are very good at describing
+
+    things
+    you see.'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 33731b0bd49fa9d4bbd4915be2ea7b1c, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9972,7 +10015,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 6d3c9aae8f7441848b54bcd1ae0191cb, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9995,9 +10038,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1292.3693
-    y: 144.72247
-    width: 89.999985
+    x: 1291.1034
+    y: 119.406006
+    width: 89.99997
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10094,12 +10137,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 69
   indentLevel: 0
-  storyText: "\u201COh I see. So Kelewele is made from\r \nplantain and not banana\u201D
+  storyText: "Oh I see. So Kelewele is made from\r \nplantain and not banana\u201D
     I said \r\nnodding in understanding."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: dd22f9121ef87c34bac937257e0a3676, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10122,12 +10165,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 68
   indentLevel: 0
-  storyText: "\u201CYou see a plantain looks like \r\na banana but plantains are
-    bigger\r \nthan bananas. And just like bananas,\r \nplantains also grow on trees\u201D\r"
+  storyText: "\"You see a plantain looks like \r\na banana but plantains are bigger\r\nthan
+    bananas. And just like bananas,\r\nplantains also grow on trees\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 547f7ce43a28d1a41952e232e957941b, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10152,7 +10195,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1070.803
     y: 217.10457
-    width: 189.99995
+    width: 189.99991
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10163,6 +10206,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 1748147266}
   - {fileID: 1748147389}
+  - {fileID: 1748147300}
   suppressAllAutoSelections: 0
 --- !u!114 &1748147389
 MonoBehaviour:
@@ -10256,7 +10300,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1065.7412
     y: 273.1355
-    width: 197.1428
+    width: 197.27263
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10267,6 +10311,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 1748147267}
   - {fileID: 1748147392}
+  - {fileID: 1748147301}
   suppressAllAutoSelections: 0
 --- !u!114 &1748147406
 MonoBehaviour:

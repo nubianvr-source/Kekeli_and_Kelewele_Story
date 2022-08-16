@@ -96,23 +96,22 @@ jobs:
           name: build-WebGL
           path: build/WebGL
 
-  
-
-  deployPages:
+  publish-s3-artifact-folder:
     needs: buildWebGL
-    name: Deploy to Github Pages 🚀
+    name: Push Build Artifacts to S3 Container
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - name: Set AWS Credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with: 
+          aws-access-key-id: ${{ secrets.S3_BUILD_ARTIFACTS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.S3_BUILD_ARTIFACTS_SECRET_ACCESS_KEY }}
+          aws-region: eu-west-2
 
       - uses: actions/download-artifact@v2
         with:
           name: build-WebGL
-          path: build
+          path: build   
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: gh-pages
-          folder: build/WebGL
+      - name: Copy to S3 Server
+        run: aws s3 sync build/WebGL s3://interactivestoriesbucket/wix-build

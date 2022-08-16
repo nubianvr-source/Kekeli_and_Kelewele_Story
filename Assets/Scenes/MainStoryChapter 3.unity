@@ -158,10 +158,10 @@ RectTransform:
   m_Father: {fileID: 1008983596}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.46253148, y: 0.06333333}
-  m_AnchorMax: {x: 0.98654366, y: 0.3141667}
-  m_AnchoredPosition: {x: -0.5, y: -0.4000244}
-  m_SizeDelta: {x: -0.18127441, y: -0.28659058}
+  m_AnchorMin: {x: 0.4596845, y: 0.06333333}
+  m_AnchorMax: {x: 0.98654366, y: 0.3725}
+  m_AnchoredPosition: {x: 4.5, y: -0.4000244}
+  m_SizeDelta: {x: -5.1813, y: 1.4297009}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &36082203
 MonoBehaviour:
@@ -2489,7 +2489,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 1916086222}
   punchObject: {fileID: 682794390}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -2513,7 +2513,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 421707197}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 1916086224}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -2853,10 +2853,10 @@ RectTransform:
   m_Father: {fileID: 1486883848}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 3, y: 4.800049}
-  m_SizeDelta: {x: -61, y: -81.62433}
+  m_AnchorMin: {x: 0, y: 0.05}
+  m_AnchorMax: {x: 0.983122, y: 0.9620001}
+  m_AnchoredPosition: {x: -0.25, y: -2.4270325}
+  m_SizeDelta: {x: -0.5, y: 4.375702}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &502450209
 MonoBehaviour:
@@ -2879,10 +2879,11 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "With horrified eyes, I said:\r \n\u201CNo no no, I do not want \r\nhot
-    oil to burn me, so I won\u2019t\r \nget too close to the stove.\r  \r"
+    oil to burn me, so I won\u2019t\r \nget too close to the stove.\r \nThank you
+    for telling me \r\nmummy. You\u2019re the best!\u201D"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4430,8 +4431,8 @@ MonoBehaviour:
     can eat as much Kelewele as you want.\u201DI paced up and down, waiting patiently
     for this Kelewele to be ready."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4463,7 +4464,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 2
+  m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -4801,7 +4802,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 932383007}
   punchObject: {fileID: 36082201}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -4825,7 +4826,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 1008983605}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 932383009}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -5571,7 +5572,7 @@ RectTransform:
   m_AnchorMin: {x: 0.66400003, y: 0.06333333}
   m_AnchorMax: {x: 0.98654366, y: 0.53916675}
   m_AnchoredPosition: {x: -0.2000122, y: -0.4000244}
-  m_SizeDelta: {x: -0.5218506, y: -0.5999756}
+  m_SizeDelta: {x: -0.5219, y: 354.7221}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1304892838
 MonoBehaviour:
@@ -7070,7 +7071,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 502450207}
   punchObject: {fileID: 1486883847}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -7094,7 +7095,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 1568070412}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 502450209}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -7447,7 +7448,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 1744406801}
   punchObject: {fileID: 1304892836}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -7471,7 +7472,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 1595438529}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 1744406803}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -8394,8 +8395,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "As I waited, mummy warned me, \u201CKekeli, you must be careful. "
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -8428,7 +8429,7 @@ MonoBehaviour:
   m_fontSizeMax: 72
   m_fontStyle: 0
   m_HorizontalAlignment: 2
-  m_VerticalAlignment: 256
+  m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -8526,15 +8527,12 @@ GameObject:
   - component: {fileID: 1748147335}
   - component: {fileID: 1748147334}
   - component: {fileID: 1748147342}
-  - component: {fileID: 1748147341}
   - component: {fileID: 1748147340}
-  - component: {fileID: 1748147339}
   - component: {fileID: 1748147338}
   - component: {fileID: 1748147337}
   - component: {fileID: 1748147346}
   - component: {fileID: 1748147345}
   - component: {fileID: 1748147344}
-  - component: {fileID: 1748147343}
   - component: {fileID: 1748147398}
   - component: {fileID: 1748147399}
   - component: {fileID: 1748147400}
@@ -8668,11 +8666,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -965.4633, y: -1.3366992}
+  scrollPos: {x: -1787.7611, y: -36.36433}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 395
-  zoom: 0.9100001
+  blockViewHeight: 503
+  zoom: 0.7600002
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -8681,7 +8679,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 1748147338}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 1748147344}
   variables:
   - {fileID: 1748147260}
   description: 
@@ -8724,7 +8723,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1743.1187
     y: 352.626
-    width: 132.41757
+    width: 132.89471
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9332,7 +9331,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1504.0166
     y: 352.76523
-    width: 122.527466
+    width: 122.3684
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9605,7 +9604,7 @@ MonoBehaviour:
   itemId: 246
   indentLevel: 0
   soundClip: {fileID: 8300000, guid: 26b9994b190332d41a0ff8eedec376e9, type: 3}
-  volume: 1
+  volume: 0.338
   waitUntilFinished: 0
 --- !u!114 &1748147281
 MonoBehaviour:
@@ -9638,9 +9637,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1452.6932
-    y: 137.46272
-    width: 87.36263
+    x: 1434.402
+    y: 159.31767
+    width: 86.842094
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9681,12 +9680,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 84
   indentLevel: 0
-  storyText: "\u201CAnd do you know why we put these on the plantain?\u201D Mummy
-    asked and I shook my head. \n\u201CSo that the plantain can taste even more delicious.\u201D"
+  storyText: "\u201CAnd do you know why we put these on the plantain?\u201D\nSo that
+    the plantain can taste even more delicious."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: c813fc07167c10140b01838091598bd3, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9713,7 +9712,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 749be5e031cec94488cc0e83daaecff6, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9740,7 +9739,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 56ef6c7af52926840aeb2d30941e2691, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9767,7 +9766,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 6fa1e4e840d5ad641b29081cd8b65315, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9794,7 +9793,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 674f6f6693dda1a4c941c52d594a9141, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9821,7 +9820,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 03bf67082ea5100439f86be1a1e78b3f, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9946,9 +9945,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1657.5173
-    y: 182.74356
-    width: 92.85714
+    x: 1658.7368
+    y: 160.79233
+    width: 93.421036
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10176,13 +10175,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 94
   indentLevel: 0
-  storyText: "Mummy smiled and said: Master Kekeli. Patience. When it is ready, you
-    can eat as much Kelewele as you want.\u201DI paced up and down, waiting patiently
+  storyText: "Mummy smiled and said: Master Kekeli!  Patience. When it is ready,
+    you can eat as much Kelewele as you want.\u201DI paced up and down, waiting patiently
     for this Kelewele to be ready."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 4b9d0eb74e4bfaf49a31c58f042d4c65, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10206,12 +10205,12 @@ MonoBehaviour:
   itemId: 93
   indentLevel: 0
   storyText: "We walked back towards the stove and I asked: \u201CMummy, can I pleaseeee
-    taste this kelewele? It smells soooo tantalizing, looks so yummy and I can\u2019t
+    taste this kelewele? It smells soooo tantalizing, and looks so yummy and I can\u2019t
     wait to taste how delicious it is.\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 82909c4b0d130c544b442f9c9950372c, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10276,9 +10275,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1888.5118
-    y: 109.46442
-    width: 91.75824
+    x: 1949.4866
+    y: 153.36688
+    width: 93.421036
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10294,9 +10293,7 @@ MonoBehaviour:
   - {fileID: 1748147442}
   - {fileID: 1748147440}
   - {fileID: 1748147342}
-  - {fileID: 1748147341}
   - {fileID: 1748147340}
-  - {fileID: 1748147339}
   - {fileID: 1748147337}
   suppressAllAutoSelections: 0
 --- !u!114 &1748147334
@@ -10397,9 +10394,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 2081.6975
-    y: 109.57288
-    width: 92.85714
+    x: 2178.037
+    y: 151.03632
+    width: 93.421036
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10416,37 +10413,9 @@ MonoBehaviour:
   - {fileID: 1748147345}
   - {fileID: 1748147435}
   - {fileID: 1748147344}
-  - {fileID: 1748147343}
   - {fileID: 1748147258}
   - {fileID: 1748147457}
   suppressAllAutoSelections: 0
---- !u!114 &1748147339
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1748147257}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 104
-  indentLevel: 0
-  storyText: "\u201CThe hot oil can burn you and you will be in a lot of pain!\u201D"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 1595438525}
 --- !u!114 &1748147340
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10461,40 +10430,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 103
   indentLevel: 0
-  storyText: "And if hot oil jumps and pours on you, do you know what can happen?\u201D
-    I opened my eyes and shook my head."
+  storyText: "I opened my eyes widely and shook my head. \u201CThe hot oil can burn
+    you and you will be in a lot of pain!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 1595438525}
---- !u!114 &1748147341
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1748147257}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 102
-  indentLevel: 0
-  storyText: Whenever someone is frying Kelewele, do not get too close to the stove,
-    because the oil gets very excited and keeps jumping up and down.
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: e9f9f238518f129479fee65a546b1683, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10517,11 +10458,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 101
   indentLevel: 0
-  storyText: "As I waited, mummy warned me, \u201CKekeli, you must be careful. "
+  storyText: "As I waited, mummy warned me, \u201CKekeli, you must be careful. Whenever
+    someone is frying Kelewele, do not get too close to the stove, because the oil
+    gets very excited and keeps jumping up and down. And if hot oil jumps and pours
+    on you, do you know what can happen?\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 195f6b26b5fa1fd4e9eaafbcd7dc831e, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10530,33 +10474,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 1595438525}
---- !u!114 &1748147343
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1748147257}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 111
-  indentLevel: 0
-  storyText: "Thank you for telling me \r\nmummy. You\u2019re the best!\u201D"
-  description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 1568070408}
 --- !u!114 &1748147344
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -10572,11 +10489,12 @@ MonoBehaviour:
   itemId: 110
   indentLevel: 0
   storyText: "With horrified eyes, I said:\r \n\u201CNo no no, I do not want \r\nhot
-    oil to burn me, so I won\u2019t\r \nget too close to the stove.\r  \r"
+    oil to burn me, so I won\u2019t\r \nget too close to the stove.\r \nThank you
+    for telling me \r\nmummy. You\u2019re the best!\u201D"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 422c121ca97d67a449a1f4da7d9feb9a, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10643,7 +10561,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1595.509
     y: 237.18216
-    width: 213.73625
+    width: 209.21048
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11994,8 +11912,8 @@ MonoBehaviour:
   m_text: "\u201CAnd do you know why we put these on the plantain?\u201D Mummy asked
     and I shook my head. \n\u201CSo that the plantain can taste even more delicious.\u201D"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}

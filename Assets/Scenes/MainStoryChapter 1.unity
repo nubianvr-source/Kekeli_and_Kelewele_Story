@@ -718,7 +718,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 527415999}
   punchObject: {fileID: 1327856494}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -742,8 +742,8 @@ MonoBehaviour:
   dialogCanvas: {fileID: 133049968}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
-  storyTextGO: {fileID: 0}
+  storyText: {fileID: 527416001}
+  storyTextGO: {fileID: 527415999}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
   closeOtherDialogs: 0
@@ -1847,7 +1847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 2146697697}
   punchObject: {fileID: 42045563}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -1871,7 +1871,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 337960586}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 2146697699}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -2443,8 +2443,8 @@ MonoBehaviour:
   m_text: "Hi everyone, my name is <font=\"Recoleta-Bold SDF\"><color=#FFBD22><size=150%><voffset=0.02em>Kekeli.</voffset></size></color></font>
     I\u2019m 6 years old and guess what?\r\nI love Kelewele! Yummy Yummy Kelewele."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2744,8 +2744,8 @@ MonoBehaviour:
   m_text: I was lying on the fluffy carpet in the hall watching Barney and friends
     on Daddy's tablet.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3506,7 +3506,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 768713623}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 570687513}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -6093,7 +6093,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 1371614012}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 1683757903}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -6738,7 +6738,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTextObject: {fileID: 499223772}
   punchObject: {fileID: 947600671}
-  writingSpeed: 60
+  writingSpeed: 15
   punctuationPause: 0.25
   hiddenTextColor: {r: 1, g: 1, b: 1, a: 0}
   writeWholeWords: 0
@@ -6762,7 +6762,7 @@ MonoBehaviour:
   dialogCanvas: {fileID: 1398067977}
   nameText: {fileID: 0}
   nameTextGO: {fileID: 0}
-  storyText: {fileID: 0}
+  storyText: {fileID: 499223774}
   storyTextGO: {fileID: 0}
   characterImage: {fileID: 0}
   fitTextWithImage: 1
@@ -8557,8 +8557,8 @@ MonoBehaviour:
   m_text: "Hi everyone, my name is <font=\"Recoleta-Bold SDF\"><color=#FFBD22><size=150%><voffset=0.02em>Kekeli.</voffset></size></color></font>
     I\u2019m 6 years old and guess what?\r\nI love Kelewele! Yummy Yummy Kelewele."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -9153,6 +9153,10 @@ GameObject:
   - component: {fileID: 1748147307}
   - component: {fileID: 1748147313}
   - component: {fileID: 1748147311}
+  - component: {fileID: 1748147312}
+  - component: {fileID: 1748147316}
+  - component: {fileID: 1748147315}
+  - component: {fileID: 1748147314}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -9221,7 +9225,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -364.72714
     y: 68.59088
-    width: 110.227264
+    width: 111.194
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9249,11 +9253,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 581.926, y: 151.33446}
+  scrollPos: {x: 90.38694, y: 24.344662}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 395
-  zoom: 0.8800002
+  zoom: 0.6700004
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -9261,9 +9265,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1748147269}
+  - {fileID: 1748147301}
   selectedCommands:
-  - {fileID: 1748147268}
+  - {fileID: 1748147299}
   variables:
   - {fileID: 1748147285}
   description: 
@@ -9457,7 +9461,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -143.2511
     y: 63.227997
-    width: 84.090904
+    width: 85.82088
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9511,11 +9515,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 19
   indentLevel: 0
-  storyText: I hopped from the carpet and ran as fast as I could into the kitchen.
+  storyText: I hopped from the carpet and ran as fast as I could to the kitchen.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 241bfd999502a2f42964254836380c92, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9539,16 +9543,14 @@ MonoBehaviour:
   itemId: 18
   indentLevel: 0
   storyText: 'All of a sudden a <font="Recoleta-Bold SDF"><color=#FFBD22><size=150%><voffset=0.02em>tantalizing.</voffset></size></color></font>
-    smell travelled from the kitchen
-
-    into my nose. Wow!
+    smell travelled from the kitchen all the way to my nose. "Wow!
 
     What tantalizing
-    smell is that?'
+    smell is that?" I wondered'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 9ae5b815f79c11943b7b40ffba43bfb6, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9571,12 +9573,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 17
   indentLevel: 0
-  storyText: I was lying on the fluffy carpet in the hall watching Barney and friends
+  storyText: I was lying on the blue fluffy carpet in the hall watching Paw Patrol
     on Daddy's tablet.
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 4391d288234af2f4b81d0b23687f6dc2, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9599,11 +9601,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 16
   indentLevel: 0
-  storyText: I remrember the first time I tasted <font="Recoleta-Bold SDF"><color=#FFBD22><size=150%><voffset=0.02em>kelewele.</voffset></size></color></font>
+  storyText: I remember the first time I tasted <font="Recoleta-Bold SDF"><color=#FFBD22><size=150%><voffset=0.02em>kelewele.</voffset></size></color></font>
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 673600493055d5a438866ac9915ce5c8, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -9694,8 +9696,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 116.0827
-    y: 59.48329
-    width: 85.227264
+    y: 58.26378
+    width: 87.313416
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9758,7 +9760,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 367.46152
     y: 60.75219
-    width: 89.77272
+    width: 90.298485
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9845,7 +9847,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -2.2923765
     y: 316.41525
-    width: 124.999985
+    width: 127.6119
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10015,12 +10017,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 42
   indentLevel: 0
-  storyText: "\"Mummy Mummy, what\u2019s smelling so \ntantalizing?\" I asked as
-    I tip toed to \nsee what she was making on the \nstove."
+  storyText: "\"Mummy Mummy, what\u2019s smelling so \ntantalizing?\" I asked, I
+    tip toed to see \nwhat she was making on the stove."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 7cea93ea88e7c344c926259cffea1d9c, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10479,7 +10481,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 236.80968
     y: 316.27603
-    width: 135.22726
+    width: 138.05966
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10564,7 +10566,7 @@ MonoBehaviour:
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 16efafa3687bf884cb9acf470d685f9e, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10739,12 +10741,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 47
   indentLevel: 0
-  storyText: "Mummy gave me a stool to stand on \r\nso I could see what this kelewele
-    was."
+  storyText: "Mummy then stepped away from the stove, dragged a \r\nstool for me
+    to stand on, so I could safely see from a \r\ndistance, what this  Kelewele was."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 16ccef7a732a7d84ab895a95afcd6cd0, type: 3}
   showAlways: 1
   showCount: 1
   extendPrevious: 0
@@ -10794,7 +10796,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 551.2963
     y: 60.157814
-    width: 89.77272
+    width: 90.298485
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10809,6 +10811,7 @@ MonoBehaviour:
   - {fileID: 1748147414}
   - {fileID: 1748147413}
   - {fileID: 1748147299}
+  - {fileID: 1748147312}
   - {fileID: 1748147282}
   - {fileID: 1748147281}
   suppressAllAutoSelections: 0
@@ -11402,7 +11405,7 @@ MonoBehaviour:
   itemId: 249
   indentLevel: 0
   soundClip: {fileID: 8300000, guid: 26b9994b190332d41a0ff8eedec376e9, type: 3}
-  volume: 1
+  volume: 0.352
   waitUntilFinished: 0
 --- !u!114 &1748147310
 MonoBehaviour:
@@ -11436,8 +11439,40 @@ MonoBehaviour:
   itemId: 253
   indentLevel: 0
   soundClip: {fileID: 8300000, guid: 96531eca264edd64bb77a836b41dfd49, type: 3}
-  volume: 1
+  volume: 0.201
   waitUntilFinished: 0
+--- !u!114 &1748147312
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748147257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 254
+  indentLevel: 0
+  storyText: 'On the stove, I heard "sizzle sizzle", saw some drops
+
+    of oil jumping
+    up and down,and saw something yellow
+
+    dancing in the oil.'
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 8300000, guid: 0899f8ab67848e6449a48d8b149b44e5, type: 3}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 337960582}
 --- !u!114 &1748147313
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -11453,6 +11488,60 @@ MonoBehaviour:
   itemId: 251
   indentLevel: 0
   soundClip: {fileID: 8300000, guid: 96531eca264edd64bb77a836b41dfd49, type: 3}
+  volume: 0.201
+  waitUntilFinished: 0
+--- !u!114 &1748147314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748147257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2f6be51b3d7490ba5633ee095d0391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 257
+  indentLevel: 1
+  soundClip: {fileID: 8300000, guid: cf9d865fd52504245bc2165279f054ca, type: 3}
+  volume: 0.433
+  waitUntilFinished: 0
+--- !u!114 &1748147315
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748147257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2f6be51b3d7490ba5633ee095d0391, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 256
+  indentLevel: 1
+  soundClip: {fileID: 8300000, guid: 8f8f9c1e61753134b999522142b6e342, type: 3}
+  volume: 0.224
+  waitUntilFinished: 0
+--- !u!114 &1748147316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1748147257}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04659f7200983fe40b49cc144086844b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 255
+  indentLevel: 1
+  soundClip:
+  - {fileID: 8300000, guid: f3cebe9cef696664e8a793768124d516, type: 3}
+  - {fileID: 8300000, guid: 85f9ad70f31a68c488d544d4165ddd42, type: 3}
+  - {fileID: 8300000, guid: c5dd0d27345af8b4a9c0619258918348, type: 3}
   volume: 1
   waitUntilFinished: 0
 --- !u!114 &1748147357
@@ -11488,7 +11577,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 69.01401
     y: 129.59015
-    width: 182.95451
+    width: 187.31335
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11499,6 +11588,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 1748147306}
   - {fileID: 1748147383}
+  - {fileID: 1748147315}
   suppressAllAutoSelections: 0
 --- !u!114 &1748147380
 MonoBehaviour:
@@ -11538,7 +11628,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -176.98592
     y: 123.59012
-    width: 154.54544
+    width: 157.46262
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11549,6 +11639,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 1748147293}
   - {fileID: 1748147380}
+  - {fileID: 1748147316}
   suppressAllAutoSelections: 0
 --- !u!114 &1748147382
 MonoBehaviour:
@@ -11620,7 +11711,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 332.1906
     y: 128.59015
-    width: 162.49997
+    width: 164.92531
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11631,6 +11722,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 1748147305}
   - {fileID: 1748147386}
+  - {fileID: 1748147314}
   suppressAllAutoSelections: 0
 --- !u!114 &1748147386
 MonoBehaviour:
@@ -13773,8 +13865,8 @@ MonoBehaviour:
   m_text: "Hi everyone, my name is <font=\"Recoleta-Bold SDF\"><color=#FFBD22><size=150%><voffset=0.02em>Kekeli.</voffset></size></color></font>
     I\u2019m 6 years old and guess what?\r\nI love Kelewele! Yummy Yummy Kelewele."
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 6a4775ae42080a246a5f03f44880b680, type: 2}
-  m_sharedMaterial: {fileID: -8571877122702308052, guid: 6a4775ae42080a246a5f03f44880b680,
+  m_fontAsset: {fileID: 11400000, guid: 84acdde222caca54dabf87a6d11bf514, type: 2}
+  m_sharedMaterial: {fileID: -4757636894888307610, guid: 84acdde222caca54dabf87a6d11bf514,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}

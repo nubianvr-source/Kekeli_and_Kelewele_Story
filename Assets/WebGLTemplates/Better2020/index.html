@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
   <body class="{{{ SPLASH_SCREEN_STYLE.toLowerCase() }}}">
-    <div id="unity-container" class="unity-desktop">
+    <div id="unity-container" class="unity-desktop" onclick="setTimeout(myFunction, 60000)">
       <canvas id="unity-canvas"></canvas>
     </div>
     <div id="loading-cover" style="display:none;">
@@ -81,6 +81,7 @@
       script.src = loaderUrl;
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
+          
           spinner.style.display = "none";
           progressBarEmpty.style.display = "";
           progressBarFull.style.width = `${100 * progress}%`;

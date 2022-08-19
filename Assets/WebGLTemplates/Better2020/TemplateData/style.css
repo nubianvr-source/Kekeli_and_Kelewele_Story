@@ -46,8 +46,8 @@ body {
     max-width: 80%;
 }
 #unity-progress-bar-empty {
-    width: 80%;
-    height: 24px;
+    width: 70%;
+    height: 41px;
     margin: 10px 20px 20px 10px;
     text-align: left;
     border: 1px solid white;
@@ -59,10 +59,12 @@ body {
     background: white;
 }
 .light #unity-progress-bar-empty {
-    border-color: black;
+    border-color: #D3D3D3;
+    border-radius: 60px;
 }
 .light #unity-progress-bar-full {
-    background: black;
+    background: #FFBD22;
+    border-radius: 60px;
 }
 
 #unity-fullscreen-button {

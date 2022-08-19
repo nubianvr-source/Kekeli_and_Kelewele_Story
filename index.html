@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
   <body class="light">
-    <div id="unity-container" class="unity-desktop">
+    <div id="unity-container" class="unity-desktop" onclick="setTimeout(myFunction, 60000)">
       <canvas id="unity-canvas"></canvas>
     </div>
     <div id="loading-cover" style="display:none;">
@@ -33,7 +33,7 @@
         streamingAssetsUrl: "StreamingAssets",
         companyName: "NubianVR",
         productName: "Kekeli and Kelewele",
-        productVersion: "0.0.52",
+        productVersion: "0.0.53",
       };
 
       const container = document.querySelector("#unity-container");
@@ -72,6 +72,7 @@
       script.src = loaderUrl;
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
+          
           spinner.style.display = "none";
           progressBarEmpty.style.display = "";
           progressBarFull.style.width = `${100 * progress}%`;

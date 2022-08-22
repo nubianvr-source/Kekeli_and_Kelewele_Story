@@ -6,17 +6,53 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainStoryChapter 1.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Page1.unity
+    guid: 19c122ac0892e0947b1da0226f103186
   - enabled: 1
-    path: Assets/Scenes/MainStoryChapter 2.unity
-    guid: e67aef9ff47cf4a41bc155e069fc52cd
+    path: Assets/Scenes/Page2.unity
+    guid: 311538515f40aa64e9f7360520b1edca
   - enabled: 1
-    path: Assets/Scenes/MainStoryChapter 3.unity
-    guid: f4798f9ff84c9e149b4bff63d986be17
+    path: Assets/Scenes/Page3.unity
+    guid: 3169cc2c9a771774bbf05d5c6e45b7aa
   - enabled: 1
-    path: Assets/Scenes/MainStoryChapter 4.unity
-    guid: a400c0f8c12316c428179f97af01101b
+    path: Assets/Scenes/Page4.unity
+    guid: d8da475d3f63e1749a6c5eb09e9e17e0
+  - enabled: 1
+    path: Assets/Scenes/Page5.unity
+    guid: 4adb579e00c295d4d82aadbcb049da2d
+  - enabled: 1
+    path: Assets/Scenes/Page6.unity
+    guid: 9b5fec44f5e702c4395ed557610463e0
+  - enabled: 1
+    path: Assets/Scenes/Page7.unity
+    guid: 6cc9d42e5e02d8141b9be2bf453147c1
+  - enabled: 1
+    path: Assets/Scenes/Page8.unity
+    guid: 992e1ec2a9b0b1840abb5177ae771d52
+  - enabled: 1
+    path: Assets/Scenes/Page9.unity
+    guid: 70a84ef5606a0984786906de17ef3e39
+  - enabled: 1
+    path: Assets/Scenes/Page10.unity
+    guid: 2e788461d547d6c4da93882b2c554bd1
+  - enabled: 1
+    path: Assets/Scenes/Page11.unity
+    guid: 644bbd7d85bf52b44ba690f676f38fa1
+  - enabled: 1
+    path: Assets/Scenes/Page12.unity
+    guid: 8b1986008ccdfbc4c8a9e52263048058
+  - enabled: 1
+    path: Assets/Scenes/Page13.unity
+    guid: 36c42610fd75b0e43a34b5cd3936cc63
+  - enabled: 1
+    path: Assets/Scenes/Page14.unity
+    guid: 70c3bf5509a7bf545b12ff1491d28c9e
+  - enabled: 1
+    path: Assets/Scenes/Page15.unity
+    guid: 85701fb9ff6e8ed43b135ed9444ea8d5
+  - enabled: 1
+    path: Assets/Scenes/Page16.unity
+    guid: 31834fbf8f46d14418e4daf18181961a
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 40bd434e0f30f2642a8779a614696db8,
       type: 2}

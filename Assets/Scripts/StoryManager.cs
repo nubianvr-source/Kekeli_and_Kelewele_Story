@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Runtime.InteropServices;
 
 public class StoryManager : MonoBehaviour
@@ -35,8 +36,7 @@ public class StoryManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       
-
+        
     }
 
     // Update is called once per frame

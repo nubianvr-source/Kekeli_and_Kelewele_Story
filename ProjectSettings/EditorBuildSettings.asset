@@ -8,15 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainStoryChapter 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/MainStoryChapter 2.unity
-    guid: e67aef9ff47cf4a41bc155e069fc52cd
-  - enabled: 1
-    path: Assets/Scenes/MainStoryChapter 3.unity
-    guid: f4798f9ff84c9e149b4bff63d986be17
-  - enabled: 1
-    path: Assets/Scenes/MainStoryChapter 4.unity
-    guid: a400c0f8c12316c428179f97af01101b
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 40bd434e0f30f2642a8779a614696db8,
       type: 2}

@@ -10,7 +10,7 @@ public class GameManager : MonoBehaviour
 {
    public static GameManager instance;
 
-   private bool _pickFull;
+   private bool _pickFull = false;
 
    private int _pairs;
 
@@ -18,9 +18,9 @@ public class GameManager : MonoBehaviour
 
    private int _cardTurnedCount; 
    
-   private List<Card> pickedCards = new List<Card>();
+   private List<TwoDimensionCardScript> pickedCards = new List<TwoDimensionCardScript>();
 
-   public float delayTime = 1.75f;
+   public float delayTime = 0.25f;
 
    public bool hideMatches;
    
@@ -69,7 +69,7 @@ public class GameManager : MonoBehaviour
       //DontDestroyOnLoad(this);
    }
 
-   public void AddCardToPickedList(Card card)
+   public void AddCardToPickedList(TwoDimensionCardScript card)
    {
       pickedCards.Add(card);
       if (pickedCards.Count == 2)
@@ -91,12 +91,12 @@ public class GameManager : MonoBehaviour
          }
          else
          {
-            if(pickedCards[0].TryGetComponent(out BoxCollider collider0))
+            if(pickedCards[0].TryGetComponent(out BoxCollider2D collider0))
             {
                collider0.enabled = false;
             }
          
-            if(pickedCards[1].TryGetComponent(out BoxCollider collider1))
+            if(pickedCards[1].TryGetComponent(out BoxCollider2D collider1))
             {
                collider1.enabled = false;
             }
@@ -110,8 +110,8 @@ public class GameManager : MonoBehaviour
       }
       else
       {
-         pickedCards[0].FlipOpen(false);
-         pickedCards[1].FlipOpen(false);
+         pickedCards[0].FlipClose();
+         pickedCards[1].FlipClose();
          yield return new WaitForSeconds(delayTime);
       }
      

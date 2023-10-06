@@ -16,9 +16,11 @@ public class CardManager : MonoBehaviour
 
     private float _zOffset = 2.2f;
 
-    public Card cardPrefab;
+    public TwoDimensionCardScript cardPrefab;
+
+    public GameObject cardPrefabParent;
     
-    private List<Card> _cardDeck = new List<Card>();
+    private List<TwoDimensionCardScript> _cardDeck = new List<TwoDimensionCardScript>();
 
     [HideInInspector]public int width;
     
@@ -43,8 +45,8 @@ public class CardManager : MonoBehaviour
         {
             for (int j = 0; j < 2; j++)
             {
-                Vector3 pos = Vector3.zero;
-                Card newCard = Instantiate(cardPrefab, pos, Quaternion.identity);
+                //Vector3 pos = Vector3.zero;
+                TwoDimensionCardScript newCard = Instantiate(cardPrefab,cardPrefabParent.transform);
                 newCard.SetCard(i,spritesArray[i]);
                 _cardDeck.Add(newCard);
             }
@@ -56,19 +58,20 @@ public class CardManager : MonoBehaviour
             var temp = _cardDeck[i];
             _cardDeck[i] = _cardDeck[index];
             _cardDeck[index] = temp;
+            _cardDeck[index].transform.SetSiblingIndex(index);
         }
 
-        int num = 0;
-        for (int x = 0; x < width; x++)
-        {
-            for (int z = 0; z < height; z++)
-            {
-                Vector3 pos = new Vector3(x*_xOffset, 0, z*_zOffset);
-                _cardDeck[num].transform.position = pos;
-                num++;
-            }
-            
-        }
+        // int num = 0;
+        // for (int x = 0; x < width; x++)
+        // {
+        //     for (int z = 0; z < height; z++)
+        //     {
+        //         Vector3 pos = new Vector3(x*_xOffset, 0, z*_zOffset);
+        //         _cardDeck[num].transform.position = pos;
+        //         num++;
+        //     }
+        //     
+        // }
     }
     private void OnDrawGizmos()
     {

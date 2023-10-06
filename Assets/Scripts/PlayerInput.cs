@@ -14,24 +14,26 @@ public class PlayerInput : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        RayCastToCard();
+        //RayCastToCard();
     }
+    
+    
 
-    private void RayCastToCard()
+    /*private void RayCastToCard()
     {
         if (GameManager.instance.gameIsPaused) return;
             if (Input.GetMouseButtonDown(0) && !GameManager.instance.PickFull())
         {
-            RaycastHit hit;
-            //Not 100% sure on if this will work on mobile yet
-            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            RaycastHit2D hit;
+            Vector2 mousePosition = Input.mousePosition;
+            Ray2D ray = Camera.main.ScreenToWorldPoint(mousePosition);
 
-            if (Physics.Raycast(ray, out hit))
+            if (Physics2D.Raycast(ray.origin, ray.direction, out hit))
             {
                 Debug.Log(hit.transform.gameObject);
-                if (hit.transform.gameObject.TryGetComponent(out Card hitObject))
+                if (hit.transform.gameObject.TryGetComponent<TwoDimensionCardScript>(out TwoDimensionCardScript hitObject))
                 {
-                    hitObject.FlipOpen(true);
+                    hitObject.FlipOpen();
                     GameManager.instance.AddCardToPickedList(hitObject);
                     GameManager.instance.AddCardTurned();
                 }
@@ -39,6 +41,6 @@ public class PlayerInput : MonoBehaviour
             }
 
         }
-    }
+    }*/
 
 }

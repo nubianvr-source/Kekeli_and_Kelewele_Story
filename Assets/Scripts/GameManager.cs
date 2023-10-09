@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using NubianVR.UI;
 using UnityEngine;
 using UnityEngine.Rendering.Universal;
+using TMPro;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
@@ -28,7 +29,13 @@ public class GameManager : MonoBehaviour
 
    public bool gameIsPaused;
 
-    public Animator PausePanel;
+   public Animator PausePanel;
+
+    [Header("Timer")]
+
+    public int time;
+    public TextMeshProUGUI timerText = null;
+
    
    [Header("UI System References")]
    public UI_System UiSystem;
@@ -42,7 +49,11 @@ public class GameManager : MonoBehaviour
       _cardTurnedCount = 0;
    }
 
-   public bool GetIsTimerRunning()
+    private void Update()
+    {
+        Timer();
+    }
+    public bool GetIsTimerRunning()
    {
       return _isTimerRunning;
    }
@@ -102,9 +113,6 @@ public class GameManager : MonoBehaviour
             }
          }
         
-         
-         
-         
          _pairCounter++;
          CheckWin();
       }
@@ -174,5 +182,12 @@ public class GameManager : MonoBehaviour
       SceneManager.LoadScene(sceneIndex);
    }
 
+    public void Timer()
+    {
+        time -= (int)Time.time;
+        Debug.Log(time);
+    }
+
+    
 
 }

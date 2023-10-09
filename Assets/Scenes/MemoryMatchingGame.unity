@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657815, g: 0.49641192, b: 0.57481617, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -300,6 +300,8 @@ MonoBehaviour:
   hideMatches: 0
   gameIsPaused: 0
   PausePanel: {fileID: 0}
+  time: 0
+  timerText: {fileID: 424088084}
   UiSystem: {fileID: 1968077540}
   winScreen: {fileID: 1636477396}
   loseScreen: {fileID: 780189232}
@@ -912,7 +914,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeRemaining: 120
-  innerBar: {fileID: 978556187}
+  timerText: {fileID: 424088084}
 --- !u!4 &111195049
 Transform:
   m_ObjectHideFlags: 0
@@ -8953,7 +8955,7 @@ RectTransform:
   m_GameObject: {fileID: 2059408516}
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 3.32}
-  m_LocalScale: {x: 0.00826325, y: 0.00826325, z: 0.00826325}
+  m_LocalScale: {x: 0.008744998, y: 0.008744998, z: 0.008744998}
   m_Children: []
   m_Father: {fileID: 1056893974}
   m_RootOrder: 1

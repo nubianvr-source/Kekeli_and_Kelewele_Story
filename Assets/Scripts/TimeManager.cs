@@ -1,19 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 using UnityEngine.UI;
 
 public class TimeManager : MonoBehaviour
 {
-    public float timeRemaining = 10.0f;
+    public float timeRemaining = 60;
 
     private float _tempTimeRemaining;
 
-    public Image innerBar;
+    public TextMeshProUGUI timerText = null;
     // Start is called before the first frame update
     void Start()
     {
-        innerBar.fillAmount = 1;
+       
         _tempTimeRemaining = timeRemaining;
     }
 
@@ -24,7 +25,7 @@ public class TimeManager : MonoBehaviour
         if(timeRemaining > 0)
         {
             timeRemaining -= Time.deltaTime;
-            innerBar.fillAmount = timeRemaining / _tempTimeRemaining;
+           timerText.text = ((int)timeRemaining).ToString();
         }
         else
         {

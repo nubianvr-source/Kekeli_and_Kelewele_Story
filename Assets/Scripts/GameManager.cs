@@ -31,11 +31,6 @@ public class GameManager : MonoBehaviour
 
    public Animator PausePanel;
 
-    [Header("Timer")]
-
-    public int time;
-    public TextMeshProUGUI timerText = null;
-
    
    [Header("UI System References")]
    public UI_System UiSystem;
@@ -47,11 +42,12 @@ public class GameManager : MonoBehaviour
    private void Start()
    {
       _cardTurnedCount = 0;
+      //SetTimerRunningToTrue();
    }
 
     private void Update()
     {
-        Timer();
+     
     }
     public bool GetIsTimerRunning()
    {
@@ -181,12 +177,6 @@ public class GameManager : MonoBehaviour
    {
       SceneManager.LoadScene(sceneIndex);
    }
-
-    public void Timer()
-    {
-        time -= (int)Time.time;
-        Debug.Log(time);
-    }
 
     
 

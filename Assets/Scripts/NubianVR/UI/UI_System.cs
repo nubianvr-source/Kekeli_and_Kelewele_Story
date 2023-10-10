@@ -48,7 +48,7 @@ namespace NubianVR.UI
         {
 
             screens = GetComponentsInChildren<UI_Screen>(true);
-            InitializeScreens();
+            //InitializeScreens();
             if (!m_StartScreen) return;
             SwitchScreens(m_StartScreen);
             

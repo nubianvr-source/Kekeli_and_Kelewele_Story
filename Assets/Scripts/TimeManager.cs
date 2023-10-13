@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class TimeManager : MonoBehaviour
 {
     public float timeRemaining = 60;
-
+    public Image filledArrowImage;
     private float _tempTimeRemaining;
 
     public TextMeshProUGUI timerText = null;
@@ -16,6 +16,7 @@ public class TimeManager : MonoBehaviour
     {
        
         _tempTimeRemaining = timeRemaining;
+        filledArrowImage.fillAmount = 1f;
     }
 
     // Update is called once per frame
@@ -25,6 +26,7 @@ public class TimeManager : MonoBehaviour
         if(timeRemaining > 0)
         {
             timeRemaining -= Time.deltaTime;
+            filledArrowImage.fillAmount = (1f/ _tempTimeRemaining) * timeRemaining;
            timerText.text = ((int)timeRemaining).ToString();
         }
         else

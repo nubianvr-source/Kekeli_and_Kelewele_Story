@@ -2,12 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+[RequireComponent(typeof(PolygonCollider2D))]
+[RequireComponent(typeof(Rigidbody2D))]
 public class SpritePaintRipple : MonoBehaviour
 {
     private Material _material;
 
     private Color _previousColor;
-
+    
+    private Rigidbody2D _rigidbody2D;
+    private PolygonCollider2D _collider2D;
     private struct ShaderPropertyIDs
     {
         public int _BaseColor;
@@ -17,6 +22,16 @@ public class SpritePaintRipple : MonoBehaviour
     }
 
     private ShaderPropertyIDs _shaderPropNames;
+    
+    private void Awake()
+    {
+        _rigidbody2D = gameObject.GetComponent<Rigidbody2D>();
+        _collider2D = gameObject.GetComponent<PolygonCollider2D>();
+        _rigidbody2D.gravityScale = 0;
+        _collider2D.isTrigger = true;
+    }
+    
+    
     // Start is called before the first frame update
     void Start()
     {

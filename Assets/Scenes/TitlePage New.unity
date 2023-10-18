@@ -1338,6 +1338,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fader
       objectReference: {fileID: 0}
+    - target: {fileID: 4728846841438544812, guid: 29d18ae317467834bbd804bb7a9922ae,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4728846841438544815, guid: 29d18ae317467834bbd804bb7a9922ae,
         type: 3}
       propertyPath: m_Pivot.x
@@ -1441,6 +1446,11 @@ PrefabInstance:
     - target: {fileID: 4728846841438544815, guid: 29d18ae317467834bbd804bb7a9922ae,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4984900716482479538, guid: 29d18ae317467834bbd804bb7a9922ae,
+        type: 3}
+      propertyPath: m_Alpha
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

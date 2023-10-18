@@ -47,7 +47,7 @@ public class PaintManagerScript : MonoBehaviour
             {
                 var paintBtn = Instantiate(btnPrefab, new Vector2(0, 0), quaternion.identity, paintBrushBtnPanel.transform);
                 paintBtn.btnRectTransform.sizeDelta = buttonSize;
-                paintBtn.imageColor.color = t;
+                //paintBtn.imageColor.color = t;
                 if(paintBtn.bandColor != null)
                 {
                     paintBtn.bandColor.color = t;

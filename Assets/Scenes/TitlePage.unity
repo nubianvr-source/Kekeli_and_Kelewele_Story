@@ -1416,6 +1416,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fader
       objectReference: {fileID: 0}
+    - target: {fileID: 4728846841438544812, guid: 29d18ae317467834bbd804bb7a9922ae,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4728846841438544815, guid: 29d18ae317467834bbd804bb7a9922ae,
         type: 3}
       propertyPath: m_Pivot.x
@@ -2168,7 +2173,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!82 &1671518841
 AudioSource:
   m_ObjectHideFlags: 0

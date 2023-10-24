@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 90585d2844e3a504dae84b132dc4fffc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4492536164508345278
+    second: Plants_Shelf_0
+  - first:
+      213: -8279020750490355787
+    second: Plants_Shelf_1
+  - first:
+      213: -4559986536734936205
+    second: Plants_Shelf_2
+  - first:
+      213: -1531523298822968720
+    second: Plants_Shelf_3
+  - first:
+      213: 1006540900861106491
+    second: Plants_Shelf_4
+  - first:
+      213: 8058937658030628958
+    second: Plants_Shelf_5
+  - first:
+      213: 7562708433585195207
+    second: Plants_Shelf_6
+  - first:
+      213: -7155909119430371226
+    second: Plants_Shelf_7
+  - first:
+      213: -3806110832970005563
+    second: Plants_Shelf_8
+  - first:
+      213: -4893311126497905972
+    second: Plants_Shelf_9
+  - first:
+      213: -8051271990874066776
+    second: Plants_Shelf_10
+  - first:
+      213: -7215986369442269755
+    second: Plants_Shelf_11
+  - first:
+      213: -2982633753186354574
+    second: Plants_Shelf_12
+  - first:
+      213: -504875259026272257
+    second: Plants_Shelf_13
+  - first:
+      213: -3441474430600452724
+    second: Plants_Shelf_14
+  - first:
+      213: 5470001519763748969
+    second: Plants_Shelf_15
+  - first:
+      213: 6921877498172498824
+    second: Plants_Shelf_16
+  - first:
+      213: 7843279094503811256
+    second: Plants_Shelf_17
+  - first:
+      213: -6999792255716307213
+    second: Plants_Shelf_18
+  - first:
+      213: 5496609880248521991
+    second: Plants_Shelf_19
+  - first:
+      213: -7721606519673447894
+    second: Plants_Shelf_20
+  - first:
+      213: 6385980624279223053
+    second: Plants_Shelf_21
+  - first:
+      213: -8801940850059047674
+    second: Plants_Shelf_22
+  - first:
+      213: 4831610858237023040
+    second: Plants_Shelf_23
+  - first:
+      213: -6518013837760184866
+    second: Plants_Shelf_24
+  - first:
+      213: -8794244006337943548
+    second: Plants_Shelf_25
+  - first:
+      213: 3992495452676132164
+    second: Plants_Shelf_26
+  - first:
+      213: -7541854348668223519
+    second: Plants_Shelf_27
+  - first:
+      213: 8979642442295982347
+    second: Plants_Shelf_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plants_Shelf_0
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2470
+        width: 437
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c52ed292e47a1c0800000000000000
+      internalID: -4492536164508345278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_1
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2843
+        width: 533
+        height: 689
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b73fe6dd720b1d80800000000000000
+      internalID: -8279020750490355787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_2
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2909
+        width: 331
+        height: 762
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373b959976ca7b0c0800000000000000
+      internalID: -4559986536734936205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_3
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 2901
+        width: 570
+        height: 770
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a2c609cafeebae0800000000000000
+      internalID: -1531523298822968720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_4
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 2881
+        width: 624
+        height: 613
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b395abfcd93f7fd00800000000000000
+      internalID: 1006540900861106491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_5
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2319
+        width: 288
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e502fe51a1917df60800000000000000
+      internalID: 8058937658030628958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_6
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2451
+        width: 288
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c842bb504324f860800000000000000
+      internalID: 7562708433585195207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_7
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 2131
+        width: 523
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668df5bc19a11bc90800000000000000
+      internalID: -7155909119430371226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_8
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 2125
+        width: 322
+        height: 756
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c38e01fc5afd2bc0800000000000000
+      internalID: -3806110832970005563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_9
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2114
+        width: 524
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc230a1d477771cb0800000000000000
+      internalID: -4893311126497905972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_10
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 2131
+        width: 616
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a036e128c2244090800000000000000
+      internalID: -8051271990874066776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2198
+        width: 207
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5355101aaabdb90800000000000000
+      internalID: -7215986369442269755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_12
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1810
+        width: 399
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27abc36776e8b96d0800000000000000
+      internalID: -2982633753186354574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_13
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1908
+        width: 399
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff0bd970a25ef8f0800000000000000
+      internalID: -504875259026272257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2090
+        width: 146
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8568743d3d6d30d0800000000000000
+      internalID: -3441474430600452724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1751
+        width: 207
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9687d52a66959eb40800000000000000
+      internalID: 5470001519763748969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_16
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1810
+        width: 440
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883675139e27f0060800000000000000
+      internalID: 6921877498172498824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1664
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a52ee7cce8dc60800000000000000
+      internalID: 7843279094503811256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_18
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1196
+        width: 451
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fecf78a70ebbde90800000000000000
+      internalID: -6999792255716307213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_19
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1198
+        width: 450
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7059d155091e74c40800000000000000
+      internalID: 5496609880248521991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_20
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1196
+        width: 215
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a168bf7c757d490800000000000000
+      internalID: -7721606519673447894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_21
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1198
+        width: 542
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb0bc1b8f8f9850800000000000000
+      internalID: 6385980624279223053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_22
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1488
+        width: 510
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d0b3a7e6939d580800000000000000
+      internalID: -8801940850059047674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_23
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 1201
+        width: 530
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04353220a745d0340800000000000000
+      internalID: 4831610858237023040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_24
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1370
+        width: 473
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd393fc2fc5b85a0800000000000000
+      internalID: -6518013837760184866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_25
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1289
+        width: 436
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4086e1e8ba194f580800000000000000
+      internalID: -8794244006337943548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948
+        width: 2469
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d8f180671386730800000000000000
+      internalID: 3992495452676132164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 708
+        width: 2462
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef35e7ad63f55790800000000000000
+      internalID: -7541854348668223519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Shelf_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 2742
+        height: 571
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09b21f99391e9c70800000000000000
+      internalID: 8979642442295982347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

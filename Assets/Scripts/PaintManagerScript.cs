@@ -6,10 +6,11 @@ using UnityEngine.SceneManagement;
 
 public class PaintManagerScript : MonoBehaviour
 {
-
+   
     public Color[] colorList;
 
-    public Color currentColor;
+    private GameObject canvas; // this canvas would be instantiated on start
+    private Color currentColor;
 
     public int currentColorIndex;
 
@@ -25,16 +26,32 @@ public class PaintManagerScript : MonoBehaviour
     
     private Camera _camera;
 
+
     // Start is called before the first frame update
     void Start()
     {
+        colorList = StaticVariables.colorList;
+        for (int i = 0; i < colorList.Length; i++)
+        {
+            Debug.Log(colorList[i].ToString());
+        }
+        canvas = StaticVariables.canvas;
+
         _camera = Camera.main;
         SetPaintBrushButtons();
+        LoadPaintCanvas();
         SetBrushColor(0);
+    }
+
+    void LoadPaintCanvas()
+    {
+        Debug.Log("Called");
+        Instantiate(canvas);
     }
 
     private void SetPaintBrushButtons()
     {
+        Debug.Log("Showing Colors");
         foreach (var t in colorList)
         {
             if (t.ToString() == "RGBA(1.000, 1.000, 1.000, 1.000)")

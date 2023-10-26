@@ -8,7 +8,6 @@ public class LoadPaintScene : MonoBehaviour
     public static LoadPaintScene Instance { set; get; }
     public PaintCanvasScriptableObject canvas;
    
-    public Transform parent;
     private void Awake()
     {
         Instance = this;

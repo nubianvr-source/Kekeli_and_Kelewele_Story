@@ -2972,13 +2972,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   canvas: {fileID: 11400000, guid: 2a8b54cfdcbb44507ae35bd02348deb2, type: 2}
-  colorList:
-  - {r: 0.4245283, g: 0.25832146, b: 0.25832146, a: 0}
-  - {r: 1, g: 0, b: 0, a: 0}
-  - {r: 0.05835735, g: 0.6226415, b: 0, a: 0}
-  - {r: 0, g: 0.45089418, b: 0.62352943, a: 0}
-  - {r: 1, g: 0.8674296, b: 0, a: 0}
-  - {r: 1, g: 1, b: 1, a: 0}
   parent: {fileID: 204694137}
 --- !u!1001 &1518318831
 PrefabInstance:

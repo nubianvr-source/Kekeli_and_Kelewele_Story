@@ -38,14 +38,16 @@ public class PaintManagerScript : MonoBehaviour
         canvas = StaticVariables.canvas;
 
         _camera = Camera.main;
-        SetPaintBrushButtons();
+
+        Invoke("SetPaintBrushButtons", 5);
+        //SetPaintBrushButtons();
         LoadPaintCanvas();
         SetBrushColor(0);
     }
 
     void LoadPaintCanvas()
     {
-        Debug.Log("Called");
+        
         Instantiate(canvas);
     }
 
@@ -54,7 +56,7 @@ public class PaintManagerScript : MonoBehaviour
         Debug.Log("Showing Colors");
         foreach (var t in colorList)
         {
-            if (t.ToString() == "RGBA(1.000, 1.000, 1.000, 1.000)")
+            if (t.ToString() == "RGBA(1.000, 1.000, 1.000, 1.000)") 
             {
                 var eraser = Instantiate(Eraser, new Vector2(0, 0), quaternion.identity, paintBrushBtnPanel.transform);
                 eraser.PaintManager = this;
@@ -83,7 +85,6 @@ public class PaintManagerScript : MonoBehaviour
             paintBrushColorBtn.btnRectTransform.sizeDelta = buttonSize;
             paintBrushColorBtn.btnRectTransform.localScale = new Vector2(0.81439f, 0.81439f);  // sets the other brushes to their original size
         }
-
         LeanTween.scale(_paintBrushColorBtns[index].btnRectTransform, Vector3.one, 0.5f).setEaseOutBounce();
         //_paintBrushColorBtns[index].btnRectTransform.localScale = new Vector2(1,1);
         currentColorIndex = index;

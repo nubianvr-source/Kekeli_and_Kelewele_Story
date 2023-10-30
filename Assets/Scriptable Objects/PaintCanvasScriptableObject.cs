@@ -9,4 +9,5 @@ public class PaintCanvasScriptableObject : ScriptableObject
     public string Name;
     public GameObject paintCanvas;
     public Color[] colorList;
+    public Sprite thumbnailImage;
 }

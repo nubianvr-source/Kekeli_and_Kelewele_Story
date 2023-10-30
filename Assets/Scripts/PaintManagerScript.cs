@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class PaintManagerScript : MonoBehaviour
 {
    
-    public Color[] colorList;
+    public List<Color> colorList;
 
     private GameObject canvas; // this canvas would be instantiated on start
     private Color currentColor;
@@ -26,29 +26,42 @@ public class PaintManagerScript : MonoBehaviour
     
     private Camera _camera;
 
+    private PaintCanvasScriptableObject selectedPaintingIndex;
+
 
     // Start is called before the first frame update
     void Start()
     {
-        colorList = StaticVariables.colorList;
-        for (int i = 0; i < colorList.Length; i++)
+        //Guard to allow the scene to run without the Static Variable Instance
+        if (StaticVariables._instance)
         {
-            Debug.Log(colorList[i].ToString());
+            selectedPaintingIndex = StaticVariables._instance.selectedPaintScreen;
+            
+            colorList.Clear();
+            
+            foreach (var t in selectedPaintingIndex.colorList)
+            {
+                colorList.Add(t);
+            }
         }
-        canvas = StaticVariables.canvas;
+        
+
+        //canvas = StaticVariables.canvas;
 
         _camera = Camera.main;
 
-        Invoke("SetPaintBrushButtons", 5);
-        //SetPaintBrushButtons();
+        SetPaintBrushButtons();
+        
         LoadPaintCanvas();
+        
         SetBrushColor(0);
+       
     }
 
     void LoadPaintCanvas()
     {
         
-        Instantiate(canvas);
+        Instantiate(selectedPaintingIndex.paintCanvas);
     }
 
     private void SetPaintBrushButtons()
@@ -114,10 +127,6 @@ public class PaintManagerScript : MonoBehaviour
                     {
                         hitObject.StartRipple(hit.point, currentColor);
                     }
-                }
-                else
-                {
-                    Debug.Log("Nothing Found");
                 }
 
             }
